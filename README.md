@@ -14,5 +14,5 @@ Agriculture and urbanization growth and modelling the drivers </br>
 Spatial analysis of wildlife disturbances in agriculture. </br>
 Impact of urbanization in Eastern Terai: agri and food </br>
 KOSHI Basin: sustainability in food water ecosystem </br>
-Fusing SAR and optical data for crop/forest mapping </b>
+Fusing SAR and optical data for crop/forest mapping </br>
 Ecosystem services value (ESV) of Nepalese cities </br>
