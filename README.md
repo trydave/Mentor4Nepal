@@ -14,9 +14,9 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Understanding perception and adaptation by stakeholders in Terai </br>
 - Agriculture and urbanization growth and modelling the drivers </br>
 - Vizualizing the trasnportion inequality in Nepalese cities </br>
-- Spatial analysis of wildlife disturbances in agriculture </br>
 - Impact of urbanization in Eastern Terai: agri and food </br>
 - Fusing SAR and optical data for crop/forest mapping </br>
+- Spatial analysis of wildlife disturbances in agriculture </br>
 - KOSHI Basin: sustainability in food water ecosystem </br>
 - Water bodies and boundaries dectection with SAR </br>
 - Ecosystem services value (ESV) of Nepalese cities </br>
