@@ -7,7 +7,7 @@ A project can be an individual or a group (3 max.). Priority will be given to no
 
 Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) with a filled form (Available: https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck/edit?usp=sharing  ) for further discussion.
 
-#Research Ideas: </br>
+#Few research ideas: </br>
 - Encroachment of forest by local farmers: spatio-temporal quantification over forty years </br>
 - Socio-economic and enviromental components and their distributon in Nepalese cities </br>
 - Mapping and understanding wakability/bikability in Nepalese cities </br>
