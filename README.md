@@ -13,8 +13,8 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Mapping and understanding wakability/bikability in Nepalese cities </br>
 - Understanding perception and adaptation by stakeholders in Terai </br>
 - Agriculture and urbanization growth and modelling the drivers </br>
+- Impact of urbanization in Eastern Terai: agriculture and food </br>
 - Vizualizing the trasnportion inequality in Nepalese cities </br>
-- Impact of urbanization in Eastern Terai: agri and food </br>
 - Fusing SAR and optical data for crop/forest mapping </br>
 - Spatial analysis of wildlife disturbances in agriculture </br>
 - KOSHI Basin: sustainability in food water ecosystem </br>
