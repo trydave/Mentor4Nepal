@@ -7,3 +7,12 @@ A project can be an individual or a group (3 max.). Priority will be given to no
 
 Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) with a filled form (Available: https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck/edit?usp=sharing  ) for further discussion.
 
+#Research Ideas: </br>
+Encroachment of forest by local farmers: spatio-temporal quantification over forty years. </br>
+Understanding perception and adaptation by stakeholders in Terai </br>
+Agriculture and urbanization growth and modelling the drivers </br>
+Spatial analysis of wildlife disturbances in agriculture. </br>
+Impact of urbanization in Eastern Terai: agri and food </br>
+KOSHI Basin: sustainability in food water ecosystem </br>
+Fusing SAR and optical data for crop/forest mapping </b>
+Ecosystem services value (ESV) of Nepalese cities </br>
