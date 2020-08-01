@@ -8,7 +8,7 @@ Theme: Application of geospatial technologies and artificial intelligence (GeoAI
 
 A project can be an individual or a group (3 max.). Priority will be given to novelty, use of open access data, tools and impact to the society. Financial support can be provided for a promising project depending on the necessity and impact of the work. It is voluntary participation for your future growth especially in academia, not a funding opportunity to earn a living. The concept will be yours and you will be leading the project to a successful first-authored publication. I will simply guide you by answering your queries, linking the right resources and step-by-step process of academic research and publication.
 
-Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) with a filled form (Available: https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck/edit?usp=sharing  ) for further discussion.
+Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) with a filled form (Available: https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck/edit?usp=sharing) for further discussion.
 
 </div>
 
