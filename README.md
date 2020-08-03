@@ -28,3 +28,6 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Ecosystem services value (ESV) of Nepalese cities </br>
 - Annual foood monitoring ssytem in Terai </br>
 
+#Further mini-projet ideas:
+- https://nasaharvest.org/all-projects
+- http://earthobservations.org/geoss_wp.php 
