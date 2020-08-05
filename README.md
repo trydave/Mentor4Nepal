@@ -12,7 +12,7 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 
 </div>
 
-#Few research ideas:
+#Few mini-project ideas:
 - Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu </br>
 - Encroachment of forest/river by human activities: spatio-temporal quantification over years </br>
 - Understanding climate chaange perception and adaptation by stakeholders in Terai </br>
