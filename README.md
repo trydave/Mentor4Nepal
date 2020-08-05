@@ -28,7 +28,7 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Water bodies and boundaries dectection with SAR </br>
 - Deep/Machine Learning modeling and prediction </br>
 - Ecosystem services value (ESV) of Nepalese cities </br>
-- Annual foood monitoring ssytem in Terai </br>
+- Annual foood monitoring sytem in Terai </br>
 
 
 #Further mini-project ideas:
