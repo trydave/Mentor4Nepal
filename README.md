@@ -12,16 +12,16 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 
 </div>
 
-#Few research ideas: </br>
+#Few research ideas:
 - Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu </br>
-- Encroachment of forest by local farmers: spatio-temporal quantification over forty years </br>
-- Socio-economic and enviromental components and their distributon in Nepalese cities </br>
+- Encroachment of forest/river by human activities: spatio-temporal quantification over years </br>
+- Understanding climate chaange perception and adaptation by stakeholders in Terai </br>
+- Socio-economic/enviromental components and their distributon in Nepalese cities </br>
+- Agriculture degratation/urbanization growth and modelling their drivers </br>
+- Mapping and understanding walkability/bikeability in Nepalese cities </br>
 - Identifying open space for emergency evacuations within Kathmandu </br>
-- Mapping and understanding wakability/bikability in Nepalese cities </br>
-- Understanding perception and adaptation by stakeholders in Terai </br>
-- Agriculture and urbanization growth and modelling the drivers </br>
 - Impact of urbanization in Eastern Terai: agriculture and food </br>
-- Vizualizing the trasnportion inequality in Nepalese cities </br>
+- Vizualizing the trasnportaion inequality in Nepalese cities </br>
 - Fusing SAR and optical data for crop/forest mapping </br>
 - Spatial analysis of wildlife disturbances in agriculture </br>
 - KOSHI Basin: sustainability in food water ecosystem </br>
@@ -31,7 +31,7 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Annual foood monitoring ssytem in Terai </br>
 
 
-#Further mini-projet ideas:
+#Further mini-project ideas:
 - https://nasaharvest.org/all-projects
 - http://earthobservations.org/geoss_wp.php 
 - https://develop.larc.nasa.gov/project-archive.php
@@ -46,4 +46,3 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - https://automating-gis-processes.github.io/site/
 - https://github.com/giswqs/python-geospatial
 - https://kodu.ut.ee/~kmoch/geopython2018/
-
