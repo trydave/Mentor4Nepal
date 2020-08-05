@@ -13,8 +13,10 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 </div>
 
 #Few research ideas: </br>
+- Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu </br>
 - Encroachment of forest by local farmers: spatio-temporal quantification over forty years </br>
 - Socio-economic and enviromental components and their distributon in Nepalese cities </br>
+- Identifying open space for emergency evacuations within Kathmandu </br>
 - Mapping and understanding wakability/bikability in Nepalese cities </br>
 - Understanding perception and adaptation by stakeholders in Terai </br>
 - Agriculture and urbanization growth and modelling the drivers </br>
@@ -28,8 +30,20 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Ecosystem services value (ESV) of Nepalese cities </br>
 - Annual foood monitoring ssytem in Terai </br>
 
+
 #Further mini-projet ideas:
 - https://nasaharvest.org/all-projects
 - http://earthobservations.org/geoss_wp.php 
 - https://develop.larc.nasa.gov/project-archive.php
 - https://appliedsciences.nasa.gov/what-we-do/projects
+
+
+#Collection of Tools and Tutorials for Geospatial Studies:
+- https://github.com/robmarkcole/satellite-image-deep-learning
+- http://www.data-analysis-in-python.org/index.html
+- https://www.kaggle.com/learn/geospatial-analysis
+- https://github.com/sacridini/Awesome-Geospatial 
+- https://automating-gis-processes.github.io/site/
+- https://github.com/giswqs/python-geospatial
+- https://kodu.ut.ee/~kmoch/geopython2018/
+
