@@ -26,9 +26,9 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Spatial analysis of wildlife disturbances in agriculture </br>
 - KOSHI Basin: sustainability in food water ecosystem </br>
 - Water bodies and boundaries dectection with SAR </br>
-- Deep/Machine Learning modeling and prediction </br>
+- Deep/Machine Learning modelling and prediction </br>
 - Ecosystem services value (ESV) of Nepalese cities </br>
-- Annual foood monitoring sytem in Terai </br>
+- Annual flood/drought monitoring in Terai </br>
 
 
 #Further mini-project ideas:
