@@ -45,7 +45,6 @@ R-based </br>
 Python-based </br>
 - https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition </br>
 
-</br>
 General </br>
 - Spatial Analysis Methods and Practice https://doi.org/10.1017/9781108614528 </br>
 
