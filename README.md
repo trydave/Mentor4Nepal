@@ -13,31 +13,46 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 </div>
 
 #Few mini-project ideas:
-- Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu </br>
-- Encroachment of forest/river by human activities: spatio-temporal quantification over years </br>
-- Understanding climate chaange perception and adaptation by stakeholders in Terai </br>
-- Socio-economic/enviromental components and their distributon in Nepalese cities </br>
-- Agriculture degratation/urbanization growth and modelling their drivers </br>
-- Mapping and understanding walkability/bikeability in Nepalese cities </br>
-- Identifying open space for emergency evacuations within Kathmandu </br>
-- Impact of urbanization in Eastern Terai: agriculture and food </br>
-- Vizualizing the trasnportaion inequality in Nepalese cities </br>
-- Fusing SAR and optical data for crop/forest mapping </br>
-- Spatial analysis of wildlife disturbances in agriculture </br>
-- KOSHI Basin: sustainability in food water ecosystem </br>
-- Water bodies and boundaries dectection with SAR </br>
-- Deep/Machine Learning modelling and prediction </br>
-- Ecosystem services value (ESV) of Nepalese cities </br>
-- Annual flood/drought monitoring in Terai </br>
+- Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu
+- Encroachment of forest/river by human activities: spatio-temporal quantification over years
+- Understanding climate chaange perception and adaptation by stakeholders in Terai
+- Socio-economic/enviromental components and their distributon in Nepalese cities
+- Agriculture degratation/urbanization growth and modelling their drivers
+- Mapping and understanding walkability/bikeability in Nepalese cities
+- Identifying open space for emergency evacuations within Kathmandu
+- Impact of urbanization in Eastern Terai: agriculture and food
+- Vizualizing the trasnportaion inequality in Nepalese cities
+- Spatial analysis of wildlife disturbances in agriculture
+- Identifying inundated agricultural areas during monsoon
+- Fusing SAR and optical data for crop/forest mapping
+- River Basin: Sustainability in food water ecosystem
+- Water bodies and boundaries dectection with SAR
+- Deep/Machine Learning modelling and prediction
+- Ecosystem services value (ESV) of Nepalese cities
+- Annual flood/drought monitoring in Terai
 
-
+</br>
 #Further mini-project ideas:
 - https://nasaharvest.org/all-projects
 - http://earthobservations.org/geoss_wp.php 
 - https://develop.larc.nasa.gov/project-archive.php
 - https://appliedsciences.nasa.gov/what-we-do/projects
 
+#Collection of Ebooks:
+</br>
+R-based
+- Geospatial Health https://www.paulamoraga.com/book-geospatial/
+- Geocomputation with R https://geocompr.robinlovelace.net/
 
+</br>
+Python-based
+- https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition
+
+</br>
+General
+- Spatial Analysis Methods and Practice https://doi.org/10.1017/9781108614528
+
+</br>
 #Collection of Tools and Tutorials for Geospatial Studies:
 - https://github.com/robmarkcole/satellite-image-deep-learning
 - http://www.data-analysis-in-python.org/index.html
