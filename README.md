@@ -2,7 +2,7 @@
 
 <div align="justify"> 
 
-#Mentor4Nepal Initiative is for recent graduates and early career professionals focusing on the enhancement of one’s skill set, support for a research project, and a collaborative publication. Various sector such as #engineering, #environmentalscience, #forestry, #agriculture, #publichealth, #management and #informationtechnology can take advantage of both #geospatial and artificial technologies (GeoAI).Geospatial technology associates any problem with coordinates and gives us a better picture of how things are located, related and changing. #GeoAI is utilizing AI for intelligent geographic information such as image classification, object detection, scene segmentation, simulation and interpolation, link prediction, (natural language-based) retrieval and question answering, on-the-fly data integration, geo-enrichment, and many others (https://doi.org/10.1080/13658816.2019.1684500). Thus, an application can be broad and can be utilized to answer any research gap that you feel in our society. The concept can be small and viable considering the current pandemic situation.
+#Mentor4Nepal Initiative is for recent graduates and early career professionals focusing on the enhancement of one’s skill set, support for a research project, and a collaborative publication. Various sector such as #engineering, #environmentalscience, #forestry, #agriculture, #publichealth, #management and #informationtechnology can take advantage of both #geospatial and artificial technologies (GeoAI).Geospatial technology associates any problem with coordinates and gives us a better picture of how things are located, related and changing. #GeoAI is utilizing AI for intelligent geographic information such as image classification, object detection, scene segmentation, simulation and interpolation, link prediction, (natural language-based) retrieval and question answering, on-the-fly data integration, geo-enrichment, and many others (https://doi.org/10.1080/13658816.2019.1684500). Thus, an application can be broad and can be utilized to answer any research gap that you feel in our society and supports UN's SDGs (https://doi.org/10.18494/SAM.2019.2706). The concept can be small and viable considering the current pandemic situation.
 
 Theme: Application of geospatial technologies and artificial intelligence (GeoAI). The field is not limited and the project can be object detection such as land cover and features, supporting sustainable development goals in the land, water, forest, crop and energy dynamics, linking people’s perception, activities, government action/policy to climate change etc.
 
@@ -22,9 +22,9 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Identifying open space for emergency evacuations within Kathmandu
 - Impact of urbanization in Eastern Terai: agriculture and food
 - Vizualizing the trasnportaion inequality in Nepalese cities
-- Spatial analysis of wildlife disturbances in agriculture
 - Identifying inundated agricultural areas during monsoon
 - Fusing SAR and optical data for crop/forest mapping
+- Spatial analysis of wildlife disturbances in agriculture
 - River Basin: Sustainability in food water ecosystem
 - Water bodies and boundaries dectection with SAR
 - Deep/Machine Learning modelling and prediction
