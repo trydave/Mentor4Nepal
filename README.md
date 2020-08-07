@@ -48,6 +48,7 @@ Python-based </br>
 General </br>
 - Spatial Analysis Methods and Practice https://doi.org/10.1017/9781108614528 </br>
 
+ </br>
 #Collection of Tools and Tutorials for Geospatial Studies: </br>
 - https://github.com/robmarkcole/satellite-image-deep-learning </br>
 - http://www.data-analysis-in-python.org/index.html </br>
