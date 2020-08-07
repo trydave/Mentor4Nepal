@@ -40,20 +40,20 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 
 #Collection of Ebooks:
 </br>
-R-based
+R-based </br>
 - Geospatial Health https://www.paulamoraga.com/book-geospatial/
 - Geocomputation with R https://geocompr.robinlovelace.net/
 
 </br>
-Python-based
+Python-based </br>
 - https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition
 
 </br>
-General
+General </br>
 - Spatial Analysis Methods and Practice https://doi.org/10.1017/9781108614528
 
 </br>
-#Collection of Tools and Tutorials for Geospatial Studies:
+#Collection of Tools and Tutorials for Geospatial Studies: </br>
 - https://github.com/robmarkcole/satellite-image-deep-learning
 - http://www.data-analysis-in-python.org/index.html
 - https://www.kaggle.com/learn/geospatial-analysis
