@@ -31,33 +31,29 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Ecosystem services value (ESV) of Nepalese cities
 - Annual flood/drought monitoring in Terai
 
-</br>
-#Further mini-project ideas:
-- https://nasaharvest.org/all-projects
-- http://earthobservations.org/geoss_wp.php 
-- https://develop.larc.nasa.gov/project-archive.php
-- https://appliedsciences.nasa.gov/what-we-do/projects
+#Further mini-project ideas: </br>
+- https://nasaharvest.org/all-projects </br>
+- http://earthobservations.org/geoss_wp.php </br>
+- https://develop.larc.nasa.gov/project-archive.php </br>
+- https://appliedsciences.nasa.gov/what-we-do/projects </br>
 
-#Collection of Ebooks:
-</br>
+#Collection of Ebooks: </br>
 R-based </br>
-- Geospatial Health https://www.paulamoraga.com/book-geospatial/
-- Geocomputation with R https://geocompr.robinlovelace.net/
+- Geospatial Health https://www.paulamoraga.com/book-geospatial/ </br>
+- Geocomputation with R https://geocompr.robinlovelace.net/ </br>
 
-</br>
 Python-based </br>
-- https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition
+- https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition </br>
 
 </br>
 General </br>
-- Spatial Analysis Methods and Practice https://doi.org/10.1017/9781108614528
+- Spatial Analysis Methods and Practice https://doi.org/10.1017/9781108614528 </br>
 
-</br>
 #Collection of Tools and Tutorials for Geospatial Studies: </br>
-- https://github.com/robmarkcole/satellite-image-deep-learning
-- http://www.data-analysis-in-python.org/index.html
-- https://www.kaggle.com/learn/geospatial-analysis
-- https://github.com/sacridini/Awesome-Geospatial 
-- https://automating-gis-processes.github.io/site/
-- https://github.com/giswqs/python-geospatial
-- https://kodu.ut.ee/~kmoch/geopython2018/
+- https://github.com/robmarkcole/satellite-image-deep-learning </br>
+- http://www.data-analysis-in-python.org/index.html </br>
+- https://www.kaggle.com/learn/geospatial-analysis </br>
+- https://github.com/sacridini/Awesome-Geospatial </br>
+- https://automating-gis-processes.github.io/site/ </br>
+- https://github.com/giswqs/python-geospatial </br>
+- https://kodu.ut.ee/~kmoch/geopython2018/ </br>
