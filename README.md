@@ -23,6 +23,7 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Impact of urbanization in Eastern Terai: agriculture and food
 - Identifying inundated agricultural areas during monsoon
 - Visualizing the transportation inequality in Nepalese cities
+- Spatio‐temporal variability of climatic indicators in Nepal
 - Assessment of past flood changes across Terai / Basin
 - Fusing SAR and optical data for crop/forest mapping
 - Spatial analysis of wildlife disturbances in agriculture
@@ -58,3 +59,13 @@ General </br>
 - https://automating-gis-processes.github.io/site/ </br>
 - https://github.com/giswqs/python-geospatial </br>
 - https://kodu.ut.ee/~kmoch/geopython2018/ </br>
+
+</br>
+#Predatory Journals: MUST Avoid Reading and Publishing </br>
+- https://predatoryjournals.com/journals/
+- https://beallslist.net/
+
+</br>
+List of research journals: </br>
+- Web of Science Journals: https://drive.google.com/drive/folders/1NoMJeiYZBnoFhDSvwmwZiiqlITMNOOZc?usp=sharing
+- Scopus: https://www.scimagojr.com/journalrank.php
