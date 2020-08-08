@@ -15,18 +15,19 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 #Few mini-project ideas:
 - Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu
 - Encroachment of forest/river by human activities: spatio-temporal quantification over years
-- Understanding climate chaange perception and adaptation by stakeholders in Terai
-- Socio-economic/enviromental components and their distributon in Nepalese cities
-- Agriculture degratation/urbanization growth and modelling their drivers
+- Understanding climate change perception and adaptation by stakeholders in Terai
+- Socio-economic/environmental components and their distribution in Nepalese cities
+- Agriculture degradation/urbanization growth and modelling their drivers
 - Mapping and understanding walkability/bikeability in Nepalese cities
 - Identifying open space for emergency evacuations within Kathmandu
 - Impact of urbanization in Eastern Terai: agriculture and food
-- Vizualizing the trasnportaion inequality in Nepalese cities
+- Visualizing the transportation inequality in Nepalese cities
 - Identifying inundated agricultural areas during monsoon
+- Assessment of past flood changes across Terai / Basin
 - Fusing SAR and optical data for crop/forest mapping
 - Spatial analysis of wildlife disturbances in agriculture
 - River Basin: Sustainability in food water ecosystem
-- Water bodies and boundaries dectection with SAR
+- Water bodies and boundaries detection with SAR
 - Deep/Machine Learning modelling and prediction
 - Ecosystem services value (ESV) of Nepalese cities
 - Annual flood/drought monitoring in Terai
