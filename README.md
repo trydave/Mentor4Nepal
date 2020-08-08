@@ -21,8 +21,8 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Mapping and understanding walkability/bikeability in Nepalese cities
 - Identifying open space for emergency evacuations within Kathmandu
 - Impact of urbanization in Eastern Terai: agriculture and food
-- Visualizing the transportation inequality in Nepalese cities
 - Identifying inundated agricultural areas during monsoon
+- Visualizing the transportation inequality in Nepalese cities
 - Assessment of past flood changes across Terai / Basin
 - Fusing SAR and optical data for crop/forest mapping
 - Spatial analysis of wildlife disturbances in agriculture
