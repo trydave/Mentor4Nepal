@@ -18,8 +18,8 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Understanding climate change perception and adaptation by stakeholders in Terai
 - Socio-economic/environmental components and their distribution in Nepalese cities
 - Agriculture degradation/urbanization growth and modelling their drivers
-- Mapping and understanding walkability/bikeability in Nepalese cities
 - Identifying open space for emergency evacuations within Kathmandu
+- Mapping and understanding walkability/bikeability in Nepalese cities
 - Impact of urbanization in Eastern Terai: agriculture and food
 - Identifying inundated agricultural areas during monsoon
 - Visualizing the transportation inequality in Nepalese cities
