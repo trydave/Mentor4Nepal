@@ -62,10 +62,10 @@ General </br>
 
 </br>
 #Predatory Journals: MUST Avoid Reading and Publishing </br>
-- https://predatoryjournals.com/journals/
-- https://beallslist.net/
+- https://predatoryjournals.com/journals/ </br>
+- https://beallslist.net/ </br>
 
 </br>
 List of research journals: </br>
-- Web of Science Journals: https://drive.google.com/drive/folders/1NoMJeiYZBnoFhDSvwmwZiiqlITMNOOZc?usp=sharing
-- Scopus: https://www.scimagojr.com/journalrank.php
+- Web of Science Journals: https://drive.google.com/drive/folders/1NoMJeiYZBnoFhDSvwmwZiiqlITMNOOZc?usp=sharing </br>
+- Scopus: https://www.scimagojr.com/journalrank.php </br>
