@@ -15,8 +15,8 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 #Few mini-project ideas:
 - Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu
 - Encroachment of forest/river by human activities: spatio-temporal quantification over years
-- Understanding climate change perception and adaptation by stakeholders in Terai
 - Socio-economic/environmental components and their distribution in Nepalese cities
+- Understanding climate change perception and adaptation by stakeholders in Terai
 - Agriculture degradation/urbanization growth and modelling their drivers
 - Identifying open space for emergency evacuations within Kathmandu
 - Mapping and understanding walkability/bikeability in Nepalese cities
