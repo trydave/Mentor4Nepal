@@ -33,8 +33,8 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Ecosystem services value (ESV) of Nepalese cities
 - Visualizing the transportation inequality in Nepalese cities
 - Mobility justice/inequality in Kathmandu or major cities of Nepal
-- Analyzing pedestrian/cycling infrastructure along the Nepalale Roads
 - Mapping and understanding walkability/bikeability in Nepalese cities
+- Analyzing pedestrian/cycling infrastructure along the Nepalese Roads
 
 #Further mini-project ideas: </br>
 - https://nasaharvest.org/all-projects </br>
