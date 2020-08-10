@@ -35,6 +35,8 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Mobility justice/inequality in Kathmandu or major cities of Nepal
 - Mapping and understanding walkability/bikeability in Nepalese cities
 - Analyzing pedestrian/cycling infrastructure along the Nepalese Roads
+- Satellite based characterization of urban land dynamics such as urban greenness score
+- Relating crowdsourced landscape perceptions to landscape physical characteristics in Nepalese cities
 
 #Further mini-project ideas: </br>
 - https://nasaharvest.org/all-projects </br>
