@@ -19,10 +19,8 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - Understanding climate change perception and adaptation by stakeholders in Terai
 - Agriculture degradation/urbanization growth and modelling their drivers
 - Identifying open space for emergency evacuations within Kathmandu
-- Mapping and understanding walkability/bikeability in Nepalese cities
 - Impact of urbanization in Eastern Terai: agriculture and food
 - Identifying inundated agricultural areas during monsoon
-- Visualizing the transportation inequality in Nepalese cities
 - Spatio‐temporal variability of climatic indicators in Nepal
 - Assessment of past flood changes across Terai / Basin
 - Fusing SAR and optical data for crop/forest mapping
@@ -30,8 +28,13 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 - River Basin: Sustainability in food water ecosystem
 - Water bodies and boundaries detection with SAR
 - Deep/Machine Learning modelling and prediction
-- Ecosystem services value (ESV) of Nepalese cities
 - Annual flood/drought monitoring in Terai
+
+- Ecosystem services value (ESV) of Nepalese cities
+- Visualizing the transportation inequality in Nepalese cities
+- Mobility justice/inequality in Kathmandu or major cities of Nepal
+- Analyzing pedestrian/cycling infrastructure along the Nepalale Roads
+- Mapping and understanding walkability/bikeability in Nepalese cities
 
 #Further mini-project ideas: </br>
 - https://nasaharvest.org/all-projects </br>
