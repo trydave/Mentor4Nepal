@@ -48,6 +48,7 @@ Interested candidates can contact me (Email: tridevacharya[at]kangwon.ac.kr) wit
 R-based </br>
 - Geospatial Health https://www.paulamoraga.com/book-geospatial/ </br>
 - Geocomputation with R https://geocompr.robinlovelace.net/ </br>
+- Using Spatial Data with R https://cengel.github.io/R-spatial/ </br>
 
 Python-based </br>
 - https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition </br>
