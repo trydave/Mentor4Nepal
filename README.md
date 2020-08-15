@@ -76,3 +76,13 @@ General </br>
 List of research journals: </br>
 - Web of Science Journals: https://drive.google.com/drive/folders/1NoMJeiYZBnoFhDSvwmwZiiqlITMNOOZc?usp=sharing </br>
 - Scopus: https://www.scimagojr.com/journalrank.php </br>
+
+</br>
+#Components of Sucessful Manuscript: </br>
+- https://conductscience.com/portfolio/imrad-the-key-to-scientific-publishing-success/  </br>
+- https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html  </br>
+- https://ceprofs.civil.tamu.edu/ssocolofsky/downloads/paper_how-to.pdf  </br>
+- http://tech.snmjournals.org/content/34/1/53.full </br>
+- https://doi.org/10.1177%2F2158244014548178 </br>
+- https://doi.org/10.4103/0975-1483.66788 </br>
+
