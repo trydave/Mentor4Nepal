@@ -85,4 +85,5 @@ List of research journals: </br>
 - http://tech.snmjournals.org/content/34/1/53.full </br>
 - https://doi.org/10.1177%2F2158244014548178 </br>
 - https://doi.org/10.4103/0975-1483.66788 </br>
-
+- https://doi.org/10.1016/j.soilbio.2020.107823 </br>
+- https://www.elsevier.com/connect/8-reasons-i-rejected-your-article </br>
