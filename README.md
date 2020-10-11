@@ -8,9 +8,16 @@ Theme: Application of geospatial technologies and artificial intelligence (GeoAI
 
 A project can be an individual or a group (3 max.). Priority will be given to novelty, use of open access data, tools and impact to the society. Financial support can be provided for a promising project depending on the necessity and impact of the work. It is voluntary participation for your future growth especially in academia, not a funding opportunity to earn a living. The concept will be yours and you will be leading the project to a successful first-authored publication. I will simply guide you by answering your queries, linking the right resources and step-by-step process of academic research and publication.
 
-Interested candidates can contact me (Email: tridevacharya[at]gmail.com) with a filled form (Available: https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck/edit?usp=sharing) for further discussion.
+Interested candidates can email me at tridevacharya[at]gmail.com with their queries. To initiate any collaboration one can follow the following instructions for their desired mini-project.
+- Install Google Drive in your Laptop/Computer. https://dl.google.com/tag/s/appguid%3D%7B3C122445-AECE-4309-90B7-85A6AEF42AC0%7D%26iid%3D%7B9648D435-67BA-D2A7-54D2-1E0B5656BF03%7D%26ap%3Duploader%26appname%3DBackup%2520and%2520Sync%26needsadmin%3Dtrue/drive/installbackupandsync.exe  
+- Go to https://drive.google.com/ and create a folder name: Mentor4Nepal_FirstNameLastNameInitial_TDA. eg. Mentor4Nepal_TriDevA_TDA.
+- Select that folder and you will see a human and plus symbol, add there my email address: tridevacharya@gmail[dot]com. Now, this folder is shared with me and I can also edit everything.
+- Add MiniProject_applicaiton (https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck) here.
+- I will add a few files and folders later, then we will work together on them as the next step.
+
 
 </div>
+
 
 #Few mini-project ideas:
 - Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu
@@ -49,7 +56,9 @@ R-based </br>
 - Geospatial Health https://www.paulamoraga.com/book-geospatial/ </br>
 - Geocomputation with R https://geocompr.robinlovelace.net/ </br>
 - Using Spatial Data with R https://cengel.github.io/R-spatial/ </br>
-- Efficient R programming https://csgillespie.github.io/efficientR/ 
+- Efficient R programming https://csgillespie.github.io/efficientR/ </br>
+- ggplot2: Elegant Graphics for Data Analysis https://ggplot2-book.org/ </br>
+- Case Studies in Reproducible Research: a spring seminar at UCSC https://eriqande.github.io/rep-res-eeb-2017/ </br>
 
 Python-based </br>
 - https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition </br>
