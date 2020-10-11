@@ -1,6 +1,13 @@
 # Mentor4Nepal
 
-<div align="justify"> 
+<div align="justify">
+
+<a href="https://twitter.com/search?q=%23Mentor4Nepal">
+  <img align="left" alt="TDA's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/feed/hashtag/mentor4nepal/">
+  <img align="left" alt="TDA's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 #Mentor4Nepal Initiative is for recent graduates and early career professionals focusing on the enhancement of one’s skill set, support for a research project, and a collaborative publication. Various sector such as #engineering, #environmentalscience, #forestry, #agriculture, #publichealth, #management and #informationtechnology can take advantage of both #geospatial and artificial technologies (GeoAI).Geospatial technology associates any problem with coordinates and gives us a better picture of how things are located, related and changing. #GeoAI is utilizing AI for intelligent geographic information such as image classification, object detection, scene segmentation, simulation and interpolation, link prediction, (natural language-based) retrieval and question answering, on-the-fly data integration, geo-enrichment, and many others (https://doi.org/10.1080/13658816.2019.1684500). Thus, an application can be broad and can be utilized to answer any research gap that you feel in our society and supports the UN's SDGs (https://doi.org/10.18494/SAM.2019.2706). The concept can be small and viable considering one's situation.
 
@@ -15,9 +22,7 @@ Interested candidates can email me at tridevacharya[at]gmail.com with their quer
 - Add MiniProject_applicaiton (https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck) here.
 - I will add a few files and folders later, then we will work together on them as the next step.
 
-
 </div>
-
 
 #Few mini-project ideas:
 - Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu
