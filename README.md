@@ -81,7 +81,7 @@ Collection of Tools and Tutorials for Geospatial Studies: </br>
 - https://kodu.ut.ee/~kmoch/geopython2018/ </br>
 
 </br>
-#Predatory Journals: MUST Avoid Reading and Publishing </br>
+Predatory Journals: MUST Avoid Reading and Publishing </br>
 - https://predatoryjournals.com/journals/ </br>
 - https://beallslist.net/ </br>
 
@@ -102,7 +102,6 @@ Components of Sucessful Manuscript: </br>
 - https://www.elsevier.com/connect/8-reasons-i-rejected-your-article </br>
 
 <br/>
-Connect with me @ 
 <a href="https://scholar.google.com/citations?user=uaQfhkgAAAAJ&hl=en">
   <img align="left" alt="TDA's Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
@@ -118,5 +117,4 @@ Connect with me @
 <a href="https://twitter.com/dev_333">
   <img align="left" alt="TDA's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<br/>
-
+<br/> Muntiple ways to connect with me !!!
