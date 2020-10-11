@@ -23,7 +23,7 @@ Interested candidates can email me at tridevacharya[at]gmail.com with their quer
 
 </div>
 
-#Few mini-project ideas:
+Few mini-project ideas:
 - Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu
 - Encroachment of forest/river by human activities: spatio-temporal quantification over years
 - Socio-economic/environmental components and their distribution in Nepalese cities
@@ -49,13 +49,13 @@ Interested candidates can email me at tridevacharya[at]gmail.com with their quer
 - Satellite based characterization of urban land dynamics such as urban greenness score
 - Relating crowdsourced landscape perceptions to landscape physical characteristics in Nepalese cities
 
-#Further mini-project ideas: </br>
+Further mini-project ideas: </br>
 - https://nasaharvest.org/all-projects </br>
 - http://earthobservations.org/geoss_wp.php </br>
 - https://develop.larc.nasa.gov/project-archive.php </br>
 - https://appliedsciences.nasa.gov/what-we-do/projects </br>
 
-#Collection of Ebooks: </br>
+Collection of Ebooks: </br>
 R-based </br>
 - Geospatial Health https://www.paulamoraga.com/book-geospatial/ </br>
 - Geocomputation with R https://geocompr.robinlovelace.net/ </br>
@@ -71,7 +71,7 @@ General </br>
 - Spatial Analysis Methods and Practice https://doi.org/10.1017/9781108614528 </br>
 
  </br>
-#Collection of Tools and Tutorials for Geospatial Studies: </br>
+Collection of Tools and Tutorials for Geospatial Studies: </br>
 - https://github.com/robmarkcole/satellite-image-deep-learning </br>
 - http://www.data-analysis-in-python.org/index.html </br>
 - https://www.kaggle.com/learn/geospatial-analysis </br>
@@ -91,7 +91,7 @@ List of research journals: </br>
 - Scopus: https://www.scimagojr.com/journalrank.php </br>
 
 </br>
-#Components of Sucessful Manuscript: </br>
+Components of Sucessful Manuscript: </br>
 - https://conductscience.com/portfolio/imrad-the-key-to-scientific-publishing-success/  </br>
 - https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html  </br>
 - https://ceprofs.civil.tamu.edu/ssocolofsky/downloads/paper_how-to.pdf  </br>
@@ -102,7 +102,7 @@ List of research journals: </br>
 - https://www.elsevier.com/connect/8-reasons-i-rejected-your-article </br>
 
 <br/>
-
+Connect with me @ 
 <a href="https://scholar.google.com/citations?user=uaQfhkgAAAAJ&hl=en">
   <img align="left" alt="TDA's Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
