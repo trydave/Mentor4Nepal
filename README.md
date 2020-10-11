@@ -84,6 +84,7 @@ Collection of Tools and Tutorials for Geospatial Studies: </br>
 Predatory Journals: MUST Avoid Reading and Publishing </br>
 - https://predatoryjournals.com/journals/ </br>
 - https://beallslist.net/ </br>
+- If you read any journal article, try to follow the summary table: https://docs.google.com/document/d/1v53d3DzZewu-AitJvIM-0cq2yNoLgjORutS4aj7UJ6s </br>
 
 </br>
 List of research journals: </br>
