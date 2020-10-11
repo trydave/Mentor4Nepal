@@ -101,6 +101,7 @@ Components of Sucessful Manuscript: </br>
 - https://doi.org/10.1016/j.soilbio.2020.107823 </br>
 - https://www.elsevier.com/connect/8-reasons-i-rejected-your-article </br>
 
+Get connected with me !!!
 <br/>
 <a href="https://scholar.google.com/citations?user=uaQfhkgAAAAJ&hl=en">
   <img align="left" alt="TDA's Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
@@ -117,4 +118,4 @@ Components of Sucessful Manuscript: </br>
 <a href="https://twitter.com/dev_333">
   <img align="left" alt="TDA's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<br/> Muntiple ways to connect with me !!!
+<br/>
