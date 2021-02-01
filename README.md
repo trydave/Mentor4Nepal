@@ -100,7 +100,7 @@ Components of Sucessful Manuscript: </br>
 - https://www.elsevier.com/connect/8-reasons-i-rejected-your-article </br>
 
 Other Resources: </br>
-- Nature's guide for mentorshttps: https://doi.org/10.1038/447791a  </br>
+- Nature's guide for mentors https://doi.org/10.1038/447791a  </br>
 - Mentoring and networking: how to make it work https://doi.org/10.1038/ni0108-3   </br>
 - @OpenAcademics Resources https://www.oacommunity.org/resources </br>
 - @WriteThatPhD Media Resources https://twitter.com/WriteThatPhD/media </br>
