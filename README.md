@@ -40,7 +40,6 @@ Few mini-project ideas:
 - Water bodies and boundaries detection with SAR
 - Deep/Machine Learning modelling and prediction
 - Annual flood/drought monitoring in Terai
-
 - Ecosystem services value (ESV) of Nepalese cities
 - Visualizing the transportation inequality in Nepalese cities
 - Mobility justice/inequality in Kathmandu or major cities of Nepal
@@ -54,6 +53,7 @@ Further mini-project ideas: </br>
 - http://earthobservations.org/geoss_wp.php </br>
 - https://develop.larc.nasa.gov/project-archive.php </br>
 - https://appliedsciences.nasa.gov/what-we-do/projects </br>
+- https://lcluc.umd.edu/content/documents-and-publications </br>
 
 Collection of Ebooks: </br>
 R-based </br>
