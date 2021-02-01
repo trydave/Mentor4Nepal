@@ -1,4 +1,4 @@
-# Mentor4Nepal
+# Mentor4Nepal Initiative
 
 <div align="justify">
 <a href="https://twitter.com/search?q=%23Mentor4Nepal">
@@ -71,7 +71,6 @@ General </br>
 - Spatial Analysis Methods and Practice https://doi.org/10.1017/9781108614528 </br>
 - The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation https://gis1.servirglobal.net/TrainingMaterials/SAR/SARHB_FullRes.pdf </br>
 
- </br>
 Collection of Tools and Tutorials for Geospatial Studies: </br>
 - https://github.com/robmarkcole/satellite-image-deep-learning </br>
 - http://www.data-analysis-in-python.org/index.html </br>
@@ -81,18 +80,15 @@ Collection of Tools and Tutorials for Geospatial Studies: </br>
 - https://github.com/giswqs/python-geospatial </br>
 - https://kodu.ut.ee/~kmoch/geopython2018/ </br>
 
-</br>
 Predatory Journals: MUST Avoid Reading and Publishing </br>
 - https://predatoryjournals.com/journals/ </br>
 - https://beallslist.net/ </br>
 - If you read any journal article, try to follow the summary table: https://docs.google.com/document/d/1v53d3DzZewu-AitJvIM-0cq2yNoLgjORutS4aj7UJ6s </br>
 
-</br>
 List of research journals: </br>
 - Web of Science Journals: https://drive.google.com/drive/folders/1NoMJeiYZBnoFhDSvwmwZiiqlITMNOOZc?usp=sharing </br>
 - Scopus: https://www.scimagojr.com/journalrank.php </br>
 
-</br>
 Components of Sucessful Manuscript: </br>
 - https://conductscience.com/portfolio/imrad-the-key-to-scientific-publishing-success/  </br>
 - https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html  </br>
@@ -102,6 +98,12 @@ Components of Sucessful Manuscript: </br>
 - https://doi.org/10.4103/0975-1483.66788 </br>
 - https://doi.org/10.1016/j.soilbio.2020.107823 </br>
 - https://www.elsevier.com/connect/8-reasons-i-rejected-your-article </br>
+
+Other Resources: </br>
+- Nature's guide for mentorshttps: https://doi.org/10.1038/447791a  </br>
+- Mentoring and networking: how to make it work https://doi.org/10.1038/ni0108-3   </br>
+- @OpenAcademics Resources https://www.oacommunity.org/resources </br>
+- @WriteThatPhD Media Resources https://twitter.com/WriteThatPhD/media </br>
 
 </br>
 Get connected with me !!!
