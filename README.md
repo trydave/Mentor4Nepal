@@ -104,6 +104,7 @@ Other Resources: </br>
 - Mentoring and networking: how to make it work https://doi.org/10.1038/ni0108-3   </br>
 - @OpenAcademics Resources https://www.oacommunity.org/resources </br>
 - @WriteThatPhD Media Resources https://twitter.com/WriteThatPhD/media </br>
+- MIT COMM LAB Article https://mitcommlab.mit.edu/cee/commkit/journal-article/ </br>
 
 </br>
 Get connected with me !!!
