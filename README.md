@@ -90,6 +90,7 @@ List of research journals: </br>
 - Scopus: https://www.scimagojr.com/journalrank.php </br>
 
 Components of Sucessful Manuscript: </br>
+- https://mitcommlab.mit.edu/cee/commkit/journal-article/ </br>
 - https://conductscience.com/portfolio/imrad-the-key-to-scientific-publishing-success/  </br>
 - https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html  </br>
 - https://ceprofs.civil.tamu.edu/ssocolofsky/downloads/paper_how-to.pdf  </br>
@@ -104,7 +105,8 @@ Other Resources: </br>
 - Mentoring and networking: how to make it work https://doi.org/10.1038/ni0108-3   </br>
 - @OpenAcademics Resources https://www.oacommunity.org/resources </br>
 - @WriteThatPhD Media Resources https://twitter.com/WriteThatPhD/media </br>
-- MIT COMM LAB Article https://mitcommlab.mit.edu/cee/commkit/journal-article/ </br>
+- MIT COMM LAB CEE https://mitcommlab.mit.edu/cee/use-the-commkit/ </br>
+
 
 </br>
 Get connected with me !!!
