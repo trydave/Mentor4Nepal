@@ -71,8 +71,8 @@ Few mini-project ideas:
 - Ecosystem services value (ESV) of Nepalese cities
 - Visualizing the transportation inequality in Nepalese cities
 - Mobility justice/inequality in Kathmandu or major cities of Nepal
-- Mapping and understanding walkability/bikeability in Nepalese cities
 - Analyzing pedestrian/cycling infrastructure along the Nepalese Roads
+- Mapping and understanding walkability/bikeability in the Nepalese cities
 - Annual flood/drought monitoring in Terai using multispectral or SAR imagery
 - Satellite based characterization of urban land dynamics such as urban greenness score
 - Relating crowdsourced landscape perceptions to landscape physical characteristics in Nepalese cities
