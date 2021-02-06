@@ -23,6 +23,36 @@ Interested candidates can email me at tridevacharya[at]gmail.com with their quer
 
 </div>
 
+Understanding Journals: MUST Avoid Reading and Publishing Predatory Journals </br>
+- https://predatoryjournals.com/journals/ </br>
+- https://beallslist.net/ </br>
+- If you read any journal article, try to follow the summary table: https://docs.google.com/document/d/1v53d3DzZewu-AitJvIM-0cq2yNoLgjORutS4aj7UJ6s </br>
+
+List of core research journals: </br>
+- Web of Science Journals: https://drive.google.com/drive/folders/1NoMJeiYZBnoFhDSvwmwZiiqlITMNOOZc?usp=sharing </br>
+- Scopus: https://www.scimagojr.com/journalrank.php </br>
+
+Building Foundation: Doing Systemic Review: </br>
+- https://doi.org/10.1136/bmj.b2700 </br>
+- https://doi.org/10.1186/s41182-019-0165-6 </br>
+- https://doi.org/10.1146/annurev-psych-010418-102803 </br>
+- https://journals.sagepub.com/doi/pdf/10.1177/014107680309600304 </br>
+- https://www.lib.uwo.ca/tutorials/how_to_perform_a_systematic_review/index.html </br>
+- https://guides.dml.georgetown.edu/systematicreviews </br>
+- https://lib.guides.umd.edu/SR/steps </br>
+
+Components of Sucessful Manuscript: </br>
+- https://mitcommlab.mit.edu/broad/commkit/general-tips/ </br>
+- https://mitcommlab.mit.edu/cee/commkit/journal-article/ </br>
+- https://conductscience.com/portfolio/imrad-the-key-to-scientific-publishing-success/  </br>
+- https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html  </br>
+- https://ceprofs.civil.tamu.edu/ssocolofsky/downloads/paper_how-to.pdf  </br>
+- http://tech.snmjournals.org/content/34/1/53.full </br>
+- https://doi.org/10.1177%2F2158244014548178 </br>
+- https://doi.org/10.4103/0975-1483.66788 </br>
+- https://doi.org/10.1016/j.soilbio.2020.107823 </br>
+- https://www.elsevier.com/connect/8-reasons-i-rejected-your-article </br>
+
 Few mini-project ideas:
 - Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu
 - Encroachment of forest/river by human activities: spatio-temporal quantification over years
@@ -79,36 +109,6 @@ Collection of Tools and Tutorials for Geospatial Studies: </br>
 - https://automating-gis-processes.github.io/site/ </br>
 - https://github.com/giswqs/python-geospatial </br>
 - https://kodu.ut.ee/~kmoch/geopython2018/ </br>
-
-Predatory Journals: MUST Avoid Reading and Publishing </br>
-- https://predatoryjournals.com/journals/ </br>
-- https://beallslist.net/ </br>
-- If you read any journal article, try to follow the summary table: https://docs.google.com/document/d/1v53d3DzZewu-AitJvIM-0cq2yNoLgjORutS4aj7UJ6s </br>
-
-List of research journals: </br>
-- Web of Science Journals: https://drive.google.com/drive/folders/1NoMJeiYZBnoFhDSvwmwZiiqlITMNOOZc?usp=sharing </br>
-- Scopus: https://www.scimagojr.com/journalrank.php </br>
-
-Components of Sucessful Manuscript: </br>
-- https://mitcommlab.mit.edu/broad/commkit/general-tips/ </br>
-- https://mitcommlab.mit.edu/cee/commkit/journal-article/ </br>
-- https://conductscience.com/portfolio/imrad-the-key-to-scientific-publishing-success/  </br>
-- https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html  </br>
-- https://ceprofs.civil.tamu.edu/ssocolofsky/downloads/paper_how-to.pdf  </br>
-- http://tech.snmjournals.org/content/34/1/53.full </br>
-- https://doi.org/10.1177%2F2158244014548178 </br>
-- https://doi.org/10.4103/0975-1483.66788 </br>
-- https://doi.org/10.1016/j.soilbio.2020.107823 </br>
-- https://www.elsevier.com/connect/8-reasons-i-rejected-your-article </br>
-
-Systemic Review: </br>
-- https://doi.org/10.1136/bmj.b2700 </br>
-- https://doi.org/10.1186/s41182-019-0165-6 </br>
-- https://doi.org/10.1146/annurev-psych-010418-102803 </br>
-- https://journals.sagepub.com/doi/pdf/10.1177/014107680309600304 </br>
-- https://www.lib.uwo.ca/tutorials/how_to_perform_a_systematic_review/index.html </br>
-- https://guides.dml.georgetown.edu/systematicreviews </br>
-- https://lib.guides.umd.edu/SR/steps </br>
 
 Other Resources: </br>
 - Nature's guide for mentors https://doi.org/10.1038/447791a  </br>
