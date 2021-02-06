@@ -54,7 +54,6 @@ Components of Sucessful Manuscript: </br>
 - https://www.elsevier.com/connect/8-reasons-i-rejected-your-article </br>
 
 Few mini-project ideas:
-- Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu
 - Encroachment of forest/river by human activities: spatio-temporal quantification over years
 - Socio-economic/environmental components and their distribution in Nepalese cities
 - Understanding climate change perception and adaptation by stakeholders in Terai
@@ -69,14 +68,15 @@ Few mini-project ideas:
 - River Basin: Sustainability in food water ecosystem
 - Water bodies and boundaries detection with SAR
 - Deep/Machine Learning modelling and prediction
-- Annual flood/drought monitoring in Terai
 - Ecosystem services value (ESV) of Nepalese cities
 - Visualizing the transportation inequality in Nepalese cities
 - Mobility justice/inequality in Kathmandu or major cities of Nepal
 - Mapping and understanding walkability/bikeability in Nepalese cities
 - Analyzing pedestrian/cycling infrastructure along the Nepalese Roads
+- Annual flood/drought monitoring in Terai using multispectral or SAR imagery
 - Satellite based characterization of urban land dynamics such as urban greenness score
 - Relating crowdsourced landscape perceptions to landscape physical characteristics in Nepalese cities
+- Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu
 
 Further mini-project ideas: </br>
 - https://nasaharvest.org/all-projects </br>
