@@ -90,6 +90,7 @@ List of research journals: </br>
 - Scopus: https://www.scimagojr.com/journalrank.php </br>
 
 Components of Sucessful Manuscript: </br>
+- https://mitcommlab.mit.edu/broad/commkit/general-tips/ </br>
 - https://mitcommlab.mit.edu/cee/commkit/journal-article/ </br>
 - https://conductscience.com/portfolio/imrad-the-key-to-scientific-publishing-success/  </br>
 - https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html  </br>
