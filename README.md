@@ -101,6 +101,15 @@ Components of Sucessful Manuscript: </br>
 - https://doi.org/10.1016/j.soilbio.2020.107823 </br>
 - https://www.elsevier.com/connect/8-reasons-i-rejected-your-article </br>
 
+Systemic Review: </br>
+- https://doi.org/10.1136/bmj.b2700 </br>
+- https://doi.org/10.1186/s41182-019-0165-6 </br>
+- https://doi.org/10.1146/annurev-psych-010418-102803 </br>
+- https://journals.sagepub.com/doi/pdf/10.1177/014107680309600304 </br>
+- https://www.lib.uwo.ca/tutorials/how_to_perform_a_systematic_review/index.html </br>
+- https://guides.dml.georgetown.edu/systematicreviews </br>
+- https://lib.guides.umd.edu/SR/steps </br>
+
 Other Resources: </br>
 - Nature's guide for mentors https://doi.org/10.1038/447791a  </br>
 - Mentoring and networking: how to make it work https://doi.org/10.1038/ni0108-3   </br>
