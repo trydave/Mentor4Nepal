@@ -112,12 +112,13 @@ Collection of Tools and Tutorials for Geospatial Studies: </br>
 - https://kodu.ut.ee/~kmoch/geopython2018/ </br>
 
 Other Resources: </br>
-- Mentoring and networking: how to make it work https://doi.org/10.1038/ni0108-3   </br>
-- Nature's guide for mentors https://doi.org/10.1038/447791a  </br>
 - MIT COMMLAB CEE https://mitcommlab.mit.edu/cee/use-the-commkit/ </br>
 - @OpenAcademics Resources https://www.oacommunity.org/resources </br>
 - @WriteThatPhD Media Resources https://twitter.com/WriteThatPhD/media </br>
-
+- Nature's guide for mentors https://doi.org/10.1038/447791a  </br>
+- Mentoring and networking: how to make it work https://doi.org/10.1038/ni0108-3   </br>
+- English Communication for Scientists https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/ </br>
+ 
 </br>
 Get connected with me !!!
 <br/>
