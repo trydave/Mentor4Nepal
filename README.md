@@ -18,7 +18,7 @@ Interested candidates can email me at tridevacharya[at]gmail.com with their quer
 - Install Google Drive in your Laptop/Computer. https://dl.google.com/tag/s/appguid%3D%7B3C122445-AECE-4309-90B7-85A6AEF42AC0%7D%26iid%3D%7B9648D435-67BA-D2A7-54D2-1E0B5656BF03%7D%26ap%3Duploader%26appname%3DBackup%2520and%2520Sync%26needsadmin%3Dtrue/drive/installbackupandsync.exe  
 - Go to https://drive.google.com/ and create a folder name: Mentor4Nepal_FirstNameLastNameInitial_TDA. eg. Mentor4Nepal_TriDevA_TDA.
 - Select that folder and you will see a human and plus symbol, add there my email address: tridevacharya@gmail[dot]com. Now, this folder is shared with me and I can also edit everything.
-- Add MiniProject_applicaiton (https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck) here.
+- Add MiniProject_applicaiton (https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck) in the folder and try to fill as much as possible. Simple ideas are welcome and can be improved collaboratively over time.
 - I will add a few files and folders later, then we will work together on them as the next step.
 
 </div>
