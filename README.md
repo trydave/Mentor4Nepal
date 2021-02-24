@@ -21,6 +21,7 @@ Interested candidates (National and International) can email me at tridevacharya
 - [Preferred] For fast intenet or who are comfortable with online Google File Stream Drive install via https://dl.google.com/drive-file-stream/GoogleDriveFSSetup.exe and create a shared drive: Mentor4Nepal_FirstNameLastNameInitial_TDA. eg. Mentor4Nepal_TriDevA_TDA. Add contributor with email address: tridevacharya@gmail[dot]com. Now, this drive is shared with me and I can also edit everything.
 - Add MiniProject_applicaiton (https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck) in the folder and try to fill as much as possible. Simple ideas are welcome and can be improved collaboratively over time.
 - I will add a few files and folders later, then we will work together on them as the next step.
+- Install Mendeley via https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe. Create account wtih your gmail and login.
 
 </div>
 
