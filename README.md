@@ -122,6 +122,11 @@ Other Resources: </br>
 - UC Davis Resouces for Mentee https://grad.ucdavis.edu/resources/mentoring/mentee-resources </br>
 - English Communication for Scientists https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/ </br>
  
+ Improving English of your writings: </br>
+- Use MS Word Editor: First select your language and then open the editor to check spellings and grammar. </br>
+- Use Google Docs: As you will be working on Google Drive with me, you may also open the file with Google Docs and it will check English by default. </br>
+- Use external tools such as Grammarly: Install MS Office and Chrome plugins: https://app.grammarly.com/apps and use them to check grammar at the end of the above process. </br>
+ 
 </br>
 Get connected with me !!!
 <br/>
