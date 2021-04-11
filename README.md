@@ -70,6 +70,7 @@ Few mini-project ideas:
 - Spatial analysis of wildlife disturbances in agriculture
 - River Basin: Sustainability in food water ecosystem
 - Water bodies and boundaries detection with SAR
+- Surace water dynamics over long period
 - Deep/Machine Learning modelling and prediction
 - Ecosystem services value (ESV) of Nepalese cities
 - Visualizing the transportation inequality in Nepalese cities
