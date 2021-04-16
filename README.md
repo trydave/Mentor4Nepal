@@ -146,6 +146,9 @@ Get connected with me !!!
 <a href="https://github.com/trydave">
   <img align="left" alt="TDA's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://orcid.org/0000-0003-0886-4201">
+  <img align="left" alt="TDA's ORCiD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/orcid.svg" />
+</a>
 <a href="https://twitter.com/dev_333">
   <img align="left" alt="TDA's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
