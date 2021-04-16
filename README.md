@@ -35,6 +35,7 @@ List of core research journals: </br>
 - Scopus: https://www.scimagojr.com/journalrank.php </br>
 
 Building Foundation: Doing Systemic Review: </br>
+- Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) Workflow https://www.bmj.com/content/bmj/339/bmj.b2535/F1.large.jpg?width=800&height=600 </br>
 - https://doi.org/10.1136/bmj.b2700 </br>
 - https://doi.org/10.1186/s41182-019-0165-6 </br>
 - https://doi.org/10.1146/annurev-psych-010418-102803 </br>
