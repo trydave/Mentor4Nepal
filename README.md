@@ -134,6 +134,9 @@ Get connected with me !!!
 <a href="https://scholar.google.com/citations?user=uaQfhkgAAAAJ&hl=en">
   <img align="left" alt="TDA's Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
+<a href="https://www.researchgate.net/profile/Tri-Acharya">
+  <img align="left" alt="TDA's ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg" />
+</a>
 <a href="https://publons.com/researcher/1440576">
   <img align="left" alt="TDA's Publons" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/publons.svg" />
 </a>
