@@ -22,7 +22,7 @@ Interested candidates (National and International) can email me at tridevacharya
 - I will add a few files and folders later, then we will work together on them as the next step.
 - Install Mendeley via https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe. Create account wtih your gmail and login. Finally watch this tutorial https://youtu.be/H4osP8Gp3Kk.
 
-In addition, one should think of it as an opportunity to create a life-long mentor-mentee relationship to help each other for a long-term career. A one-on-one career counselling will be provided along with a tailored career/research guide based on one’s interest and future milestones such as Education, Job, Settlement, Marriage, Partner's career, Kids, Family, Society etc. Understing these milestones from an early age and balancing them is the key to a happy future.
+In addition, one should think of it as an opportunity to create a life-long mentor-mentee relationship to help each other for a long-term career. A one-on-one career counselling will be provided along with a tailored career/research guide based on one’s interest and future milestones such as Education, Job, Investment, Settlement, Marriage, Partner's career, Kids, Family, Society etc. Understing these milestones from an early age and balancing them is the key to a happy future.
 
 To share the progress and reflect on the blocks, a half an hour biweekly meeting is preferred. One may go to Google Calendar https://calendar.google.com/ and create a biweekly meeting as Biweekly Meeting: XY_TDA adding me as a guest with my Gmail. For Nepal, 6-9:00 AM is fine with me. Do check, Modify events for guests so that I can adjust time as per my schedule.
   
