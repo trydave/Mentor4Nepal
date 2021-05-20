@@ -12,7 +12,7 @@
 
 Theme: Application of geospatial technologies and artificial intelligence (GeoAI). The field is not limited and the project can be object detection such as land cover and features, supporting sustainable development goals in the land, water, forest, crop and energy dynamics, linking people’s perception, activities, government action/policy to climate change etc.
 
-A project can be an individual or a group (3 max.). Priority will be given to novelty, use of open access data, tools and impact to the society. Financial support can be provided for a promising project depending on the necessity and impact of the work. It is voluntary participation for your future growth especially in academia, not a funding opportunity to earn a living. The concept will be yours and you will be leading the project to a successful first-authored publication. I will simply guide you by answering your queries, linking the right resources and step-by-step process of academic research and publication.
+A project can be an individual or a group (3 max.). Priority will be given to novelty, use of open access data, tools and impact to the society. Financial support can be provided for a promising project depending on the necessity and impact of the work. It is voluntary participation for your future growth, especially in academia.  It will focus on the enhancement of one’s skill set. The concept will be yours and you will be leading the project to a successful first-authored publication. I will simply guide you by answering your queries, linking the right resources and step-by-step process of academic research and publication.
 
 Interested candidates (National and International) can email me at tridevacharya[at]gmail.com with their queries. To initiate any collaboration for their desired mini-project (can be simple at this stage), please complete the following instructions (use any one method to create sharable folder):
 - 1. [Preferred] For better collaborative writing, install BOX Drive in your Laptop/Computer via https://e3.boxcdn.net/box-installers/desktop/releases/win/Box-x64.msi. Login with Google and create a folder name (see right top corner): Mentor4Nepal_FirstNameLastNameInitial_TDA. eg. Mentor4Nepal_TriDevA_TDA. While creating add both of my email address: tridevacharya@gmail[dot]com and tdacharya[at]ucdavis.edu in the "Invite Additonal People" as Editor. Now, this folder is shared with me and I can also edit everything.
@@ -22,6 +22,8 @@ Interested candidates (National and International) can email me at tridevacharya
 - I will add a few files and folders later, then we will work together on them as the next step.
 - Install Mendeley via https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe. Create account wtih your gmail and login. Finally watch this tutorial https://youtu.be/H4osP8Gp3Kk.
 
+In addition, one should think of it as an opportunity to create a life-long mentor-mentee relationship to help each other for a long-term career. A one-on-one career counselling will be provided along with a tailored career/research guide based on one’s interest and future milestones such as Education, Job, Settlement, Marriage, Partner's career, Kids, Family, Society etc. Understing these milestones from an early age and balancing them is the key to a happy future. 
+  
 </div>
 
 Understanding Journals: MUST Avoid Reading and Publishing Predatory Journals </br>
