@@ -24,7 +24,7 @@ Interested candidates (National and International) can email me at tridevacharya
 
 In addition, one should think of it as an opportunity to create a life-long mentor-mentee relationship to help each other for a long-term career. A one-on-one career counselling will be provided along with a tailored career/research guide based on one’s interest and future milestones such as Education, Job, Investment, Settlement, Marriage, Partner's career, Kids, Family, Society etc. Understing these milestones from an early age and balancing them is the key to a happy future.
 
-To share the progress and reflect on the blocks, a half an hour biweekly meeting is preferred. One may go to Google Calendar https://calendar.google.com/ and create a biweekly meeting as Biweekly Meeting: XY_TDA adding me as a guest with my Gmail. For Nepal, 6-9:00 AM is fine with me. Do check, Modify events for guests so that I can adjust time as per my schedule.
+To share the progress and reflect on the blocks, a half an hour biweekly meeting is preferred. One may go to Google Calendar https://calendar.google.com/ and create a biweekly meeting as Biweekly Meeting: XY_TDA adding me as a guest with my Gmail only. For Nepal, 6-9:00 AM is fine with me. Do check, Modify events for guests so that I can adjust time as per my schedule.
   
 </div>
 
