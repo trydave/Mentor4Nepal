@@ -132,6 +132,11 @@ Other Resources: </br>
 - Use Google/Word Docs Online: As you will be working on Google Drive with me, you may also open the file with Google Docs and it will check English by default. </br>
 - Use external tools such as Grammarly: Install MS Office and Chrome plugins: https://app.grammarly.com/apps and use them to check grammar at the end of the above process. </br>
  
+ Making your day productive: </br>
+- Plan your day: https://blog.doist.com/how-to-plan-your-day/ </br>
+- Start your day with purpose: https://poewellnesssolutions.com/4-powerful-reasons-for-starting-your-day-with-a-purpose/ </br>
+- Make your day more meaningful: https://www.ayoa.com/ourblog/8-ways-to-make-your-day-more-meaningful/ </br>
+  
 </br>
 Get connected with me !!!
 <br/>
