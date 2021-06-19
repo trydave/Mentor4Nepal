@@ -135,8 +135,17 @@ Other Resources: </br>
  Making your day productive: </br>
 - Plan your day: https://blog.doist.com/how-to-plan-your-day/ </br>
 - Start your day with purpose: https://poewellnesssolutions.com/4-powerful-reasons-for-starting-your-day-with-a-purpose/ </br>
-- Make your day more meaningful: https://www.ayoa.com/ourblog/8-ways-to-make-your-day-more-meaningful/ </br>
-  
+- Make your day more meaningful: https://www.ayoa.com/ourblog/8-ways-to-make-your-day-more-meaningful/  Making your day productive: </br>
+- Plan your day: https://blog.doist.com/how-to-plan-your-day/ </br>
+- Start your day with purpose: https://poewellnesssolutions.com/4-powerful-reasons-for-starting-your-day-with-a-purpose/ </br>
+- How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
+
+ Making Personal Statement: </br>
+- UCAS Personal Statement Advice: https://youtu.be/ChuAMeDR6e8 </br>
+- How to write a KILLER personal statement!: https://youtu.be/955Z7n2L_C0 </br>
+- Writing the Statement of Purpose: https://grad.berkeley.edu/admissions/apply/statement-purpose/ </br>
+- SoP Tips for Ivy League Schools: https://www.stoodnt.com/blog/how-to-write-sop-for-us-universities-with-gre-320-340-scores-sop-tips-for-ivy-league-schools/ </br>
+
 </br>
 Get connected with me !!!
 <br/>
