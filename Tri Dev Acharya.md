@@ -6,15 +6,14 @@ Before UC Davis, he received his BE degree in Geomatics from Kathmandu Universit
 
 Besides research, Tri Dev is also very active in mentoring first-generation and early career professionals through his #Mentor4Nepal Initiative. The goal of this initiative is to help recent graduates and early career professionals focus on enhancing their skillset and provide support for a research project and a collaborative publication. His profile was recently featured on UC Davis Engineering an Inclusive Future: https://engineering.ucdavis.edu/news/postdoc-profile-tri-dev-acharya.
 
-
-#Mentor4Nepal Initiative is for recent graduates and early career professionals focusing on the enhancement of one’s skill set, support for a research project, and a collaborative publication. Various sector such as #engineering, #environmentalscience, #forestry, #agriculture, #transportation, #publichealth, #management and #informationtechnology can take advantage of both #geospatial and artificial technologies (GeoAI).Geospatial technology associates any problem with coordinates and gives us a better picture of how things are located, related and changing. #GeoAI is utilizing AI for intelligent geographic information such as image classification, object detection, scene segmentation, simulation and interpolation, link prediction, (natural language-based) retrieval and question answering, on-the-fly data integration, geo-enrichment, and many others (https://doi.org/10.1080/13658816.2019.1684500). Thus, an application can be broad and can be utilized to answer any research gap that you feel in our society and supports the UN's SDGs (https://doi.org/10.18494/SAM.2019.2706). The concept can be small and viable considering one's situation.
-
 Theme: Application of geospatial technologies and artificial intelligence (GeoAI). The field is not limited and the project can be object detection such as land cover and features, supporting sustainable development goals in the land, water, forest, crop and energy dynamics, linking people’s perception, activities, government action/policy to climate change etc.
+
+Various sector such as #engineering, #environmentalscience, #forestry, #agriculture, #transportation, #publichealth, #management and #informationtechnology can take advantage of both #geospatial and artificial technologies (GeoAI).Geospatial technology associates any problem with coordinates and gives us a better picture of how things are located, related and changing. #GeoAI is utilizing AI for intelligent geographic information such as image classification, object detection, scene segmentation, simulation and interpolation, link prediction, (natural language-based) retrieval and question answering, on-the-fly data integration, geo-enrichment, and many others (https://doi.org/10.1080/13658816.2019.1684500). Thus, an application can be broad and can be utilized to answer any research gap that you feel in our society and supports the UN's SDGs (https://doi.org/10.18494/SAM.2019.2706). The concept can be small and viable considering one's situation.
 
 Emails: tridevacharya[at]gmail.com and tdacharya[at]ucdavis.edu 
 
 </div>
-Few mini-project ideas:
+Few mini-project ideas: </br>
 - Encroachment of forest/river by human activities: spatio-temporal quantification over years
 - Socio-economic/environmental components and their distribution in Nepalese cities
 - Understanding climate change perception and adaptation by stakeholders in Terai
