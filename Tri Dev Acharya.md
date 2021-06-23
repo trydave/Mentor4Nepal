@@ -39,6 +39,7 @@ Few mini-project ideas: </br>
 - Relating crowdsourced landscape perceptions to landscape physical characteristics in Nepalese cities </br>
 - Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu </br>
 
+</br>
 Further mini-project ideas: </br>
 - https://nasaharvest.org/all-projects </br>
 - http://earthobservations.org/geoss_wp.php </br>
@@ -46,6 +47,7 @@ Further mini-project ideas: </br>
 - https://appliedsciences.nasa.gov/what-we-do/projects </br>
 - https://lcluc.umd.edu/content/documents-and-publications </br>
 
+</br>
 Collection of Ebooks: </br>
 R-based </br>
 - Geospatial Health https://www.paulamoraga.com/book-geospatial/ </br>
@@ -55,13 +57,16 @@ R-based </br>
 - ggplot2: Elegant Graphics for Data Analysis https://ggplot2-book.org/ </br>
 - Case Studies in Reproducible Research: a spring seminar at UCSC https://eriqande.github.io/rep-res-eeb-2017/ </br>
 
+</br>
 Python-based </br>
 - https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition </br>
 
+</br>
 General </br>
 - Spatial Analysis Methods and Practice https://doi.org/10.1017/9781108614528 </br>
 - The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation https://gis1.servirglobal.net/TrainingMaterials/SAR/SARHB_FullRes.pdf </br>
 
+</br>
 Collection of Tools and Tutorials for Geospatial Studies: </br>
 - https://github.com/robmarkcole/satellite-image-deep-learning </br>
 - http://www.data-analysis-in-python.org/index.html </br>
