@@ -50,6 +50,7 @@ Building Foundation: Doing Systemic Review: </br>
 - https://www.lib.uwo.ca/tutorials/how_to_perform_a_systematic_review/index.html </br>
 - https://guides.dml.georgetown.edu/systematicreviews </br>
 - https://lib.guides.umd.edu/SR/steps </br>
+- http://ueberfachliche-kompetenzen.ethz.ch/dopraedi/pdfs/Mayer/guidelines_review_article.pdf </br>
 
 Components of Sucessful Manuscript: </br>
 - https://mitcommlab.mit.edu/broad/commkit/general-tips/ </br>
