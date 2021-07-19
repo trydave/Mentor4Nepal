@@ -32,7 +32,8 @@ To share the progress and reflect on the blocks, a half an hour biweekly meeting
 </div>
 
 Understanding Journals: MUST Avoid Reading and Publishing Predatory Journals </br>
-- Read first https://www.linkedin.com/posts/tridev_mentor4nepal-academicjournals-closedaccess-activity-6697692142804066304--nkN </br>
+- MUST READ: https://www.facebook.com/tridev/posts/10159426455243501 </br>
+- https://www.linkedin.com/posts/tridev_mentor4nepal-academicjournals-closedaccess-activity-6697692142804066304--nkN </br>
 - https://predatoryjournals.com/journals/ </br>
 - https://beallslist.net/ </br>
 - If you read any journal article, try to follow the summary table: https://docs.google.com/document/d/1v53d3DzZewu-AitJvIM-0cq2yNoLgjORutS4aj7UJ6s </br>
