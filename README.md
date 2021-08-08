@@ -66,7 +66,7 @@ Components of Sucessful Manuscript: </br>
 - https://doi.org/10.1016/j.soilbio.2020.107823 </br>
 - https://www.elsevier.com/connect/8-reasons-i-rejected-your-article </br>
 
-Few mini-project ideas:
+Few mini-project ideas but not limited to:
 - Encroachment of forest/river by human activities: spatio-temporal quantification over years
 - Socio-economic/environmental components and their distribution in Nepalese cities
 - Understanding climate change perception and adaptation by stakeholders in Terai
