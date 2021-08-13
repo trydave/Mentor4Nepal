@@ -25,7 +25,7 @@ Interested candidates (National and International) can email me at tridevacharya
 - I will add a few files and folders later, then we will work together on them as the next step.
 - Install Mendeley via https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe. Create account wtih your gmail and login. Finally watch this tutorial https://youtu.be/H4osP8Gp3Kk. To collaborate, create group and invite my and other members gmail, install word and browser plugin and start importing bibliography on the group not private folder.
 
-In addition, one should think of it as an opportunity to create a life-long mentor-mentee relationship to help each other for a long-term career via Facebook Group [Request only approved after a sucessful proposal of a project]. A one-on-one career counselling will be provided along with a tailored career/research guide based on one’s interest and future milestones such as Education, Job, Investment, Settlement, Marriage, Partner's career, Kids, Family, Society etc. Understanding these milestones from an early age and balancing them is the key to a happy future.
+In addition, one should think of it as an opportunity to create a life-long mentor-mentee relationship to help each other for a long-term career via Facebook Group [Request only approved after a sucessful proposal of a project]. A one-on-one career counselling will be provided along with a tailored career/research guide based on one’s interest and future milestones such as Education, Job, Investment, Settlement, Marriage, Partner's career, Kids, Family, Society etc. Understanding these milestones from an early age and balancing them is the key to a happy future. Read: https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500 . 
 
 To share the progress and reflect on the blocks, a half an hour biweekly meeting is preferred. One may go to Google Calendar https://calendar.google.com/ and create a biweekly meeting as Biweekly Meeting: XY_TDA adding me as a guest with my Gmail only. For Nepal, 6-9:00 AM is fine with me. Do check, Modify events for guests so that I can adjust time as per my schedule.
   
@@ -145,11 +145,21 @@ Other Resources: </br>
 - Start your day with purpose: https://poewellnesssolutions.com/4-powerful-reasons-for-starting-your-day-with-a-purpose/ </br>
 - How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
 
+ Understanding and evaluating aspects of life: </br>
+- Five major aspects of life: https://images.app.goo.gl/DFTEcTaG5WgHiRTz6 </br>
+- Twelve aspects of being: https://images.app.goo.gl/xfMcmZVwXjxwQNkv5 </br>
+- Wheel of life: https://images.app.goo.gl/uVCArthyApBr9d2X7 </br>
+
  Making Personal Statement: </br>
 - UCAS Personal Statement Advice: https://youtu.be/ChuAMeDR6e8 </br>
 - How to write a KILLER personal statement!: https://youtu.be/955Z7n2L_C0 </br>
 - Writing the Statement of Purpose: https://grad.berkeley.edu/admissions/apply/statement-purpose/ </br>
 - SoP Tips for Ivy League Schools: https://www.stoodnt.com/blog/how-to-write-sop-for-us-universities-with-gre-320-340-scores-sop-tips-for-ivy-league-schools/ </br>
+
+ Writing Emails to Professors: </br>
+- Re-framing Cold Emails: https://sowasser.com/cold-emails/ </br>
+- How to cold email a professor: https://research.berkeley.edu/how-cold-email-professor </br>
+- So you wanna go to school: http://humanfactorsblog.org/2016/03/14/so-you-want-to-go-to-school-for-human-factors-the-approach-email/ </br>
 
 </br>
 Get connected with me !!!
