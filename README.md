@@ -157,7 +157,7 @@ Other Resources: </br>
 - SoP Tips for Ivy League Schools: https://www.stoodnt.com/blog/how-to-write-sop-for-us-universities-with-gre-320-340-scores-sop-tips-for-ivy-league-schools/ </br>
 
  Writing Emails to Professors: </br>
-- MUSTREAD: https://chrnansen.wixsite.com/nansen2/international-students 
+- MUST READ Four aspects to consider before emailing a professor: https://chrnansen.wixsite.com/nansen2/international-students 
 - So you wanna go to school: http://humanfactorsblog.org/2016/03/14/so-you-want-to-go-to-school-for-human-factors-the-approach-email/ </br>
 - How to cold email a professor: https://research.berkeley.edu/how-cold-email-professor </br>
 - Re-framing Cold Emails: https://sowasser.com/cold-emails/ </br>
