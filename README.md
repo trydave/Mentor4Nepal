@@ -28,8 +28,13 @@ Interested candidates (National and International) can email me at tridevacharya
 In addition, one should think of it as an opportunity to create a life-long mentor-mentee relationship to help each other for a long-term career via Facebook Group [Request only approved after a sucessful proposal of a project]. A one-on-one career counselling will be provided along with a tailored career/research guide based on one’s interest and future milestones such as Education, Job, Investment, Settlement, Marriage, Partner's career, Kids, Family, Society etc. Understanding these milestones from an early age and balancing them is the key to a happy future. Read: https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500 . 
 
 To share the progress and reflect on the blocks, a half an hour biweekly meeting is preferred. One may go to Google Calendar https://calendar.google.com/ and create a biweekly meeting as Biweekly Meeting: XY_TDA adding me as a guest with my Gmail only. For Nepal, 6-9:00 AM is fine with me. Do check, Modify events for guests so that I can adjust time as per my schedule.
-  
+
 </div>
+
+Let's first understand the Imposter syndrome </br>
+- MUST WATCH: What is imposter syndrome and how can you combat it? By Elizabeth Cox: https://youtu.be/ZQUxL4Jm1Lo </br>
+- Imposter syndrome and STEM: https://www.stemwomen.co.uk/blog/2021/05/what-is-imposter-syndrome </br>
+- Tackling in the Pursuit of Advanced Degrees in STEM: https://www.linkedin.com/pulse/tackling-impostor-syndrome-pursuit-advanced-degrees-stem-jay-flores/ </br>
 
 Understanding Journals: MUST Avoid Reading and Publishing Predatory Journals </br>
 - MUST READ: https://www.facebook.com/tridev/posts/10159426455243501 </br>
