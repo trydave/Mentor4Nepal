@@ -31,7 +31,7 @@ To share the progress and reflect on the blocks, a half an hour biweekly meeting
 
 </div>
 
-Let's first understand the Imposter syndrome </br>
+Let's first understand the Imposter syndrome [Everyone goes through it. So, forget it and focus on your long-term goal.] </br>
 - MUST WATCH: What is imposter syndrome and how can you combat it? By Elizabeth Cox: https://youtu.be/ZQUxL4Jm1Lo </br>
 - Imposter syndrome and STEM: https://www.stemwomen.co.uk/blog/2021/05/what-is-imposter-syndrome </br>
 - Tackling in the Pursuit of Advanced Degrees in STEM: https://www.linkedin.com/pulse/tackling-impostor-syndrome-pursuit-advanced-degrees-stem-jay-flores/ </br>
