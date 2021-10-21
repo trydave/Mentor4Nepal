@@ -146,7 +146,7 @@ Other Resources: </br>
  Making your day productive: </br>
 - Plan your day: https://blog.doist.com/how-to-plan-your-day/ </br>
 - Start your day with purpose: https://poewellnesssolutions.com/4-powerful-reasons-for-starting-your-day-with-a-purpose/ </br>
-- Make your day more meaningful: https://www.ayoa.com/ourblog/8-ways-to-make-your-day-more-meaningful/  Making your day productive: </br>
+- Make your day more meaningful: https://www.ayoa.com/ourblog/8-ways-to-make-your-day-more-meaningful/ </br>
 - How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
 
  Understanding and evaluating aspects of life: </br>
