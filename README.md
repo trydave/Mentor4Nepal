@@ -104,6 +104,18 @@ Further mini-project ideas: </br>
 - https://develop.larc.nasa.gov/project-archive.php </br>
 - https://appliedsciences.nasa.gov/what-we-do/projects </br>
 - https://lcluc.umd.edu/content/documents-and-publications </br>
+- [NASA ROSES-2020](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=785184/solicitationId=%7BD17448F8-8CF2-1868-AF9D-A0056E7D983C%7D/viewSolicitationDocument=1/LCLUC20%20selections.pdf)
+- [NASA ROSES-2019](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=784205/solicitationId=%7B716BCFE6-52B4-DB7F-B79A-59F3E7EE14A2%7D/viewSolicitationDocument=1/LCLUC19_2%20selectionsfinal.pdf)
+- [NASA ROSES-2018](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=708127/solicitationId=%7B86B59095-191F-A73B-D0B2-EAB8BD08A43B%7D/viewSolicitationDocument=1/LCLUC18%20Step%202%20Abstracts.pdf)
+- [NASA ROSES-2016](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=601730/solicitationId=%7B25BE6014-BFA5-5AF4-8DE6-10E43D0BA6EC%7D/viewSolicitationDocument=1/LCLUC16%20selections.pdf)
+- [NASA ROSES-2015](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=539053/solicitationId=%7BC01BB0D8-2962-15CA-5E57-B1033E0D1E76%7D/viewSolicitationDocument=1/lcluc15%20selections.pdf)
+- [NASA ROSES-2014](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=455351/solicitationId=%7B0EAB0FDD-E9C9-B63C-0199-C67632FAD896%7D/viewSolicitationDocument=1/LCLUC14%20selections%20updated.pdf)
+- [NASA ROSES-2013](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=438408/solicitationId=%7B81B1C671-764A-997D-A3D6-CA233FABD90A%7D/viewSolicitationDocument=1/LCLUC13STEP2SELECTIONS.pdf)
+- [NASA ROSES-2012](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=394718/solicitationId=%7B7D8FA1EA-241A-344C-107A-660543B10CC0%7D/viewSolicitationDocument=1/LCLUC12-Step_2+selections2%20UPDATED%2010-30-14.pdf)
+- [NASA ROSES-2010](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=293432/solicitationId=%7B2379130E-1231-B654-CDE2-693EC8AA633D%7D/viewSolicitationDocument=1/LCLUC10%20Step%202%20Selections%20with%20abstracts-GG.pdf)
+- [NASA ROSES-2008](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=177873/solicitationId=%7B054D0B58-AFC4-417D-CE1C-276AFEC80DED%7D/viewSolicitationDocument=1/LCLUC08-2%20Selections.pdf)
+- [NASA ROSES-2005](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=30403/solicitationId=%7BCF0FE22B-851B-F2A7-2E23-121EBA1849F0%7D/viewSolicitationDocument=1/NNH05ZDA001-LULUC_Summary.pdf)
+- [NASA ICESat-2](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=742911/solicitationId=%7BE0000836-B11D-EBF3-80E3-260784082E4B%7D/viewSolicitationDocument=1/ICESAT%20selectionsCMH%20(003).pdf)
 
 Collection of Ebooks: </br>
 R-based </br>
