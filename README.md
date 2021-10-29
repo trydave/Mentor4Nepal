@@ -178,6 +178,7 @@ Other Resources: </br>
 - So you wanna go to school: http://humanfactorsblog.org/2016/03/14/so-you-want-to-go-to-school-for-human-factors-the-approach-email/ </br>
 - How to cold email a professor: https://research.berkeley.edu/how-cold-email-professor </br>
 - Re-framing Cold Emails: https://sowasser.com/cold-emails/ </br>
+- https://threadreaderapp.com/thread/1453753435594047494.html 
 
 </br>
 Get connected with me !!!
