@@ -172,6 +172,7 @@ Other Resources: </br>
 - How to write a KILLER personal statement!: https://youtu.be/955Z7n2L_C0 </br>
 - Writing the Statement of Purpose: https://grad.berkeley.edu/admissions/apply/statement-purpose/ </br>
 - SoP Tips for Ivy League Schools: https://www.stoodnt.com/blog/how-to-write-sop-for-us-universities-with-gre-320-340-scores-sop-tips-for-ivy-league-schools/ </br>
+- https://twitter.com/sjay_yayy/status/1436771550443622400 
 
  Writing Emails to Professors: </br>
 - MUST READ Four aspects to consider before emailing a professor: https://chrnansen.wixsite.com/nansen2/international-students 
