@@ -62,6 +62,7 @@ Building Foundation: Doing Systemic Review: </br>
 Components of Sucessful Manuscript: </br>
 - https://mitcommlab.mit.edu/broad/commkit/general-tips/ </br>
 - https://mitcommlab.mit.edu/cee/commkit/journal-article/ </br>
+- https://www.journalprep.com/FILES/101Tips.pdf </br>
 - https://conductscience.com/portfolio/imrad-the-key-to-scientific-publishing-success/  </br>
 - https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html  </br>
 - https://ceprofs.civil.tamu.edu/ssocolofsky/downloads/paper_how-to.pdf  </br>
