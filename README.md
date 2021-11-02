@@ -181,6 +181,11 @@ Other Resources: </br>
 - Re-framing Cold Emails: https://sowasser.com/cold-emails/ </br>
 - https://threadreaderapp.com/thread/1453753435594047494.html 
 
+Watch Previous Webinars: </br>
+- Organized by GES, Kathmandu University, Dhulikhel, Nepal: https://youtu.be/HcNkYzvkgCY </br>
+- Organized by GESAN, Pashchimanchal Campus, Tribhuvan University, Pokhara, Nepal: https://youtu.be/azqq4TQll_E </br>
+
+
 </br>
 Get connected with me !!!
 <br/>
