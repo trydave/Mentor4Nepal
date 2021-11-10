@@ -35,6 +35,7 @@ Let's first understand the Imposter syndrome [Everyone goes through it. So, forg
 - MUST WATCH: What is imposter syndrome and how can you combat it? By Elizabeth Cox: https://youtu.be/ZQUxL4Jm1Lo </br>
 - Imposter syndrome and STEM: https://www.stemwomen.co.uk/blog/2021/05/what-is-imposter-syndrome </br>
 - Tackling in the Pursuit of Advanced Degrees in STEM: https://www.linkedin.com/pulse/tackling-impostor-syndrome-pursuit-advanced-degrees-stem-jay-flores/ </br>
+- How to deal with it via OpenAcademics: https://static.wixstatic.com/media/75feef_52b43728d570477f9b8d2d53047839fe~mv2.png </br>
 
 Understanding Journals: MUST Avoid Reading and Publishing Predatory Journals </br>
 - MUST READ: https://www.facebook.com/tridev/posts/10159426455243501 </br>
