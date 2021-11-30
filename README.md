@@ -121,12 +121,13 @@ Further mini-project ideas: </br>
 
 Collection of Ebooks: </br>
 R-based </br>
-- Geospatial Health https://www.paulamoraga.com/book-geospatial/ </br>
+- An Introduction to Statistical Learning with Applications in R https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf 
+- ggplot2: Elegant Graphics for Data Analysis https://ggplot2-book.org/ </br>
+- Efficient R programming https://csgillespie.github.io/efficientR/ </br>
 - Geocomputation with R https://geocompr.robinlovelace.net/ </br>
 - Using Spatial Data with R https://cengel.github.io/R-spatial/ </br>
-- Efficient R programming https://csgillespie.github.io/efficientR/ </br>
-- ggplot2: Elegant Graphics for Data Analysis https://ggplot2-book.org/ </br>
-- Case Studies in Reproducible Research: a spring seminar at UCSC https://eriqande.github.io/rep-res-eeb-2017/ </br>
+- Geospatial Health https://www.paulamoraga.com/book-geospatial/ </br>
+- Case Studies in Reproducible Research: A spring seminar at UCSC https://eriqande.github.io/rep-res-eeb-2017/ </br>
 
 Python-based </br>
 - https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition </br>
