@@ -73,6 +73,7 @@ Components of Sucessful Manuscript: </br>
 - https://doi.org/10.4103/0975-1483.66788 </br>
 - https://doi.org/10.1016/j.soilbio.2020.107823 </br>
 - https://www.elsevier.com/connect/8-reasons-i-rejected-your-article </br>
+- https://projects.ncsu.edu/eslglobe/nmswishe/IMRAD---for_diss_workshop-1.pdf </br>
 
 Few mini-project ideas but not limited to:
 - Encroachment of forest/river by human activities: spatio-temporal quantification over years
