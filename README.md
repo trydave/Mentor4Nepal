@@ -170,6 +170,8 @@ Other Resources: </br>
 - Five major aspects of life: https://i1.wp.com/themindfool.com/wp-content/uploads/2020/01/The-5-Crucial-Aspects-of-Life-How-to-Balance-Them-01.jpg </br>
 - Twelve aspects of being: https://images.app.goo.gl/xfMcmZVwXjxwQNkv5 </br>
 - Wheel of life: https://images.app.goo.gl/uVCArthyApBr9d2X7 </br>
+- Balancing wheel of life: https://medium.com/thrive-global/how-does-one-become-centered-and-balanced-bb28627a4461 </br>
+- Esential life skills: https://donations.heartfulness.org/static/b423be2e20c1dad9fe45621f807de4a8/help-donation.png </br>
 
  Making Personal Statement: </br>
 - UCAS Personal Statement Advice: https://youtu.be/ChuAMeDR6e8 </br>
