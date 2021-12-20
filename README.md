@@ -167,7 +167,7 @@ Other Resources: </br>
 - How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
 
  Understanding and evaluating aspects of life: </br>
-- Five major aspects of life: https://images.app.goo.gl/DFTEcTaG5WgHiRTz6 </br>
+- Five major aspects of life: https://i1.wp.com/themindfool.com/wp-content/uploads/2020/01/The-5-Crucial-Aspects-of-Life-How-to-Balance-Them-01.jpg </br>
 - Twelve aspects of being: https://images.app.goo.gl/xfMcmZVwXjxwQNkv5 </br>
 - Wheel of life: https://images.app.goo.gl/uVCArthyApBr9d2X7 </br>
 
