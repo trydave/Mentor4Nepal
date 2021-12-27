@@ -39,7 +39,7 @@ Let's first understand the Imposter syndrome [Everyone goes through it. So, forg
 
 Then, let us understand the types of intelligence [Everyone is different and have their strength and weakness So, focus on what are you good at and forget the rest.] </br>
 - MUST READ: Theory of multiple intelligences: https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences </br>
-- Howard Gardener's 9 types of intelligence : https://100stepsmission.com/2018/10/19/using-the-9-types-of-intelligence-in-management/ </br>- 
+- Howard Gardener's 9 types of intelligence : https://100stepsmission.com/2018/10/19/using-the-9-types-of-intelligence-in-management/ </br>
 
 Understanding Journals: MUST Avoid Reading and Publishing Predatory Journals </br>
 - MUST READ: https://www.facebook.com/tridev/posts/10159426455243501 </br>
