@@ -37,6 +37,10 @@ Let's first understand the Imposter syndrome [Everyone goes through it. So, forg
 - Tackling in the Pursuit of Advanced Degrees in STEM: https://www.linkedin.com/pulse/tackling-impostor-syndrome-pursuit-advanced-degrees-stem-jay-flores/ </br>
 - How to deal with it via OpenAcademics: https://static.wixstatic.com/media/75feef_52b43728d570477f9b8d2d53047839fe~mv2.png </br>
 
+Then, let us understand the types of intelligence [Everyone is different and have their strength and weakness So, focus on what are you good at and forget the rest.] </br>
+- MUST READ: Theory of multiple intelligences: https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences </br>
+- Howard Gardener's 9 types of intelligence : https://100stepsmission.com/2018/10/19/using-the-9-types-of-intelligence-in-management/ </br>- 
+
 Understanding Journals: MUST Avoid Reading and Publishing Predatory Journals </br>
 - MUST READ: https://www.facebook.com/tridev/posts/10159426455243501 </br>
 - https://www.linkedin.com/posts/tridev_mentor4nepal-academicjournals-closedaccess-activity-6697692142804066304--nkN </br>
