@@ -177,7 +177,11 @@ Other Resources: </br>
 - Balancing wheel of life: https://medium.com/thrive-global/how-does-one-become-centered-and-balanced-bb28627a4461 </br>
 - Esential life skills: https://donations.heartfulness.org/static/b423be2e20c1dad9fe45621f807de4a8/help-donation.png </br>
 
- Making Personal Statement: </br>
+ Template for Coverletter and CV: </br>
+- https://gradcareers.nd.edu/application-process/templates-and-examples/ </br>
+- https://career.ucsf.edu/phds/academic-careers/academic-samples#Samples </br>
+
+Making Personal Statement: </br>
 - UCAS Personal Statement Advice: https://youtu.be/ChuAMeDR6e8 </br>
 - How to write a KILLER personal statement!: https://youtu.be/955Z7n2L_C0 </br>
 - Writing the Statement of Purpose: https://grad.berkeley.edu/admissions/apply/statement-purpose/ </br>
