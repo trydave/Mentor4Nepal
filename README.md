@@ -34,6 +34,7 @@ To share the progress and reflect on the blocks, a half an hour biweekly meeting
 
 Let's first understand the Mental Health among Students/Adolescents [Everyone has problems, sharing and supporting each others are the key.] </br>
 - Understanding Mental Health https://www.cdc.gov/healthyyouth/mental-health/index.htm </br>
+- - How to deal with it via OpenAcademics: https://static.wixstatic.com/media/75feef_0486fe1622a546d2b1043e9cd37e1648~mv2.png </br>
 - Five common mental health challenges students face in college? https://www.bestcolleges.com/resources/top-5-mental-health-problems-facing-college-students/ </br>
 - Tips for Your Mental Health: https://uhs.umich.edu/tenthings / https://manhattan.edu/news/archive/2020/08/tips-for-mental-health.php </br>
 - Supporting Mental Health in College Students On & Off Campus: https://timely.md/blog/mental-health-in-college-students/ / https://online.arizona.edu/news/10-mental-health-tips-online-students </br>
