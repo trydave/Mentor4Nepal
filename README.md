@@ -32,13 +32,19 @@ To share the progress and reflect on the blocks, a half an hour biweekly meeting
 
 </div>
 
-Let's first understand the Imposter syndrome [Everyone goes through it. So, forget it and focus on your long-term goal.] </br>
+Let's first understand the Mental Health among Students/Adolescents [Everyone has problems, sharing and supporting each others are the key.] </br>
+- Understanding Mental Health https://www.cdc.gov/healthyyouth/mental-health/index.htm </br>
+- Five common mental health challenges students face in college? https://www.bestcolleges.com/resources/top-5-mental-health-problems-facing-college-students/ </br>
+- Tips for Your Mental Health: https://uhs.umich.edu/tenthings / https://manhattan.edu/news/archive/2020/08/tips-for-mental-health.php </br>
+- Supporting Mental Health in College Students On & Off Campus: https://timely.md/blog/mental-health-in-college-students/ / https://online.arizona.edu/news/10-mental-health-tips-online-students </br>
+
+Then, the Imposter syndrome [Everyone goes through it. So, forget it and focus on your long-term goal.] </br>
 - MUST WATCH: What is imposter syndrome and how can you combat it? By Elizabeth Cox: https://youtu.be/ZQUxL4Jm1Lo </br>
 - Imposter syndrome and STEM: https://www.stemwomen.co.uk/blog/2021/05/what-is-imposter-syndrome </br>
 - Tackling in the Pursuit of Advanced Degrees in STEM: https://www.linkedin.com/pulse/tackling-impostor-syndrome-pursuit-advanced-degrees-stem-jay-flores/ </br>
 - How to deal with it via OpenAcademics: https://static.wixstatic.com/media/75feef_52b43728d570477f9b8d2d53047839fe~mv2.png </br>
 
-Then, let us understand the types of intelligence [Everyone is different and have their strength and weakness So, focus on what are you good at and forget the rest.] </br>
+Finally, the types of intelligence [Everyone is different and have their strength and weakness So, focus on what are you good at and forget the rest.] </br>
 - MUST READ: Theory of multiple intelligences: https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences </br>
 - Howard Gardener's 9 types of intelligence : https://100stepsmission.com/2018/10/19/using-the-9-types-of-intelligence-in-management/ </br>
 
