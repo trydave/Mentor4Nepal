@@ -103,6 +103,7 @@ Few mini-project ideas but not limited to:
 - River Basin: Sustainability in food water ecosystem
 - Water bodies and boundaries detection with SAR
 - Surace water dynamics over long period
+- Spaceborne gravity and anomaly
 - Geospatial analysis of Twitter hashtags
 - Deep/Machine Learning modelling and prediction
 - Ecosystem services value (ESV) of Nepalese cities
