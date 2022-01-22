@@ -91,15 +91,13 @@ Components of Sucessful Manuscript: </br>
 Few mini-project ideas but not limited to:
 - Encroachment of forest/river by human activities: spatio-temporal quantification over years
 - Socio-economic/environmental components and their distribution in Nepalese cities
-- Understanding climate change perception and adaptation by stakeholders in Terai
+- Understanding climate change perception and adaptation by stakeholders in Nepal
 - Agriculture degradation/urbanization growth and modelling their drivers
 - Identifying open space for emergency evacuations within Kathmandu
-- Impact of urbanization in Eastern Terai: agriculture and food
+- Impact of urbanization in Terai region: agriculture and food
 - Identifying inundated agricultural areas during monsoon
-- Spatio‐temporal variability of climatic indicators in Nepal
 - Assessment of past flood changes across Terai / Basin
 - Fusing SAR and optical data for crop/forest mapping
-- Spatial analysis of wildlife disturbances in agriculture
 - River Basin: Sustainability in food water ecosystem
 - Water bodies and boundaries detection with SAR
 - Surace water dynamics over long period
@@ -107,14 +105,19 @@ Few mini-project ideas but not limited to:
 - Geospatial analysis of Twitter hashtags
 - Deep/Machine Learning modelling and prediction
 - Ecosystem services value (ESV) of Nepalese cities
-- Visualizing the transportation inequality in Nepalese cities
-- Mobility justice/inequality in Kathmandu or major cities of Nepal
-- Analyzing pedestrian/cycling infrastructure along the Nepalese Roads
-- Mapping and understanding walkability/bikeability in the Nepalese cities
+- Spatial analysis of wildlife disturbances in agriculture
+- Spatio‐temporal variability of climatic indicators in Nepal
 - Annual flood/drought monitoring in Terai using multispectral or SAR imagery
 - Satellite based characterization of urban land dynamics such as urban greenness score
 - Relating crowdsourced landscape perceptions to landscape physical characteristics in Nepalese cities
 - Counting tree crowns and monitoring their health status using high resolution satellite/UAV imagery in Kathmandu
+- GIS & Transportation
+  - Agent-based modelling of logistics services
+  - Visualizing the transportation inequality in Nepalese cities
+  - Mobility justice/inequality in Kathmandu or major cities of Nepal
+  - Analyzing pedestrian/cycling infrastructure along the Nepalese Roads
+  - Mapping and understanding walkability/bikeability in the Nepalese cities
+  - Spatial analysis of travel distance from the perspective of peri-urban segments
 
 Further mini-project ideas: </br>
 - https://nasaharvest.org/all-projects </br>
