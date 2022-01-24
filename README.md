@@ -193,6 +193,7 @@ Other Resources: </br>
  Template for Coverletter and CV: </br>
 - https://gradcareers.nd.edu/application-process/templates-and-examples/ </br>
 - https://career.ucsf.edu/phds/academic-careers/academic-samples#Samples </br>
+- https://ocs.yale.edu/channels/resume-samples-tools/ </br>
 
 Making Personal Statement: </br>
 - UCAS Personal Statement Advice: https://youtu.be/ChuAMeDR6e8 </br>
