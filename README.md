@@ -191,9 +191,10 @@ Other Resources: </br>
 - Esential life skills: https://donations.heartfulness.org/static/b423be2e20c1dad9fe45621f807de4a8/help-donation.png </br>
 
  Template for Coverletter and CV: </br>
+- https://ocs.yale.edu/channels/resume-samples-tools/ </br>
 - https://gradcareers.nd.edu/application-process/templates-and-examples/ </br>
 - https://career.ucsf.edu/phds/academic-careers/academic-samples#Samples </br>
-- https://ocs.yale.edu/channels/resume-samples-tools/ </br>
+- UC Davis Career Resource Manual (CRM) https://icc.ucdavis.edu/services/crm </br>
 
 Making Personal Statement: </br>
 - UCAS Personal Statement Advice: https://youtu.be/ChuAMeDR6e8 </br>
