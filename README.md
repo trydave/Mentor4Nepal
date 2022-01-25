@@ -190,8 +190,9 @@ Other Resources: </br>
 - Balancing wheel of life: https://medium.com/thrive-global/how-does-one-become-centered-and-balanced-bb28627a4461 </br>
 - Esential life skills: https://donations.heartfulness.org/static/b423be2e20c1dad9fe45621f807de4a8/help-donation.png </br>
 
- Template for Coverletter and CV: </br>
+ Template for Coverletter and CV/Resume: </br>
 - https://ocs.yale.edu/channels/resume-samples-tools/ </br>
+- https://www.science.org/content/article/how-write-winning-r-sum </br>
 - https://gradcareers.nd.edu/application-process/templates-and-examples/ </br>
 - https://career.ucsf.edu/phds/academic-careers/academic-samples#Samples </br>
 - UC Davis Career Resource Manual (CRM) https://icc.ucdavis.edu/services/crm </br>
