@@ -176,6 +176,7 @@ Other Resources: </br>
 - Use MS Word Editor: First go to your Review tab, select your language (British or American English) and then open the editor to check spellings and grammar. </br>
 - Use external tools such as Grammarly: Install MS Office and Chrome plugins: https://app.grammarly.com/apps and use them to check grammar at the end of the above process. </br>
 - [ALERT] Use Google/Word Docs Online: As you will be working on Google Drive or BOX with me, you may also open the file with Google Docs (GD online erases the format and cant use refence via mendeley) or Word online (in BOX you can use open with word online) and it will check English by default. </br>
+- For reading use this addon https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja </br>
  
  Making your day productive: </br>
 - Plan your day: https://blog.doist.com/how-to-plan-your-day/ </br>
