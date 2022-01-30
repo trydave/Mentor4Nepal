@@ -164,11 +164,17 @@ Collection of Tools and Tutorials for Geospatial Studies: </br>
 - https://github.com/giswqs/python-geospatial </br>
 - https://kodu.ut.ee/~kmoch/geopython2018/ </br>
 
+Collection of Tools and Tutorials for Computer Vision: </br>
+- https://github.com/kjw0612/awesome-deep-vision </br>
+- https://github.com/jbhuang0604/awesome-computer-vision </br>
+- https://github.com/balavenkatesh3322/CV-pretrained-model </br>
+
 Other Resources: </br>
-- MIT COMMLAB CEE https://mitcommlab.mit.edu/cee/use-the-commkit/ </br>
+- PhD resources: https://gdalle.github.io/phd-resources/ </br>
+- MIT COMMLAB https://mitcommlab.mit.edu/cee/use-the-commkit/ </br>
 - @OpenAcademics Resources https://www.oacommunity.org/resources </br>
 - @WriteThatPhD Media Resources https://twitter.com/WriteThatPhD/media </br>
-- Mentoring and networking: how to make it work https://doi.org/10.1038/ni0108-3   </br>
+- Mentoring and networking: how to make it work https://doi.org/10.1038/ni0108-3 </br>
 - UC Davis Resouces for Mentee https://grad.ucdavis.edu/resources/mentoring/mentee-resources </br>
 - English Communication for Scientists https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/ </br>
  
