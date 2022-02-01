@@ -178,26 +178,30 @@ Other Resources: </br>
 - UC Davis Resouces for Mentee https://grad.ucdavis.edu/resources/mentoring/mentee-resources </br>
 - English Communication for Scientists https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/ </br>
  
- Improving English of your writings: </br>
+Improving English of your writings: </br>
 - Use MS Word Editor: First go to your Review tab, select your language (British or American English) and then open the editor to check spellings and grammar. </br>
 - Use external tools such as Grammarly: Install MS Office and Chrome plugins: https://app.grammarly.com/apps and use them to check grammar at the end of the above process. </br>
 - [ALERT] Use Google/Word Docs Online: As you will be working on Google Drive or BOX with me, you may also open the file with Google Docs (GD online erases the format and cant use refence via mendeley) or Word online (in BOX you can use open with word online) and it will check English by default. </br>
 - For reading use this addon https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja </br>
  
- Making your day productive: </br>
+Making your day productive: </br>
 - Plan your day: https://blog.doist.com/how-to-plan-your-day/ </br>
 - Start your day with purpose: https://poewellnesssolutions.com/4-powerful-reasons-for-starting-your-day-with-a-purpose/ </br>
 - Make your day more meaningful: https://www.ayoa.com/ourblog/8-ways-to-make-your-day-more-meaningful/ </br>
 - How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
 
- Understanding and evaluating aspects of life: </br>
+Understanding and evaluating aspects of life: </br>
 - Five major aspects of life: https://i1.wp.com/themindfool.com/wp-content/uploads/2020/01/The-5-Crucial-Aspects-of-Life-How-to-Balance-Them-01.jpg </br>
 - Twelve aspects of being: https://images.app.goo.gl/xfMcmZVwXjxwQNkv5 </br>
 - Wheel of life: https://images.app.goo.gl/uVCArthyApBr9d2X7 </br>
 - Balancing wheel of life: https://medium.com/thrive-global/how-does-one-become-centered-and-balanced-bb28627a4461 </br>
 - Esential life skills: https://donations.heartfulness.org/static/b423be2e20c1dad9fe45621f807de4a8/help-donation.png </br>
 
- Template for Coverletter and CV/Resume: </br>
+Career and Jobs: </br>
+- Do proper career research and planning https://icc.ucdavis.edu/research </br>
+- US based jobs https://www.gislounge.com/gis-job-listings/ </br>
+
+Template for Coverletter and CV/Resume: </br>
 - https://ocs.yale.edu/channels/resume-samples-tools/ </br>
 - https://www.science.org/content/article/how-write-winning-r-sum </br>
 - https://gradcareers.nd.edu/application-process/templates-and-examples/ </br>
