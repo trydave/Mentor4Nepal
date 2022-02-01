@@ -197,7 +197,10 @@ Understanding and evaluating aspects of life: </br>
 
 Career planning: Career planning is a life long process, the earlier one does, the better it becomes. Target your mid-term and long-term goals, take next step (might be difficult compared to easy next step) towards the career goal. </br>
 - Do a proper career research and planning https://icc.ucdavis.edu/research </br>
-
+- Successful Career Planning https://www.fredonia.edu/student-life/career-development-office/c-c1  </br>
+- Tools to start planning your career journey https://www.umanitoba.ca/career-services/career-planning </br>
+- Your Career Planning Essentials https://career.berkeley.edu/Plan/Essentials </br>
+- Your Four-Year Career Plan https://careercenter.umich.edu/article/four-year-plan </br>
 
 Template for Coverletter and CV/Resume: </br>
 - https://ocs.yale.edu/channels/resume-samples-tools/ </br>
@@ -229,6 +232,7 @@ Job: Job is an aspsect of life that should be carefully considerered while plann
 - US based Data Science jobs https://datalab.ucdavis.edu/jobs/ </br>
 - US based Geospatial jobs https://www.gislounge.com/gis-job-listings/ [WARNING: Most geospatial jobs in US require Citizen/Permanent Resident, not F1/J1/H1B] </br>
 - For North American and Global jobs https://www.linkedin.com/jobs/ </br>
+- Other job boards https://icc.ucdavis.edu/find/resources/online-job-search/job-boards </br>
 - Negotiation https://www.glassdoor.com/blog/salary-negotiation-scripts-for-any-job/ </br>
 
 </div>
