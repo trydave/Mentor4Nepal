@@ -28,9 +28,7 @@ Interested candidates (National and International) can email me at tridevacharya
 
 In addition, one should think of it as an opportunity to create a life-long mentor-mentee relationship to help each other for a long-term career via Facebook Group [Request only approved after a sucessful proposal of a project]. A one-on-one career counselling will be provided along with a tailored career/research guide based on one’s interest and future milestones such as Education, Job, Investment, Settlement, Marriage, Partner's career, Kids, Family, Society etc. Understanding these milestones from an early age and balancing them is the key to a happy future. One should carefully consider important questions like how much education do I really need, how much money do I need to sustain my future, or when is a good time to marry, start a family and settle. Ideal case is always realizing all these in Nepal together with the family. Read: https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500. 
 
-To share the progress and reflect on the blocks, a half an hour biweekly meeting is preferred. One may go to Google Calendar https://calendar.google.com/ and create a biweekly meeting with title "Biweekly Meeting: InitialsFirstLastName_TDA" e.g. Biweekly Meeting: TDA_TDA adding me as a guest with my Gmail only. For Nepal, 6-9:00 AM is fine with me. **Do check**, Modify events for guests so that I can adjust time as per my schedule.
-
-</div>
+To share the progress and reflect on the blocks, a half an hour biweekly meeting is preferred. One may go to Google Calendar https://calendar.google.com/ and create a biweekly meeting with title "Biweekly Meeting: InitialsFirstLastName_TDA" e.g. Biweekly Meeting: TDA_TDA adding me as a guest with my Gmail only. For Nepal, 6-9:00 AM is fine with me. **Do check**, Modify events for guests so that I can adjust time as per my schedule. </br>
 
 Let's first understand the Mental Health among Students/Adolescents [Everyone has problems, sharing and supporting each others are the key.] </br>
 - Understanding Mental Health https://www.cdc.gov/healthyyouth/mental-health/index.htm </br>
@@ -197,9 +195,9 @@ Understanding and evaluating aspects of life: </br>
 - Balancing wheel of life: https://medium.com/thrive-global/how-does-one-become-centered-and-balanced-bb28627a4461 </br>
 - Esential life skills: https://donations.heartfulness.org/static/b423be2e20c1dad9fe45621f807de4a8/help-donation.png </br>
 
-Career and Jobs: </br>
-- Do proper career research and planning https://icc.ucdavis.edu/research </br>
-- US based jobs https://www.gislounge.com/gis-job-listings/ </br>
+Career planning: Career planning is a life long process, the earlier one does, the better it becomes. Target your mid-term and long-term goals, take next step (might be difficult compared to easy next step) towards the career goal. </br>
+- Do a proper career research and planning https://icc.ucdavis.edu/research </br>
+
 
 Template for Coverletter and CV/Resume: </br>
 - https://ocs.yale.edu/channels/resume-samples-tools/ </br>
@@ -227,6 +225,13 @@ Watch Previous Webinars: </br>
 - Organized by GES, Kathmandu University, Dhulikhel, Nepal: https://youtu.be/HcNkYzvkgCY </br>
 - Organized by GESAN, Pashchimanchal Campus, Tribhuvan University, Pokhara, Nepal: https://youtu.be/azqq4TQll_E </br>
 
+Job: Job is an aspsect of life that should be carefully considerered while planning career and settlement. Find the minimum requirements of the targeted job while planning education and career, else one can be back to the same position with a higher degree in hand. Research if you can find a job within 100Km, if not it will get difficult with the distance. </br>
+- US based Data Science jobs https://datalab.ucdavis.edu/jobs/ </br>
+- US based Geospatial jobs https://www.gislounge.com/gis-job-listings/ [WARNING: Most geospatial jobs in US require Citizen/Permanent Resident, not F1/J1/H1B] </br>
+- For North American and Global jobs https://www.linkedin.com/jobs/ </br>
+- Negotiation https://www.glassdoor.com/blog/salary-negotiation-scripts-for-any-job/ </br>
+
+</div>
 
 </br>
 Get connected with me !!!
