@@ -224,9 +224,10 @@ Making Personal Statement: </br>
 - Re-framing Cold Emails: https://sowasser.com/cold-emails/ </br>
 - https://threadreaderapp.com/thread/1453753435594047494.html 
 
-Watch Previous Webinars: </br>
+Podcasts and Webinars: </br>
 - Organized by GES, Kathmandu University, Dhulikhel, Nepal: https://youtu.be/HcNkYzvkgCY </br>
 - Organized by GESAN, Pashchimanchal Campus, Tribhuvan University, Pokhara, Nepal: https://youtu.be/azqq4TQll_E </br>
+- Professors Elizabeth Matsui and Roger Peng talk about life in the academic trenches, telling it like it is. https://effortreport.libsyn.com/ </br>
 
 Job: Job is an aspsect of life that should be carefully considerered while planning career and settlement. Find the minimum requirements of the targeted job while planning education and career, else one can be back to the same position with a higher degree in hand. Research if you can find a job within 100Km, if not it will get difficult with the distance. </br>
 - US based Data Science jobs https://datalab.ucdavis.edu/jobs/ </br>
