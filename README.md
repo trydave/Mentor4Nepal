@@ -226,6 +226,7 @@ Making Personal Statement: </br>
 - https://threadreaderapp.com/thread/1453753435594047494.html 
 
 Podcasts and Webinars: </br>
+- Organized by SONSIK, South Korea: https://youtu.be/wnzAT8UW3t4 </br>
 - Organized by GES, Kathmandu University, Dhulikhel, Nepal: https://youtu.be/HcNkYzvkgCY </br>
 - Organized by GESAN, Pashchimanchal Campus, Tribhuvan University, Pokhara, Nepal: https://youtu.be/azqq4TQll_E </br>
 - Professors Elizabeth Matsui and Roger Peng talk about life in the academic trenches, telling it like it is. https://effortreport.libsyn.com/ </br>
