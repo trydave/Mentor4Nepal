@@ -24,7 +24,7 @@ Interested candidates (National and International) can email me at tridevacharya
 - 4. [Google is phasing out and shifting to step 2]For slower internet or offline working, install Google Drive in your Laptop/Computer. https://dl.google.com/tag/s/appguid%3D%7B3C122445-AECE-4309-90B7-85A6AEF42AC0%7D%26iid%3D%7B9648D435-67BA-D2A7-54D2-1E0B5656BF03%7D%26ap%3Duploader%26appname%3DBackup%2520and%2520Sync%26needsadmin%3Dtrue/drive/installbackupandsync.exe . Go to https://drive.google.com/ and create a folder name: Mentor4Nepal_FullFirstNameInitialLastName_TDA. e.g. Mentor4Nepal_TriDevA_TDA. Select that folder and you will see a human and plus symbol, add there my email address: tridevacharya@gmail[dot]com and tdacharya[at]ucdavis.edu. Now, this folder is shared with me and I can also edit everything. 
 - Add MiniProject_applicaiton (https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck) in the folder and try to fill as much as possible. Simple ideas are welcome and can be improved collaboratively over time.
 - I will add a few files and folders later, then we will work together on them as the next step.
-- Install Mendeley via https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe. Create account with your gmail here https://www.mendeley.com/join and login the app. Finally watch this tutorial https://youtu.be/H4osP8Gp3Kk. To collaborate, create group and invite my and other members gmail, install word and browser plugin and start importing bibliography on the group not private folder.
+- Install Mendeley via https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe. Create account with your gmail here https://www.mendeley.com/join and login the app. Finally watch this tutorial https://youtu.be/H4osP8Gp3Kk. To collaborate, create group (consult for the name of group) and invite via mine and other members' gmail, install word and browser plugin and start importing bibliography on the group not private folder. Use PDF drag and drop for ease but use DOI search for accurate ones. 
 
 In addition, one should think of it as an opportunity to create a life-long mentor-mentee relationship to help each other for a long-term career via Facebook Group [Request only approved after a sucessful proposal of a project]. A one-on-one career counselling will be provided along with a tailored career/research guide based on one’s interest and future milestones such as Education, Job, Investment, Settlement, Marriage, Partner's career, Kids, Family, Society etc. Understanding these milestones from an early age and balancing them is the key to a happy future. One should carefully consider important questions like how much education do I really need, how much money do I need to sustain my future, or when is a good time to marry, start a family and settle. Ideal case is always realizing all these in Nepal together with the family. Read: https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500. 
 
@@ -190,6 +190,18 @@ Making your day productive: </br>
 - Make your day more meaningful: https://www.ayoa.com/ourblog/8-ways-to-make-your-day-more-meaningful/ </br>
 - How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
 
+Podcasts and Webinars: </br>
+- Organized by SONSIK, South Korea: https://youtu.be/wnzAT8UW3t4 </br>
+- Organized by GES, Kathmandu University, Dhulikhel, Nepal: https://youtu.be/HcNkYzvkgCY </br>
+- Organized by GESAN, Pashchimanchal Campus, Tribhuvan University, Pokhara, Nepal: https://youtu.be/azqq4TQll_E </br>
+- Professors Elizabeth Matsui and Roger Peng talk about life in the academic trenches, telling it like it is. https://effortreport.libsyn.com/ </br>
+
+Given most of the inquires I have received are for abroad studies, there are few things to consider before taking that pathway. Read all the points and comments on here https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500 . Talk to your families and friends on these topics and decide: </br>
+- Where will you settle: Nepal or abroad? Once outside, there is rare chance of returning to Nepal.
+- Do you have to take care of your parents? For few years it will be fine, but it will be a major issue once parents reach older age.
+- When to marry, settle, have kids, think partner's career trajectory? Most people think of themself and focus on one aspect of life and end up delaying every other aspects.
+- Above all, what's after grad school? Most student dont have long term plan which will leave them back to the same positon what's next escape?
+
 Understanding and evaluating aspects of life: </br>
 - Five major aspects of life: https://i1.wp.com/themindfool.com/wp-content/uploads/2020/01/The-5-Crucial-Aspects-of-Life-How-to-Balance-Them-01.jpg </br>
 - Twelve aspects of being: https://images.app.goo.gl/xfMcmZVwXjxwQNkv5 </br>
@@ -204,12 +216,15 @@ Career planning: Career planning is a life long process, the earlier one does, t
 - Your Career Planning Essentials https://career.berkeley.edu/Plan/Essentials </br>
 - Your Four-Year Career Plan https://careercenter.umich.edu/article/four-year-plan </br>
 
+Once you decided to go for abroad study, find minimum requirement for the desired degree. Build a good resume, personal statement and draft unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. </br>
+
 Template for Coverletter and CV/Resume: </br>
 - https://ocs.yale.edu/channels/resume-samples-tools/ </br>
 - https://www.science.org/content/article/how-write-winning-r-sum </br>
 - https://gradcareers.nd.edu/application-process/templates-and-examples/ </br>
 - https://career.ucsf.edu/phds/academic-careers/academic-samples#Samples </br>
 - UC Davis Career Resource Manual (CRM) https://icc.ucdavis.edu/services/crm </br>
+- https://mitcommlab.mit.edu/cee/commkit/cv-resume/ </br>
 
 Making Personal Statement: </br>
 - UCAS Personal Statement Advice: https://youtu.be/ChuAMeDR6e8 </br>
@@ -217,6 +232,7 @@ Making Personal Statement: </br>
 - Writing the Statement of Purpose: https://grad.berkeley.edu/admissions/apply/statement-purpose/ </br>
 - SoP Tips for Ivy League Schools: https://www.stoodnt.com/blog/how-to-write-sop-for-us-universities-with-gre-320-340-scores-sop-tips-for-ivy-league-schools/ </br>
 - https://twitter.com/sjay_yayy/status/1436771550443622400 </br>
+- https://mitcommlab.mit.edu/cee/commkit/statement-of-purpose/ </br>
 - https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/civil/public/msc/Writing-Personal-Statements.pdf </br>
 
  Writing Emails to Professors: </br>
@@ -224,13 +240,8 @@ Making Personal Statement: </br>
 - So you wanna go to school: http://humanfactorsblog.org/2016/03/14/so-you-want-to-go-to-school-for-human-factors-the-approach-email/ </br>
 - How to cold email a professor: https://research.berkeley.edu/how-cold-email-professor </br>
 - Re-framing Cold Emails: https://sowasser.com/cold-emails/ </br>
-- https://threadreaderapp.com/thread/1453753435594047494.html 
-
-Podcasts and Webinars: </br>
-- Organized by SONSIK, South Korea: https://youtu.be/wnzAT8UW3t4 </br>
-- Organized by GES, Kathmandu University, Dhulikhel, Nepal: https://youtu.be/HcNkYzvkgCY </br>
-- Organized by GESAN, Pashchimanchal Campus, Tribhuvan University, Pokhara, Nepal: https://youtu.be/azqq4TQll_E </br>
-- Professors Elizabeth Matsui and Roger Peng talk about life in the academic trenches, telling it like it is. https://effortreport.libsyn.com/ </br>
+- https://threadreaderapp.com/thread/1453753435594047494.html </br>
+- https://mitcommlab.mit.edu/eecs/commkit/email/ </br>
 
 Job: Job is an aspect of life that should be carefully considered while planning a career and settlement. Find the minimum requirements of the targeted job while planning education and career, else one can be back to the same position with a higher degree in hand. Research if you can find a job within 100Km, if not it will get difficult with the distance. </br>
 - Geo Jobs https://discourse.pangeo.io/c/news/jobs </br>
@@ -241,7 +252,6 @@ Job: Job is an aspect of life that should be carefully considered while planning
 - Negotiation https://www.glassdoor.com/blog/salary-negotiation-scripts-for-any-job/ </br>
 
 </div>
-
 </br>
 Get connected with me !!!
 <br/>
