@@ -47,6 +47,18 @@ Finally, the types of intelligence [Everyone is different and have their strengt
 - MUST READ: Theory of multiple intelligences: https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences </br>
 - Howard Gardener's 9 types of intelligence : https://100stepsmission.com/2018/10/19/using-the-9-types-of-intelligence-in-management/ </br>
 
+Making your day productive: </br>
+- Plan your day: https://blog.doist.com/how-to-plan-your-day/ </br>
+- Start your day with purpose: https://poewellnesssolutions.com/4-powerful-reasons-for-starting-your-day-with-a-purpose/ </br>
+- Make your day more meaningful: https://www.ayoa.com/ourblog/8-ways-to-make-your-day-more-meaningful/ </br>
+- How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
+
+Podcasts and Webinars: </br>
+- Organized by SONSIK, South Korea: https://youtu.be/wnzAT8UW3t4 [in Nepali] </br>
+- Organized by GES, Kathmandu University, Dhulikhel, Nepal: https://youtu.be/HcNkYzvkgCY </br>
+- Organized by GESAN, Pashchimanchal Campus, Tribhuvan University, Pokhara, Nepal: https://youtu.be/azqq4TQll_E </br>
+- Professors Elizabeth Matsui and Roger Peng talk about life in the academic trenches, telling it like it is. https://effortreport.libsyn.com/ </br>
+
 Understanding Journals: MUST Avoid Reading and Publishing Predatory Journals </br>
 - MUST READ: https://www.facebook.com/tridev/posts/10159426455243501 </br>
 - https://www.linkedin.com/posts/tridev_mentor4nepal-academicjournals-closedaccess-activity-6697692142804066304--nkN </br>
@@ -184,18 +196,6 @@ Improving English of your writings: </br>
 - [ALERT] Use Google/Word Docs Online: As you will be working on Google Drive or BOX with me, you may also open the file with Google Docs (GD online erases the format and cant use refence via mendeley) or Word online (in BOX you can use open with word online) and it will check English by default. </br>
 - For reading use this addon https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja </br>
  
-Making your day productive: </br>
-- Plan your day: https://blog.doist.com/how-to-plan-your-day/ </br>
-- Start your day with purpose: https://poewellnesssolutions.com/4-powerful-reasons-for-starting-your-day-with-a-purpose/ </br>
-- Make your day more meaningful: https://www.ayoa.com/ourblog/8-ways-to-make-your-day-more-meaningful/ </br>
-- How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
-
-Podcasts and Webinars: </br>
-- Organized by SONSIK, South Korea: https://youtu.be/wnzAT8UW3t4 </br>
-- Organized by GES, Kathmandu University, Dhulikhel, Nepal: https://youtu.be/HcNkYzvkgCY </br>
-- Organized by GESAN, Pashchimanchal Campus, Tribhuvan University, Pokhara, Nepal: https://youtu.be/azqq4TQll_E </br>
-- Professors Elizabeth Matsui and Roger Peng talk about life in the academic trenches, telling it like it is. https://effortreport.libsyn.com/ </br>
-
 Given most of the inquires I have received are for abroad studies, there are few things to consider before taking that pathway. Read all the points and comments on here https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500 . Talk to your families and friends on these topics and decide: </br>
 - Where will you settle: Nepal or abroad? Once outside, there is rare chance of returning to Nepal.
 - Do you have to take care of your parents? For few years it will be fine, but it will be a major issue once parents reach older age.
@@ -216,7 +216,7 @@ Career planning: Career planning is a life long process, the earlier one does, t
 - Your Career Planning Essentials https://career.berkeley.edu/Plan/Essentials </br>
 - Your Four-Year Career Plan https://careercenter.umich.edu/article/four-year-plan </br>
 
-Once you decided to go for abroad study, find minimum requirement for the desired degree. Build a good resume, personal statement and draft unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. </br>
+Once you decided to go for abroad study, find minimum requirement for the desired degree. Build a good resume, personal statement and draft unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. Keep in mind that there are 100s of other students and what makes you outstanding to others </br>
 
 Template for Coverletter and CV/Resume: </br>
 - https://ocs.yale.edu/channels/resume-samples-tools/ </br>
