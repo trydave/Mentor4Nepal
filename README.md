@@ -243,7 +243,7 @@ Making Personal Statement: </br>
 - https://mitcommlab.mit.edu/cee/commkit/statement-of-purpose/ </br>
 - https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/civil/public/msc/Writing-Personal-Statements.pdf </br>
 
- Writing Emails to Professors: </br>
+Writing Emails to Professors: </br>
 - MUST READ Four aspects to consider before emailing a professor: https://chrnansen.wixsite.com/nansen2/international-students 
 - So you wanna go to school: http://humanfactorsblog.org/2016/03/14/so-you-want-to-go-to-school-for-human-factors-the-approach-email/ </br>
 - How to cold email a professor: https://research.berkeley.edu/how-cold-email-professor </br>
@@ -251,7 +251,7 @@ Making Personal Statement: </br>
 - https://threadreaderapp.com/thread/1453753435594047494.html </br>
 - https://mitcommlab.mit.edu/eecs/commkit/email/ </br>
 
-
+Job: Job is an aspect of life that should be carefully considered while planning a career and settlement. Find the minimum requirements of the targeted job while planning education and career, else one can be back to the same position with a higher degree in hand. Research if you can find a job within 100Km, if not it will get difficult with the distance. </br>
 - Geo Jobs https://discourse.pangeo.io/c/news/jobs </br>
 - US based Data Science jobs https://datalab.ucdavis.edu/jobs/ </br>
 - US based Geospatial jobs https://www.gislounge.com/gis-job-listings/ [WARNING: Most geospatial jobs in US require Citizen/Permanent Resident, not F1/J1/H1B] </br>
