@@ -53,6 +53,13 @@ Making your day productive: </br>
 - Make your day more meaningful: https://www.ayoa.com/ourblog/8-ways-to-make-your-day-more-meaningful/ </br>
 - How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
 
+Reading strategies: </br>
+- Comprehension: The Goal of Reading https://www.readnaturally.com/research/5-components-of-reading/comprehension </br>
+- Quick Comprehension https://www.lifehack.org/899737/reading-strategies </br>
+- Reading Skills https://www.planetspark.in/blogs/types-of-reading-skills </br>
+- How to Improve Your Reading Skills https://www.indeed.com/career-advice/career-development/how-to-improve-reading-skills </br>
+- https://www.activityshelter.com/reading-strategies-printable/ </br>
+
 Podcasts and Webinars: </br>
 - Organized by SONSIK, South Korea: https://youtu.be/wnzAT8UW3t4 [in Nepali] </br>
 - Organized by GES, Kathmandu University, Dhulikhel, Nepal: https://youtu.be/HcNkYzvkgCY </br>
