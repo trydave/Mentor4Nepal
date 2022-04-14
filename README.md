@@ -205,6 +205,15 @@ For those who plan to use their thesis work as a mini-project for the M4N collab
 - https://www.rochester.edu/college/gradstudies/masters-defense/index.html </br>
 - The Perfect Defense: The Oral Defense of a Dissertation: https://youtu.be/edQv9OKvfdU </br> 
 
+Before you start writing a thesis draft, collect a few examples from the following search engines and outline your contents. As you read papers and progress in your work, write something roughly on these sections with Mendeley references. This will help you remember steps and refine your thesis better while doing the final draft.
+- https://oatd.org/ </br>
+- http://www.dart-europe.eu/basic-search.php </br>
+- https://biblioboard.com/opendissertations/ </br>
+- http://www.dart-europe.eu/basic-search.php </br>
+- https://www.itc.nl/library/research/academic-output </br>
+- Search large university libraries for thesis </br>
+- Simply Google with thesis keyword </br> 
+
 Improving English of your writings: </br>
 - Use MS Word Editor: First go to your Review tab, select your language (British or American English) and then open the editor to check spellings and grammar. </br>
 - Use external tools such as Grammarly: Install MS Office and Chrome plugins: https://app.grammarly.com/apps and use them to check grammar at the end of the above process. </br>
