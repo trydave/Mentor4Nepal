@@ -143,6 +143,7 @@ Further mini-project ideas: </br>
 - https://develop.larc.nasa.gov/project-archive.php </br>
 - https://appliedsciences.nasa.gov/what-we-do/projects </br>
 - https://lcluc.umd.edu/content/documents-and-publications </br>
+- [NASA ROSES-2021](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=848819/solicitationId=%7B8D96BB59-46F5-F289-28A4-34FFBA7B12A1%7D/viewSolicitationDocument=1/LCLUC%20SELECTIONS.pdf)
 - [NASA ROSES-2020](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=785184/solicitationId=%7BD17448F8-8CF2-1868-AF9D-A0056E7D983C%7D/viewSolicitationDocument=1/LCLUC20%20selections.pdf)
 - [NASA ROSES-2019](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=784205/solicitationId=%7B716BCFE6-52B4-DB7F-B79A-59F3E7EE14A2%7D/viewSolicitationDocument=1/LCLUC19_2%20selectionsfinal.pdf)
 - [NASA ROSES-2018](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=708127/solicitationId=%7B86B59095-191F-A73B-D0B2-EAB8BD08A43B%7D/viewSolicitationDocument=1/LCLUC18%20Step%202%20Abstracts.pdf)
