@@ -244,7 +244,7 @@ Career planning: Career planning is a lifelong process, the earlier one does, th
 - Your Career Planning Essentials https://career.berkeley.edu/Plan/Essentials </br>
 - Your Four-Year Career Plan https://careercenter.umich.edu/article/four-year-plan </br>
 
-Once you decided to go for abroad study, find the minimum requirement for the desired degree. Build a good resume, personal statement and draft a unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. Keep in mind that there are 100s of other students and what makes you outstanding to others </br>
+Once you decided to go for abroad study, find the minimum requirement for the desired degree. Build a good resume, personal statement and draft a unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. Keep in mind that there are 100s of other students and what makes you outstanding to others. For those who wish to join PhD read this once https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf </br>
 
 Template for Coverletter and CV/Resume: </br>
 - https://ocs.yale.edu/channels/resume-samples-tools/ </br>
@@ -264,12 +264,17 @@ Making Personal Statement: </br>
 - https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/civil/public/msc/Writing-Personal-Statements.pdf </br>
 
 Writing Emails to Professors: </br>
-- MUST READ Four aspects to consider before emailing a professor: https://chrnansen.wixsite.com/nansen2/international-students 
+- MUST READ Four aspects to consider before emailing a professor: https://chrnansen.wixsite.com/nansen2/international-students </br>
 - So you wanna go to school: http://humanfactorsblog.org/2016/03/14/so-you-want-to-go-to-school-for-human-factors-the-approach-email/ </br>
 - How to cold email a professor: https://research.berkeley.edu/how-cold-email-professor </br>
 - Re-framing Cold Emails: https://sowasser.com/cold-emails/ </br>
 - https://threadreaderapp.com/thread/1453753435594047494.html </br>
 - https://mitcommlab.mit.edu/eecs/commkit/email/ </br>
+
+Sample Recommendation Letters: </br>
+- https://www.uwb.edu/careers/faculty-and-staff/reference-letters/reference-letter-template </br>
+- https://www.naceweb.org/career-development/organizational-structure/sample-faculty-reference-letter/ </br>
+- LinkedIn Samples: https://www.linkedin.com/in/tridev/details/recommendations/ </br>
 
 Job: Job is an aspect of life that should be carefully considered while planning a career and settlement. Find the minimum requirements of the targeted job while planning education and career, else one can be back to the same position with a higher degree in hand. Research if you can find a job within 100Km, if not it will get difficult with the distance. </br>
 - Geo Jobs https://discourse.pangeo.io/c/news/jobs </br>
