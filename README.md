@@ -247,15 +247,15 @@ Career planning: Career planning is a lifelong process, the earlier one does, th
 Once you decided to go for abroad study, find the minimum requirement for the desired degree. Build a good resume, personal statement and draft a unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. Keep in mind that there are 100s of other students and what makes you outstanding to others. For those who wish to join PhD read this once https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf </br>
 
 Template for Coverletter and CV/Resume: </br>
+- UC Davis Career Resource Manual (CRM) https://icc.ucdavis.edu/services/crm </br>
 - https://mitcommlab.mit.edu/be/commkit/cover-letter-for-a-job/ </br>
+- Resume types https://www.zipjob.com/blog/resume-format-types/ </br>
 - https://mitcommlab.mit.edu/cee/commkit/cv-resume/ </br>
 - https://ocs.yale.edu/channels/sample-cover-letters-correspondence/ </br>
 - https://ocs.yale.edu/channels/resume-samples-tools/ </br>
 - https://www.science.org/content/article/how-write-winning-r-sum </br>
 - https://gradcareers.nd.edu/application-process/templates-and-examples/ </br>
 - https://career.ucsf.edu/phds/academic-careers/academic-samples#Samples </br>
-- UC Davis Career Resource Manual (CRM) https://icc.ucdavis.edu/services/crm </br>
-- Resume types https://www.zipjob.com/blog/resume-format-types/ </br>
 
 Making Personal Statement: </br>
 - UCAS Personal Statement Advice: https://youtu.be/ChuAMeDR6e8 </br>
