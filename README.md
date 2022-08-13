@@ -293,6 +293,7 @@ Job: Job is an aspect of life that should be carefully considered while planning
 - For North American and Global jobs https://www.linkedin.com/jobs/ </br>
 - Other job boards https://icc.ucdavis.edu/find/resources/online-job-search/job-boards </br>
 - Negotiation https://www.glassdoor.com/blog/salary-negotiation-scripts-for-any-job/ </br>
+- Utilizing LinkedIn https://www.topresume.com/career-advice/14-ways-to-leverage-your-linkedin-profile-during-your-job-search </br>
 
 </div>
 </br>
