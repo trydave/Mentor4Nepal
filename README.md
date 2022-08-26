@@ -53,6 +53,11 @@ Making your day productive: </br>
 - Make your day more meaningful: https://www.ayoa.com/ourblog/8-ways-to-make-your-day-more-meaningful/ </br>
 - How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
 
+Productive career with Multitasking? </br>
+- https://www.indeed.com/career-advice/career-development/multi-tasking-skills </br>
+- https://www.careeraddict.com/multitasking-skills </br>
+- https://milyin.com/17-vital-tips-for-how-to-improve-your-multitasking-skills-easily/ </br>
+
 Reading strategies: </br>
 - Comprehension: The Goal of Reading https://www.readnaturally.com/research/5-components-of-reading/comprehension </br>
 - Quick Comprehension https://www.lifehack.org/899737/reading-strategies </br>
