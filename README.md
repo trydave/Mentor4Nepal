@@ -256,6 +256,7 @@ Template for Coverletter and CV/Resume: </br>
 - https://mitcommlab.mit.edu/be/commkit/cover-letter-for-a-job/ </br>
 - Resume types https://www.zipjob.com/blog/resume-format-types/ </br>
 - https://mitcommlab.mit.edu/cee/commkit/cv-resume/ </br>
+- https://resumegenius.com/blog/resume-help/star-method-resume </br>
 - https://ocs.yale.edu/channels/sample-cover-letters-correspondence/ </br>
 - https://ocs.yale.edu/channels/resume-samples-tools/ </br>
 - https://www.science.org/content/article/how-write-winning-r-sum </br>
