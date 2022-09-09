@@ -289,7 +289,7 @@ Job: Job is an aspect of life that should be carefully considered while planning
 - Geo Jobs https://discourse.pangeo.io/c/news/jobs </br>
 - Geospatial jobs https://geospatial.substack.com/archive </br>
 - US based Data Science jobs https://datalab.ucdavis.edu/jobs/ </br>
-- US based Geospatial jobs https://www.gislounge.com/gis-job-listings/ [WARNING: Most geospatial jobs in US require Citizen/Permanent Resident, not F1/J1/H1B] Some examples are as following. So, be careful while choosing program and courses in US.</br>
+- US based Geospatial jobs https://www.gislounge.com/gis-job-listings/ [WARNING: Most geospatial jobs in US require Citizen/Permanent Resident, not F1/J1/H1B] Some examples are as following. So, be careful while choosing program and courses that are core geospatial like Geographic Information Sciences and Geospatial Data Science Specialization in US.</br>
   - Machine Learning Quality Engineer / Image Analyst position requires being a US citizen.
   - A U.S. citizen or U.S. permanent resident.
   - Must be US Citizen.
