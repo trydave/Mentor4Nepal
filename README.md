@@ -286,15 +286,16 @@ Sample Recommendation Letters: </br>
 - LinkedIn Samples: https://www.linkedin.com/in/tridev/details/recommendations/ </br>
 
 Job: Job is an aspect of life that should be carefully considered while planning a career and settlement. Find the minimum requirements of the targeted job while planning education and career, else one can be back to the same position with a higher degree in hand. Research if you can find a job within 100Km, if not it will get difficult with the distance. </br>
-- US based Geospatial jobs https://www.gislounge.com/gis-job-listings/ [WARNING: Most geospatial jobs in US require Citizen/Permanent Resident, not F1/J1/H1B] Some examples are as following. So, be careful while choosing program and courses that are core geospatial like Geographic Information Sciences and Geospatial Data Science Specialization in US.</br>
+- **WARNING**: Most geospatial jobs in US require Citizen/Permanent Resident, not F1/J1/H1B. Some examples are as following. So, be careful while choosing program and courses that are core geospatial like Geographic Information Sciences and Geospatial Data Science Specialization in US.</br>
   - Machine Learning Quality Engineer / Image Analyst position requires being a US citizen.
   - A U.S. citizen or U.S. permanent resident.
   - Must be US Citizen.
   - Active Top Secret/SCI Clearance.
   - Ability and desire to obtain a clearance.
   - Must have current/active TS/SCI security clearance and be willing and able to obtain CI Polygraph.
-- For North American and Global jobs https://www.linkedin.com/jobs/ </br>
+- US based Geospatial jobs https://www.gislounge.com/gis-job-listings/ 
 - US based Data Science jobs https://datalab.ucdavis.edu/jobs/ </br>
+- For North American and Global jobs https://www.linkedin.com/jobs/ </br>
 - Geo Jobs https://discourse.pangeo.io/c/news/jobs </br>
 - Geospatial jobs https://geospatial.substack.com/archive </br>
 - Other job boards https://icc.ucdavis.edu/find/resources/online-job-search/job-boards </br>
