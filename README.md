@@ -172,6 +172,7 @@ R-based </br>
 - An Introduction to Statistical Learning with Applications in R https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf 
 - ggplot2: Elegant Graphics for Data Analysis https://ggplot2-book.org/ </br>
 - Efficient R programming https://csgillespie.github.io/efficientR/ </br>
+- Advanced R Solutions https://advanced-r-solutions.rbind.io/ </br>
 - Geocomputation with R https://geocompr.robinlovelace.net/ </br>
 - Using Spatial Data with R https://cengel.github.io/R-spatial/ </br>
 - Geospatial Health https://www.paulamoraga.com/book-geospatial/ </br>
