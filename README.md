@@ -71,13 +71,13 @@ Podcasts and Webinars: </br>
 - Organized by GESAN, Pashchimanchal Campus, Tribhuvan University, Pokhara, Nepal: https://youtu.be/azqq4TQll_E </br>
 - Professors Elizabeth Matsui and Roger Peng talk about life in the academic trenches, telling it like it is. https://effortreport.libsyn.com/ </br>
 
-Understanding Journals and Plagiarism : MUST Avoid Reading and Publishing Predatory Journals </br>
+Understanding Journals and Plagiarism : MUST Avoid Copy-Pasting, and Publishing on Predatory Journals </br>
 - MUST READ: https://www.facebook.com/tridev/posts/10159426455243501 </br>
 - https://www.linkedin.com/posts/tridev_mentor4nepal-academicjournals-closedaccess-activity-6697692142804066304--nkN </br>
 - https://predatoryjournals.com/journals/ </br>
 - https://beallslist.net/ </br>
 - If you read any journal article, try to follow the summary table: https://docs.google.com/document/d/1v53d3DzZewu-AitJvIM-0cq2yNoLgjORutS4aj7UJ6s </br>
-- MUST READ: https://doi.org/10.1016/j.annals.2019.05.003 </br>
+- MUST READ: https://doi.org/10.1016/j.annals.2019.05.003 and https://doi.org/10.1371/journal.pcbi.1006036  </br>
 - Example of plagiarism https://twitter.com/stagge_hydro/status/1569644521985822722?s=20&t=AEwGZiIfTydGlwalGwWANQ </br>
 
 List of core research journals: </br>
