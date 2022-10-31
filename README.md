@@ -252,7 +252,7 @@ Career planning: Career planning is a lifelong process, the earlier one does, th
 - Your Career Planning Essentials https://career.berkeley.edu/Plan/Essentials </br>
 - Your Four-Year Career Plan https://careercenter.umich.edu/article/four-year-plan </br>
 
-Once you decided to go for abroad study, find the minimum requirement for the desired degree. Build a good resume, personal statement and draft a unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. Keep in mind that there are 100s of other students and what makes you outstanding to others. For those who wish to join PhD read this once https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf </br>
+Once you decided to go for abroad study, find the minimum requirement for the desired degree. Build a good resume, personal statement and draft a unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. Keep in mind that there are 100s of other students and what makes you outstanding to others. Read this advice: https://sarah-cooley.com/applying-to-graduate-school. For those who wish to join PhD read this once https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf </br>
 
 Template for Coverletter and CV/Resume: </br>
 - UC Davis Career Resource Manual (CRM) https://icc.ucdavis.edu/services/crm </br>
