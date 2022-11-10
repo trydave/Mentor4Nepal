@@ -96,7 +96,7 @@ Building Foundation: Doing Systemic Review: </br>
 - https://lib.guides.umd.edu/SR/steps </br>
 - http://ueberfachliche-kompetenzen.ethz.ch/dopraedi/pdfs/Mayer/guidelines_review_article.pdf </br>
 
-If you plaen to write a review paper, dont just collect papers summary but try to bring collective wisdom and have few experts in the filed to contribute. Some examples of review articles: 
+If you plan to write a review paper, dont just collect papers summary but try to bring collective wisdom and have few experts in the filed to contribute. Some examples of review articles: 
 -	https://doi.org/10.1016/j.trc.2020.102948 
 -	https://doi.org/10.1016/j.earscirev.2018.03.001 
 -	https://doi.org/10.1016/j.scitotenv.2021.146193 
