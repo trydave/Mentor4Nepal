@@ -297,6 +297,7 @@ Making Personal Statement or Statement of Purpose (SOP): </br>
 Making Research Statement or Proposal: </br>
 - https://gradschool.cornell.edu/career-and-professional-development/pathways-to-success/prepare-for-your-career/take-action/research-statement/ </br>
 - https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/writing-research-statement.pdf </br>
+- https://careers.uw.edu/wp-content/uploads/sites/25/2016/06/Research-Statements.pdf </br>
 - https://www.csuci.edu/wmc/pdf/handouts/researchstatement-handout.pdf </br>
 - https://youtu.be/egEFWfZvBpA </br>
 
