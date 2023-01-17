@@ -277,7 +277,7 @@ Template for Coverletter and CV/Resume: </br>
 - https://gradcareers.nd.edu/application-process/templates-and-examples/ </br>
 - https://career.ucsf.edu/phds/academic-careers/academic-samples#Samples </br>
 
-Making Personal Statement: </br>
+Making Personal Statement or Statement of Purpose (SOP): </br>
 - UCAS Personal Statement Advice: https://youtu.be/ChuAMeDR6e8 </br>
 - How to write a KILLER personal statement!: https://youtu.be/955Z7n2L_C0 </br>
 - Writing the Statement of Purpose: https://grad.berkeley.edu/admissions/apply/statement-purpose/ </br>
@@ -285,6 +285,10 @@ Making Personal Statement: </br>
 - https://twitter.com/sjay_yayy/status/1436771550443622400 </br>
 - https://mitcommlab.mit.edu/cee/commkit/statement-of-purpose/ </br>
 - https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/civil/public/msc/Writing-Personal-Statements.pdf </br>
+
+Making Research Statement or Proposal: </br>
+- https://owl.purdue.edu/owl/general_writing/graduate_school_applications/writing_a_research_statement.html </br>
+- https://www.csuci.edu/wmc/pdf/handouts/researchstatement-handout.pdf </br>
 
 Writing Emails to Professors: </br>
 - MUST READ Four aspects to consider before emailing a professor: https://chrnansen.wixsite.com/nansen2/international-students </br>
