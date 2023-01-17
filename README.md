@@ -237,6 +237,14 @@ Before you start writing a thesis draft, collect a few examples from the followi
 - Search large university libraries for thesis </br>
 - Simply Google with thesis keyword </br> 
 
+Thesis Proposal: 
+- https://mitcommlab.mit.edu/cheme/commkit/navigatingproposal/ </br>
+- https://mitcommlab.mit.edu/cheme/commkit/mit-cheme-thesis-proposal-2/ </br>
+- https://mitcommlab.mit.edu/cheme/commkit/oral-thesis-proposal/ </br>
+- https://mitcommlab.mit.edu/meche/commkit/thesis-proposal/ </br>
+- https://youtu.be/eALzUfkQJRU </br>
+- https://youtu.be/DFp1uGTXo4Q </br>
+
 Improving English of your writings: </br>
 - Use MS Word Editor: First go to your Review tab, select your language (British or American English) and then open the editor to check spellings and grammar. </br>
 - Use external tools such as Grammarly: Install MS Office and Chrome plugins: https://app.grammarly.com/apps and use them to check grammar at the end of the above process. </br>
@@ -287,8 +295,10 @@ Making Personal Statement or Statement of Purpose (SOP): </br>
 - https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/civil/public/msc/Writing-Personal-Statements.pdf </br>
 
 Making Research Statement or Proposal: </br>
-- https://owl.purdue.edu/owl/general_writing/graduate_school_applications/writing_a_research_statement.html </br>
+- https://gradschool.cornell.edu/career-and-professional-development/pathways-to-success/prepare-for-your-career/take-action/research-statement/ </br>
+- https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/writing-research-statement.pdf </br>
 - https://www.csuci.edu/wmc/pdf/handouts/researchstatement-handout.pdf </br>
+- https://youtu.be/egEFWfZvBpA </br>
 
 Writing Emails to Professors: </br>
 - MUST READ Four aspects to consider before emailing a professor: https://chrnansen.wixsite.com/nansen2/international-students </br>
