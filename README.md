@@ -177,6 +177,10 @@ Further mini-project ideas: </br>
 - [NASA ROSES-2008](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=177873/solicitationId=%7B054D0B58-AFC4-417D-CE1C-276AFEC80DED%7D/viewSolicitationDocument=1/LCLUC08-2%20Selections.pdf)
 - [NASA ROSES-2005](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=30403/solicitationId=%7BCF0FE22B-851B-F2A7-2E23-121EBA1849F0%7D/viewSolicitationDocument=1/NNH05ZDA001-LULUC_Summary.pdf)
 - [NASA ICESat-2](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=742911/solicitationId=%7BE0000836-B11D-EBF3-80E3-260784082E4B%7D/viewSolicitationDocument=1/ICESAT%20selectionsCMH%20(003).pdf)
+- [NASA FINESST 2019](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=701992/solicitationId=%7B913A7DEE-2747-6539-130C-0AB1E2322F42%7D/viewSolicitationDocument=1/Updated%20ESD%20FINESST19%20SELECTIONS%207.24.19.pdf)
+- [NASA FINESST 2020](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=756557/solicitationId=%7BE16CD59F-29DD-06C0-8971-CE1A9C252FD4%7D/viewSolicitationDocument=1/Earth%20selectionsFINALfinal%20(002).pdf)
+- [NASA FINESST 2021](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=834431/solicitationId=%7B3E72ED7E-1FBD-F815-5A4E-2DA033EF7449%7D/viewSolicitationDocument=1/Updated%20FINESST20%20Earth%20Science%20Web%20Posting.pdf)
+- [NASA FINESST 2022](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=887035/solicitationId=%7B87947100-56AE-C4DC-C511-0349862D658A%7D/viewSolicitationDocument=1/FINESST-21%20Earth%20Science%20Division%20Selections%20June%2030%202022.pdf)
 
 Collection of Ebooks: </br>
 R-based </br>
