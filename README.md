@@ -312,6 +312,7 @@ Writing Emails to Professors: </br>
 - Re-framing Cold Emails: https://sowasser.com/cold-emails/ </br>
 - https://threadreaderapp.com/thread/1453753435594047494.html </br>
 - https://mitcommlab.mit.edu/eecs/commkit/email/ </br>
+- http://www.malloryladd.com/uploads/2/3/6/0/23606636/2013_doctoral_applicant_email.pdf </br>
 
 Sample Recommendation Letters: </br>
 - https://www.uwb.edu/careers/faculty-and-staff/reference-letters/reference-letter-template </br>
