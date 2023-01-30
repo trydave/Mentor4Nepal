@@ -201,6 +201,7 @@ R-based </br>
 - Using Spatial Data with R https://cengel.github.io/R-spatial/ </br>
 - Geospatial Health https://www.paulamoraga.com/book-geospatial/ </br>
 - Case Studies in Reproducible Research: A spring seminar at UCSC https://eriqande.github.io/rep-res-eeb-2017/ </br>
+- Satellite Image Time Series Analysis for Big Earth Observation Data https://e-sensing.github.io/sitsbook/index.html </br>
 - Geospatial applications using the R programming language, Duke University https://guides.library.duke.edu/r-geospatial </br>
 
 Python-based </br>
