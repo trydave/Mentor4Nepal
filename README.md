@@ -335,10 +335,9 @@ Job: Job is an aspect of life that should be carefully considered while planning
 - **WARNING**: Most geospatial jobs in US require Citizen/Permanent Resident, not F1/J1/H1B. Some examples are as following. So, be careful while choosing program and courses that are Non-STEM like MA Geography and very core geospatial like Geographic Information Sciences and Geospatial Data Science Specialization.</br>
   - Machine Learning Quality Engineer / Image Analyst position requires being a US citizen.
   - A U.S. citizen or U.S. permanent resident.
-  - Must be US Citizen.
-  - Active Top Secret/SCI Clearance.
-  - Ability and desire to obtain a clearance.
+  - Active Top Secret/SCI Clearance or ability and desire to obtain a clearance.
   - Must have current/active TS/SCI security clearance and be willing and able to obtain CI Polygraph.
+  - U.S. Citizenship is required along with the ability to obtain and maintain a U.S. government security clearance.
 - US based Geospatial jobs https://www.gislounge.com/gis-job-listings/ 
 - US based Data Science jobs https://datalab.ucdavis.edu/jobs/ </br>
 - For North American and Global jobs https://www.linkedin.com/jobs/ </br>
