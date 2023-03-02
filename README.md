@@ -204,6 +204,7 @@ R-based </br>
 - Case Studies in Reproducible Research: A spring seminar at UCSC https://eriqande.github.io/rep-res-eeb-2017/ </br>
 - Satellite Image Time Series Analysis for Big Earth Observation Data https://e-sensing.github.io/sitsbook/index.html </br>
 - Geospatial applications using the R programming language, Duke University https://guides.library.duke.edu/r-geospatial </br>
+- Hydroinformatics at VT https://vt-hydroinformatics.github.io/ </br>
 
 Python-based </br>
 - https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition </br>
