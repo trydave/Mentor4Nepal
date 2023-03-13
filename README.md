@@ -193,7 +193,8 @@ Further mini-project ideas: </br>
 
 Collection of Ebooks: </br>
 R-based </br>
-- An Introduction to Statistical Learning with Applications in R https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf 
+- An Introduction to Statistical Learning with Applications in R https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf </br>
+- http://r-statistics.co/ or http://r-statistics.co/R-Tutorial.html </br>
 - ggplot2: Elegant Graphics for Data Analysis https://ggplot2-book.org/ </br>
 - Efficient R programming https://csgillespie.github.io/efficientR/ </br>
 - Advanced R Solutions https://advanced-r-solutions.rbind.io/ </br>
