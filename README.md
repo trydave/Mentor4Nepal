@@ -201,9 +201,11 @@ R-based </br>
 - Using R: https://www.routledge.com/rsc/downloads/Using_R.pdf </br>
 - Using Spatial Data with R https://cengel.github.io/R-spatial/ </br>
 - Geospatial Health https://www.paulamoraga.com/book-geospatial/ </br>
+- Elegant and informative maps with tmap https://r-tmap.github.io/tmap-book/ </br>
 - Case Studies in Reproducible Research: A spring seminar at UCSC https://eriqande.github.io/rep-res-eeb-2017/ </br>
 - Satellite Image Time Series Analysis for Big Earth Observation Data https://e-sensing.github.io/sitsbook/index.html </br>
 - Geospatial applications using the R programming language, Duke University https://guides.library.duke.edu/r-geospatial </br>
+- Geographic Data Science with R: Visualizing and Analyzing Environmental Change https://bookdown.org/mcwimberly/gdswr-book/ </br>
 - Hydroinformatics at VT https://vt-hydroinformatics.github.io/ </br>
 
 Python-based </br>
@@ -280,6 +282,22 @@ Understanding and evaluating aspects of life: </br>
 - Balancing wheel of life: https://medium.com/thrive-global/how-does-one-become-centered-and-balanced-bb28627a4461 </br>
 - Esential life skills: https://donations.heartfulness.org/static/b423be2e20c1dad9fe45621f807de4a8/help-donation.png </br>
 - The SPIRE Model of Happiness: How to Enhance Your Wellbeing: https://www.astridbaumgardner.com/uncategorized/the-spire-model-of-happiness-how-to-enhance-your-wellbeing/ </br>
+
+Understanding yourself and your situation: </br>
+- Are you comparing too much with others?
+- What is your next life goal, not career or education?
+- What is your next promotion look like? Do you have those skills and requirements to compete?
+- What exactly are you missing from this promotion?
+- What is your economic threshold? How much is basic security for you?
+- What skill can enhance your earning, not adding certificates that overqualified you in the job market?
+- Are you afraid to leave your comfort zone?
+- Are you running away from problems and conflicts in life?
+- Can you see problems around you? Problems in daily life, work, and everywhere?
+- What is stopping you to solve this problem?
+- Can you develop a business model out of these problems to generate an economy and job market?
+- Have you ever evaluated your past, current, and future in a dark room with absolute silence?
+- Have you ever talked to your parents, and colleagues and validated your thoughts or seek advice?
+- Have you ever tried hobby jobs on the weekend or free time?
 
 Career planning: Career planning is a lifelong process, the earlier one does, the better it becomes. Target your mid-term and long-term goals, take the next step (might be difficult compared to the easy next step) towards the career goal. </br>
 - Do a proper career research and planning https://icc.ucdavis.edu/research </br>
