@@ -284,6 +284,10 @@ Understanding and evaluating aspects of life: </br>
 - The SPIRE Model of Happiness: How to Enhance Your Wellbeing: https://www.astridbaumgardner.com/uncategorized/the-spire-model-of-happiness-how-to-enhance-your-wellbeing/ </br>
 
 Understanding yourself and your situation: </br>
+- Are you self-aware?
+- Do you understand yourself: your values, morale, work style, pace of understanding, work style, trusting instincts?
+- When have you seen or felt yourself doing your best?
+- How have you handled your worst day?
 - Are you comparing too much with others?
 - What is your next life goal, not career or education?
 - What is your next promotion look like? Do you have those skills and requirements to compete?
