@@ -298,6 +298,11 @@ Understanding yourself and your situation: </br>
 - Have you ever evaluated your past, current, and future in a dark room with absolute silence?
 - Have you ever talked to your parents, and colleagues and validated your thoughts or seek advice?
 - Have you ever tried hobby jobs on the weekend or free time?
+- What is your family legacy in the country?
+- What do your parents want for you?
+- What are your family’s strengths? Have you ever completed those skills/expertise to build a strong family business?
+- Have you ever planned for retirement? What age, financial figure, and where?
+- Have you ever reversed your life from your retirement plan? Age for last kid, the age for marriage, etc
 
 Career planning: Career planning is a lifelong process, the earlier one does, the better it becomes. Target your mid-term and long-term goals, take the next step (might be difficult compared to the easy next step) towards the career goal. </br>
 - Do a proper career research and planning https://icc.ucdavis.edu/research </br>
