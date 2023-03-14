@@ -195,11 +195,11 @@ Collection of Ebooks: </br>
 R-based </br>
 - An Introduction to Statistical Learning with Applications in R https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf </br>
 - http://r-statistics.co/ or http://r-statistics.co/R-Tutorial.html </br>
-- ggplot2: Elegant Graphics for Data Analysis https://ggplot2-book.org/ </br>
 - Efficient R programming https://csgillespie.github.io/efficientR/ </br>
 - Advanced R Solutions https://advanced-r-solutions.rbind.io/ </br>
 - Geocomputation with R https://geocompr.robinlovelace.net/ </br>
 - Using R: https://www.routledge.com/rsc/downloads/Using_R.pdf </br>
+- Hydroinformatics at VT https://vt-hydroinformatics.github.io/ </br>
 - Using Spatial Data with R https://cengel.github.io/R-spatial/ </br>
 - Geospatial Health https://www.paulamoraga.com/book-geospatial/ </br>
 - Elegant and informative maps with tmap https://r-tmap.github.io/tmap-book/ </br>
@@ -207,7 +207,8 @@ R-based </br>
 - Satellite Image Time Series Analysis for Big Earth Observation Data https://e-sensing.github.io/sitsbook/index.html </br>
 - Geospatial applications using the R programming language, Duke University https://guides.library.duke.edu/r-geospatial </br>
 - Geographic Data Science with R: Visualizing and Analyzing Environmental Change https://bookdown.org/mcwimberly/gdswr-book/ </br>
-- Hydroinformatics at VT https://vt-hydroinformatics.github.io/ </br>
+- ggplot2: Elegant Graphics for Data Analysis https://ggplot2-book.org/ </br>
+- All kinds of graph with example codes: https://r-graph-gallery.com/
 
 Python-based </br>
 - https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition </br>
