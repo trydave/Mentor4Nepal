@@ -286,29 +286,37 @@ Understanding and evaluating aspects of life: </br>
 - The SPIRE Model of Happiness: How to Enhance Your Wellbeing: https://www.astridbaumgardner.com/uncategorized/the-spire-model-of-happiness-how-to-enhance-your-wellbeing/ </br>
 
 Understanding yourself and your situation: </br>
-- Are you self-aware?
-- Do you understand yourself: your values, morale, work style, pace of understanding, work style, trusting instincts?
+- Are you self-aware? Do you understand yourself: your values, morale, work style, pace of understanding, work style, trusting instincts?
 - When have you seen or felt yourself doing your best?
 - How have you handled your worst day?
+- Do you complain alot?
 - Are you comparing too much with others?
+- Do you blame others like government, society, university, education, teachers etc.?
+- Have you ever evaluated your past, current, and future in a dark room with absolute silence?
+- What's your interest? What you like most? What will never get you bored?
 - What is your next life goal, not career or education?
-- What is your next promotion look like? Do you have those skills and requirements to compete?
-- What exactly are you missing from this promotion?
+- What is your family legacy in the country?
+- What do your parents want for you?
+- What is your next promotion look like?
+- Do you have those skills and requirements to compete?
+- What exactly are you missing for this promotion?
+- If you know the missing piece, are you on track to gain that knowledge?
+- What's the road block?
+- Have you aked searched internet, asked seniors, consulted your teachers or parents ever? 
+- Are you taking small steps at a time or just thinking big only?
 - What is your economic threshold? How much is basic security for you?
 - What skill can enhance your earning, not adding certificates that overqualified you in the job market?
 - Are you afraid to leave your comfort zone?
 - Are you running away from problems and conflicts in life?
 - Can you see problems around you? Problems in daily life, work, and everywhere?
-- What is stopping you to solve this problem?
+- What is stopping you to solve these problems?
 - Can you develop a business model out of these problems to generate an economy and job market?
-- Have you ever evaluated your past, current, and future in a dark room with absolute silence?
-- Have you ever talked to your parents, and colleagues and validated your thoughts or seek advice?
 - Have you ever tried hobby jobs on the weekend or free time?
-- What is your family legacy in the country?
-- What do your parents want for you?
-- What are your family’s strengths? Have you ever completed those skills/expertise to build a strong family business?
+- What are your family members' strengths?
+- Have you ever complemented those skills/expertise to build a strong family business?
 - Have you ever planned for retirement? What age, financial figure, and where?
 - Have you ever reversed your life from your retirement plan? Age for last kid, the age for marriage, etc
+- Have you ever talked to your parents, and colleagues and validated your thoughts or seek advice?
 
 Career planning: Career planning is a lifelong process, the earlier one does, the better it becomes. Target your mid-term and long-term goals, take the next step (might be difficult compared to the easy next step) towards the career goal. </br>
 - Do a proper career research and planning https://icc.ucdavis.edu/research </br>
