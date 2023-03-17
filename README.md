@@ -376,7 +376,7 @@ Job: Job is an aspect of life that should be carefully considered while planning
   - Active Top Secret/SCI Clearance or ability and desire to obtain a clearance.
   - Must have current/active TS/SCI security clearance and be willing and able to obtain CI Polygraph.
   - U.S. Citizenship is required along with the ability to obtain and maintain a U.S. government security clearance.
-- Alternative market are for a professional land surveyor (PLS), a certified geographic information systems professional (GISP) or a developer. The best is developer if you develop your skillset before entering US or start licence for PLS, GISP or remote pilot-in-command (RPIC) licenses asap you enter US.
+- Alternative market are for a professional land surveyor (PLS), a certified geographic information systems professional (GISP) or a developer. The best is developer if you develop your skillset before entering US or start licence for PLS, GISP or remote pilot-in-command (RPIC) licenses asap you enter US. Last resort is third-party contracters like KBR, TetraTech or construction company etc with talent accquition/recruitment firms like InSight Global with no benifits for 6 monhts.
 - US based Geospatial jobs https://www.gislounge.com/gis-job-listings/ 
 - US based Data Science jobs https://datalab.ucdavis.edu/jobs/ </br>
 - For North American and Global jobs https://www.linkedin.com/jobs/ </br>
