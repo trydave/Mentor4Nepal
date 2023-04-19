@@ -372,14 +372,17 @@ Sample Recommendation Letters: </br>
 - https://www.naceweb.org/career-development/organizational-structure/sample-faculty-reference-letter/ </br>
 - LinkedIn Samples: https://www.linkedin.com/in/tridev/details/recommendations/ </br>
 
-Job: Job is an aspect of life that should be carefully considered while planning a career and settlement. Find the minimum requirements of the targeted job while planning education and career, or else one can be back to the same position with a higher degree in hand. Research if you can find a job within 100 km, if not it will get difficult with the distance. </br>
-- **WARNING**: Most geospatial jobs in the US require Citizen/Permanent Resident, not F1/J1/H1B. Some examples are as follows. So, be careful while choosing programs and courses that are Non-STEM like MA Geography and very core geospatial like Geographic Information Sciences and Geospatial Data Science Specialization.</br>
+Job: Job is an aspect of life that should be carefully considered while planning a career and settlement. Find the minimum requirements of the targeted job while planning education and career, or else one can be back to the same position with a higher degree in hand. Research if you can find a job within 100 km, if not it will get difficult with the distance. Read the challanges of recent graduate students https://lnkd.in/gRxaCmWk </br>
+- **WARNING**: Most geospatial jobs in the US require Citizen/Permanent Resident, not F1/J1/H1B. Some examples are as follows. So, be careful while choosing programs and courses that are Non-STEM like MA Geography and very core geospatial like Geographic Information Sciences and Geospatial Data Science Specialization. And dont waste time on applying jobs that require the followings. </br>
   - Machine Learning Quality Engineer / Image Analyst position requires being a US citizen.
   - A U.S. citizen or U.S. permanent resident.
   - Active Top Secret/SCI Clearance or ability and desire to obtain a clearance.
   - Must have current/active TS/SCI security clearance and be willing and able to obtain CI Polygraph.
   - U.S. Citizenship is required along with the ability to obtain and maintain a U.S. government security clearance.
 - Alternative markets are for a professional land surveyor (PLS), certified geographic information systems professional (GISP), or a developer. The best is developer if you develop your skillset before entering the US or start a license for PLS, GISP, or remote pilot-in-command (RPIC) licenses asap you enter the US. The last resort is third-party contractors like KBR, TetraTech or construction companies, etc with talent acquisition/recruitment firms like InSight Global with no benefits for 6 months.
+- Divide 3-5 category of jobs you see in the market like Sat Company, PrecAg, Utility, Construction, etc. and adapt your Resume and Coverletter as per these categories.
+- Make details relevant to the job not what you did. Remember companies want average long term employee not smart short-term jumpers.
+- Always add "After selection,..." what you will do if selected that is relevant to the job and what you will try your best to learn.
 - US-based Geospatial jobs https://www.gislounge.com/gis-job-listings/ 
 - US-based Data Science jobs https://datalab.ucdavis.edu/jobs/ </br>
 - For North American and Global jobs https://www.linkedin.com/jobs/ </br>
