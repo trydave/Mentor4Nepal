@@ -145,6 +145,7 @@ Few mini-project ideas but not limited to:
 - Water bodies & boundaries detection with SAR
 - Surace water dynamics over a long period
 - Spaceborne gravity and anomaly
+- Informal settlement identification
 - Geospatial analysis of Twitter hashtags
 - Ecosystem services value of Nepalese regions
 - Deep / Machine Learning modeling and prediction
