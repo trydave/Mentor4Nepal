@@ -275,7 +275,7 @@ Improving the English of your writings: </br>
 - For reading use this addon https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja </br>
  
 Given most of the inquiries I have received are for abroad studies, there are a few things to consider before taking that pathway. Read all the points and comments here https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500. Talk to your families and friends on these topics and decide </br>
-- Where will you settle: Nepal or abroad? Once outside, there is a rare chance of returning to Nepal.
+- Where will you settle: Nepal or abroad? Once outside, there is a rare chance of returning to Nepal. Now understand purpose and disadvantage of graduate degree https://lnkd.in/duWwy9hN 
 - Do you have to take care of your parents? For a few years, it will be fine, but it will be a major issue once parents reach older age.
 - When to marry, settle, have kids, and think partner's career trajectory? Most people think of themself and focus on one aspect of life and end up delaying every other aspect.
 - Above all, what's after grad school? Most students don't have a long-term plan which will leave them back in the same position what's the next escape?
