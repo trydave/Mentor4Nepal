@@ -53,7 +53,7 @@ Making your day productive: </br>
 - Plan your day: https://blog.doist.com/how-to-plan-your-day/ </br>
 - Start your day with purpose: https://poewellnesssolutions.com/4-powerful-reasons-for-starting-your-day-with-a-purpose/ </br>
 - Make your day more meaningful: https://www.ayoa.com/ourblog/8-ways-to-make-your-day-more-meaningful/ </br>
-- How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
+- Make the Most Out of your Day: https://www.minimalismmadesimple.com/home/make-the-most-out-of-your-day/ </br>
 
 A productive career with Multitasking? </br>
 - https://www.indeed.com/career-advice/career-development/multi-tasking-skills </br>
@@ -371,6 +371,9 @@ Sample Recommendation Letters: </br>
 - https://www.uwb.edu/careers/faculty-and-staff/reference-letters/reference-letter-template </br>
 - https://www.naceweb.org/career-development/organizational-structure/sample-faculty-reference-letter/ </br>
 - LinkedIn Samples: https://www.linkedin.com/in/tridev/details/recommendations/ </br>
+
+Being a Grad Student: </br>
+- How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
 
 Job: Job is an aspect of life that should be carefully considered while planning a career and settlement. Find the minimum requirements of the targeted job while planning education and career, or else one can be back to the same position with a higher degree in hand. Research if you can find a job within 100 km, if not it will get difficult with the distance. Read the challanges of recent graduate students https://lnkd.in/gRxaCmWk </br>
 - **WARNING**: Most geospatial jobs in the US require Citizen/Permanent Resident, not F1/J1/H1B. Some examples are as follows. So, be careful while choosing programs and courses that are Non-STEM like MA Geography and very core geospatial like Geographic Information Sciences and Geospatial Data Science Specialization. And dont waste time on applying jobs that require the followings. </br>
