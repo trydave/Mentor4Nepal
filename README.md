@@ -76,6 +76,7 @@ Podcasts and Webinars: </br>
 Understanding Journals and Plagiarism: MUST Avoid Copy-Pasting and Publishing on Predatory Journals </br>
 - MUST READ: https://www.facebook.com/tridev/posts/10159426455243501 </br>
 - https://www.linkedin.com/posts/tridev_mentor4nepal-academicjournals-closedaccess-activity-6697692142804066304--nkN </br>
+- Predatory Publishing: The Cancer Continues to Spread https://www.enago.com/academy/predatory-publishers-cancer-blacklight </br>
 - https://predatoryjournals.com/journals/ </br>
 - https://beallslist.net/ </br>
 - If you read any journal article, try to follow the summary table: https://docs.google.com/document/d/1v53d3DzZewu-AitJvIM-0cq2yNoLgjORutS4aj7UJ6s </br>
@@ -83,8 +84,9 @@ Understanding Journals and Plagiarism: MUST Avoid Copy-Pasting and Publishing on
 - Example of plagiarism https://twitter.com/stagge_hydro/status/1569644521985822722?s=20&t=AEwGZiIfTydGlwalGwWANQ </br>
 
 List of core research journals: </br>
-- Web of Science Journals: https://drive.google.com/drive/folders/1NoMJeiYZBnoFhDSvwmwZiiqlITMNOOZc?usp=sharing </br>
+- A possible solution: https://thinkchecksubmit.org/ </br>
 - Scopus: https://www.scimagojr.com/journalrank.php </br>
+- Web of Science Journals: https://drive.google.com/drive/folders/1NoMJeiYZBnoFhDSvwmwZiiqlITMNOOZc?usp=sharing </br>
 
 Building Foundation: Doing Systemic Review: </br>
 - Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) Workflow https://www.bmj.com/content/bmj/339/bmj.b2535/F1.large.jpg?width=800&height=600 </br>
@@ -328,7 +330,7 @@ Career planning: Career planning is a lifelong process, the earlier one does, th
 - Your Career Planning Essentials https://career.berkeley.edu/Plan/Essentials </br>
 - Your Four-Year Career Plan https://careercenter.umich.edu/article/four-year-plan </br>
 
-Once you decided to go abroad to study, find the minimum requirement for the desired degree. Build a good resume, and personal statement, and draft a unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. Keep in mind that there are 100s of other students and what makes you outstanding to others. Read this advice: https://sarah-cooley.com/applying-to-graduate-school. For those who wish to join PhD read this once https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf </br>
+Once you decided to go abroad to study, find the minimum requirement for the desired degree. Build a good resume, and personal statement, and draft a unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. Keep in mind that there are 100s of other students and what makes you outstanding to others. Read blogs from here: https://mentor4nepal.blogspot.com. Also read this advice: https://sarah-cooley.com/applying-to-graduate-school. For those who wish to join PhD read this once https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf </br>
 
 Template for Cover letter and CV/Resume: </br>
 - UC Davis Career Resource Manual (CRM) https://icc.ucdavis.edu/services/crm </br>
