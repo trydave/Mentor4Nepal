@@ -20,7 +20,7 @@ A project can be an individual or a group (3 max.). Priority will be given to no
 Interested candidates (National and International) can email me at tridevacharya[at]gmail.com with their queries. To initiate any collaboration for their desired mini-project (which can be simple at this stage), please complete the following instructions (use any one method to create a sharable folder):
 - 1. [Preferred] For better collaborative writing, install BOX Drive on your Laptop/Computer via https://e3.boxcdn.net/box-installers/desktop/releases/win/Box-x64.msi. Signup with Google https://account.box.com/signup/personal?tc=annual for 10GB cloud space and go to https://app.box.com/ then create a folder name (see right top corner): Mentor4Nepal_FullFirstNameInitialLastName_TDA. eg. Mentor4Nepal_TriDevA_TDA. While creating add both of my email addresses: tridevacharya@gmail[dot]com and tdacharya[at]ucdavis.edu in the "Invite Additional People" as Editor. Now, this folder is shared with me and I can also edit everything.
 - 2. For fast internet with SSO accounts, and who are comfortable with online Google File Stream Drive install via https://dl.google.com/drive-file-stream/GoogleDriveFSSetup.exe and create a shared drive: Mentor4Nepal_FullFirstNameInitialLastName_TDA. eg. Mentor4Nepal_TriDevA_TDA. Add contributor with email address: tridevacharya@gmail[dot]com and tdacharya[at]ucdavis.edu. Now, this drive is shared with me and I can also edit everything.
-- 3. For an SSO account with Onedrive [Most student emails from university are eligible for 1TB Onedrive and free Office 365 Student] install or start and login OneDrive https://www.microsoft.com/en-us/microsoft-365/onedrive/download. Go to the OneDrive folder, and create a folder: Mentor4Nepal_FullFirstNameInitialLastName_TDA. eg. Mentor4Nepal_TriDevA_TDA. Go online and share via email address: tridevacharya@gmail[dot]com and tdacharya[at]ucdavis.edu. Now, this drive is shared with me and I can also edit everything.
+- 3. For an SSO account with OneDrive [Most student emails from university are eligible for 1TB OneDrive and free Office 365 Student] install or start and login OneDrive https://www.microsoft.com/en-us/microsoft-365/onedrive/download. Go to the OneDrive folder, and create a folder: Mentor4Nepal_FullFirstNameInitialLastName_TDA. eg. Mentor4Nepal_TriDevA_TDA. Go online and share via email address: tridevacharya@gmail[dot]com and tdacharya[at]ucdavis.edu. Now, this drive is shared with me and I can also edit everything.
 - 4. [Google is phasing out and shifting to step 2]For slower internet or offline working, install Google Drive on your Laptop/Computer. https://dl.google.com/tag/s/appguid%3D%7B3C122445-AECE-4309-90B7-85A6AEF42AC0%7D%26iid%3D%7B9648D435-67BA-D2A7-54D2-1E0B5656BF03%7D%26ap%3Duploader%26appname%3DBackup%2520and%2520Sync%26needsadmin%3Dtrue/drive/installbackupandsync.exe . Go to https://drive.google.com/ and create a folder name: Mentor4Nepal_FullFirstNameInitialLastName_TDA. e.g. Mentor4Nepal_TriDevA_TDA. Select that folder and you will see a human and + symbol, add there my email address: tridevacharya@gmail[dot]com and tdacharya[at]ucdavis.edu. Now, this folder is shared with me and I can also edit everything. 
 - Add MiniProject_applicaiton (https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck) in the folder and try to fill as much as possible. Simple ideas are welcome and can be improved collaboratively over time.
 - I will add a few files and folders later, then we will work together on them as the next step.
@@ -68,7 +68,8 @@ Reading strategies: </br>
 - https://www.activityshelter.com/reading-strategies-printable/ </br>
 
 Podcasts and Webinars: </br>
-- Organized by SONSIK, South Korea: https://youtu.be/wnzAT8UW3t4 [in Nepali] </br>
+- Organized by NGES, Nepal: Life after Graduation https://youtu.be/tPkIw4l5Q1o [in Nepali] </br>
+- Organized by SONSIK, South Korea: A step by step guide to publication https://youtu.be/wnzAT8UW3t4 [in Nepali] </br>
 - Organized by GES, Kathmandu University, Dhulikhel, Nepal: https://youtu.be/HcNkYzvkgCY </br>
 - Organized by GESAN, Pashchimanchal Campus, Tribhuvan University, Pokhara, Nepal: https://youtu.be/azqq4TQll_E </br>
 - Professors Elizabeth Matsui and Roger Peng talk about life in the academic trenches, telling it like it is. https://effortreport.libsyn.com/ </br>
@@ -145,14 +146,14 @@ Few mini-project ideas but not limited to:
 - Fusing SAR and optical data for crop/forest mapping
 - Sustainability in food water & climate ecosystem
 - Water bodies & boundaries detection with SAR
-- Surace water dynamics over a long period
+- Surface water dynamics over a long period
 - Spaceborne gravity and anomaly
 - Informal settlement identification
 - Geospatial analysis of Twitter hashtags
 - Ecosystem services value of Nepalese regions
 - Deep / Machine Learning modeling and prediction
 - Spatial analysis of wildlife disturbances in agriculture
-- Spatio‐temporal variability of climatic indicators in Nepal
+- Spatio-temporal variability of climatic indicators in Nepal
 - Identifying open space for emergency evacuations within Kathmandu
 - Annual flood/drought monitoring in Terai using multispectral or SAR imagery
 - Satellite-based characterization of urban land dynamics such as urban greenness score
@@ -196,7 +197,7 @@ Further mini-project ideas: </br>
 - [NASA FINESST 2021](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=834431/solicitationId=%7B3E72ED7E-1FBD-F815-5A4E-2DA033EF7449%7D/viewSolicitationDocument=1/Updated%20FINESST20%20Earth%20Science%20Web%20Posting.pdf)
 - [NASA FINESST 2022](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=887035/solicitationId=%7B87947100-56AE-C4DC-C511-0349862D658A%7D/viewSolicitationDocument=1/FINESST-21%20Earth%20Science%20Division%20Selections%20June%2030%202022.pdf)
 
-Collection of Ebooks: </br>
+Collection of eBooks: </br>
 R-based </br>
 - An Introduction to Statistical Learning with Applications in R https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf </br>
 - http://r-statistics.co/ or http://r-statistics.co/R-Tutorial.html </br>
@@ -242,7 +243,7 @@ Other Resources: </br>
 - @OpenAcademics Resources https://www.oacommunity.org/resources </br>
 - @WriteThatPhD Media Resources https://twitter.com/WriteThatPhD/media </br>
 - Mentoring and networking: how to make it work https://doi.org/10.1038/ni0108-3 </br>
-- UC Davis Resouces for Mentee https://grad.ucdavis.edu/resources/mentoring/mentee-resources </br>
+- UC Davis Resources for Mentee https://grad.ucdavis.edu/resources/mentoring/mentee-resources </br>
 - English Communication for Scientists https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/ </br>
 
 For those who plan to use their thesis work as a mini-project for the M4N collaboration, see the following links. It will take a year to build a foundation and plan a thesis that addresses a research gap/problem that has some implication for the sector you are focusing on or society as a whole.  </br>
@@ -279,7 +280,7 @@ Improving the English of your writings: </br>
 Given most of the inquiries I have received are for abroad studies, there are a few things to consider before taking that pathway. Read all the points and comments here https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500. Talk to your families and friends on these topics and decide </br>
 - Where will you settle: Nepal or abroad? Once outside, there is a rare chance of returning to Nepal. Now understand purpose and disadvantage of graduate degree https://lnkd.in/duWwy9hN 
 - Do you have to take care of your parents? For a few years, it will be fine, but it will be a major issue once parents reach older age.
-- When to marry, settle, have kids, and think partner's career trajectory? Most people think of themself and focus on one aspect of life and end up delaying every other aspect.
+- When to marry, settle, have kids, and think partner's career trajectory? Most people think of themselves and focus on one aspect of life and end up delaying every other aspect.
 - Above all, what's after grad school? Most students don't have a long-term plan which will leave them back in the same position what's the next escape?
 
 Understanding and evaluating aspects of life: </br>
@@ -320,7 +321,7 @@ Understanding yourself and your situation: </br>
 - What are your family members' strengths?
 - Have you ever complemented those skills/expertise to build a strong family business?
 - Have you ever planned for retirement? What age, financial figure, and where?
-- Have you ever reversed your life from your retirement plan? Age for last kid, the age for marriage, etc
+- Have you ever reversed your life from your retirement plan? Age for last kid, the age for marriage, etc.
 - Have you ever talked to your parents, and colleagues and validated your thoughts or seek advice?
 
 Career planning: Career planning is a lifelong process, the earlier one does, the better it becomes. Target your mid-term and long-term goals, and take the next step (which might be difficult compared to the easy next step) toward the career goal. </br>
@@ -385,7 +386,7 @@ Job: Job is an aspect of life that should be carefully considered while planning
   - Must have current/active TS/SCI security clearance and be willing and able to obtain CI Polygraph.
   - U.S. Citizenship is required along with the ability to obtain and maintain a U.S. government security clearance.
 - Alternative markets are for a professional land surveyor (PLS), certified geographic information systems professional (GISP), or a developer. The best is developer if you develop your skillset before entering the US or start a license for PLS, GISP, or remote pilot-in-command (RPIC) licenses asap you enter the US. The last resort is third-party contractors like KBR, TetraTech or construction companies, etc with talent acquisition/recruitment firms like InSight Global with no benefits for 6 months.
-- Divide 3-5 category of jobs you see in the market like Sat Company, PrecAg, Utility, Construction, etc. and adapt your Resume and Coverletter as per these categories.
+- Divide 3-5 category of jobs you see in the market like Sat Company, PrecAg, Utility, Construction, etc. and adapt your Resume and Cover letter as per these categories.
 - Make details relevant to the job not what you did. Remember companies want average long term employee not smart short-term jumpers.
 - Always add "After selection,..." what you will do if selected that is relevant to the job and what you will try your best to learn.
 - US-based Geospatial jobs https://www.gislounge.com/gis-job-listings/ 
