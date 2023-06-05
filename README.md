@@ -5,7 +5,7 @@
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/feed/hashtag/mentor4nepal/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/Mentor4Nepal">
   <img align="left" alt="Facebook Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -378,7 +378,7 @@ Sample Recommendation Letters: </br>
 Being a Grad Student: </br>
 - How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
 
-Job: Job is an aspect of life that should be carefully considered while planning a career and settlement. Find the minimum requirements of the targeted job while planning education and career, or else one can be back to the same position with a higher degree in hand. Research if you can find a job within 100 km, if not it will get difficult with the distance. Read the challanges of recent graduate students https://lnkd.in/gRxaCmWk </br>
+Job: Job is an aspect of life that should be carefully considered while planning a career and settlement. Find the minimum requirements of the targeted job while planning education and career, or else one can be back to the same position with a higher degree in hand. Research if you can find a job within 100 km, if not it will get difficult with the distance. Read the challenges of recent graduate students https://lnkd.in/gRxaCmWk </br>
 - **WARNING**: Most geospatial jobs in the US require Citizen/Permanent Resident, not F1/J1/H1B. Some examples are as follows. So, be careful while choosing programs and courses that are Non-STEM like MA Geography and very core geospatial like Geographic Information Sciences and Geospatial Data Science Specialization. And dont waste time on applying jobs that require the followings. </br>
   - A U.S. citizen or U.S. permanent resident.
   - Expatriate assignments will not be considered.
@@ -386,7 +386,7 @@ Job: Job is an aspect of life that should be carefully considered while planning
   - Machine Learning Quality Engineer / Image Analyst position requires being a US citizen.
   - Must have current/active TS/SCI security clearance and be willing and able to obtain CI Polygraph.
   - U.S. Citizenship is required along with the ability to obtain and maintain a U.S. government security clearance.
-- Alternative markets are for a certified geographic information systems professional (GISP) {apply if you have 4 yrs full time experience}, professional land surveyor (PLS), or a developer. The best is developer if you develop your skillset before entering the US or start a license for PLS, GISP, or remote pilot-in-command (RPIC) licenses asap you enter the US. The last resort is third-party contractors like KBR, TetraTech or construction companies, etc with talent acquisition/recruitment firms like InSight Global with no benefits for 6 months.
+- Alternative markets are for a certified geographic information systems professional (GISP: https://www.gisci.org/Students/About-the-Program), professional land surveyor (PLS), or a developer. The best is developer if you develop your skillset before entering the US or start a license for PLS, GISP, or remote pilot-in-command (RPIC) licenses asap you enter the US. The last resort is third-party contractors like KBR, TetraTech or construction companies, etc with talent acquisition/recruitment firms like InSight Global with no benefits for 6 months.
 - Divide 3-5 category of jobs you see in the market like Sat Company, PrecAg, Utility, Construction, etc. and adapt your Resume and Cover letter as per these categories.
 - Make details relevant to the job not what you did. Remember companies want average long term employee not smart short-term jumpers.
 - Always add "After selection,..." what you will do if selected that is relevant to the job and what you will try your best to learn.
@@ -413,14 +413,14 @@ Get connected with me !!!
   <img align="left" alt="TDA's Publons" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/publons.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tridev/">
-  <img align="left" alt="TDA's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="TDA's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </a>
 <a href="https://twitter.com/dev_333">
   <img align="left" alt="TDA's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/trydave">
-  <img align="left" alt="TDA's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="TDA's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://orcid.org/0000-0003-0886-4201">
   <img align="left" alt="TDA's ORCiD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/orcid.svg" />
@@ -429,7 +429,7 @@ Get connected with me !!!
   <img align="left" alt="TDA's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://mentor4nepal.blogspot.com/">
-  <img align="left" alt="#Mentor4Nepal Blogspot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+  <img align="left" alt="#Mentor4Nepal BlogSpot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 
 </br>
