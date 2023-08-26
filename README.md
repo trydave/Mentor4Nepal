@@ -15,20 +15,20 @@
 
 Theme: Application of geospatial technologies and artificial intelligence (GeoAI). The field is not limited and the project can be object detection such as land cover and features, supporting sustainable development goals in the land, water, forest, crop, and energy dynamics, linking people’s perception, activities, government action/policy to climate change, etc.
 
-A project can be an individual or a group (3 max.). Priority will be given to novelty, use of open-access data, tools, and impact on the society. Financial support can be provided for a promising project depending on the necessity and impact of the work. It is voluntary participation for your future growth, especially in academia.  It will focus on the enhancement of one’s skill set. The concept will be yours and you will be leading the project to a successful first-authored publication. I will simply guide you by answering your queries, linking the right resources, and step-by-step process of academic research and publication. Full Article Processing Charge (APC) will be supported for the open access publication in SCIE-indexed journals. See previous M4N publications: https://www.researchgate.net/project/Mentor4Nepal-Initiative and some #M4NUpdates: https://www.linkedin.com/feed/hashtag/?keywords=m4nupdate.
+A project can be an individual or a group (3 max.). Priority will be given to novelty, use of open-access data, tools, and impact on society. Financial support can be provided for a promising project depending on the necessity and impact of the work. It is voluntary participation for your future growth, especially in academia.  It will focus on the enhancement of one’s skill set. The concept will be yours and you will be leading the project to a successful first-authored publication. I will simply guide you by answering your queries, linking the right resources, and step-by-step process of academic research and publication. Full Article Processing Charge (APC) will be supported for the open access publication in SCIE-indexed journals. See previous M4N publications: https://www.researchgate.net/project/Mentor4Nepal-Initiative and some #M4NUpdates: https://www.linkedin.com/feed/hashtag/?keywords=m4nupdate.
 
 Interested candidates (National and International) can email me at tridevacharya[at]gmail.com with their queries. To initiate any collaboration for their desired mini-project (which can be simple at this stage), please complete the following instructions (use any one method to create a sharable folder):
 - 1. [Preferred] For better collaborative writing, install BOX Drive on your Laptop/Computer via https://e3.boxcdn.net/box-installers/desktop/releases/win/Box-x64.msi. Signup with Google https://account.box.com/signup/personal?tc=annual for 10GB cloud space and go to https://app.box.com/ then create a folder name (see right top corner): Mentor4Nepal_FullFirstNameInitialLastName_TDA. eg. Mentor4Nepal_TriDevA_TDA. While creating add both of my email addresses: tridevacharya@gmail[dot]com and tdacharya[at]ucdavis.edu in the "Invite Additional People" as Editor. Now, this folder is shared with me and I can also edit everything.
 - 2. For fast internet with SSO accounts, and who are comfortable with online Google File Stream Drive install via https://dl.google.com/drive-file-stream/GoogleDriveFSSetup.exe and create a shared drive: Mentor4Nepal_FullFirstNameInitialLastName_TDA. eg. Mentor4Nepal_TriDevA_TDA. Add contributor with email address: tridevacharya@gmail[dot]com and tdacharya[at]ucdavis.edu. Now, this drive is shared with me and I can also edit everything.
 - 3. For an SSO account with OneDrive [Most student emails from university are eligible for 1TB OneDrive and free Office 365 Student] install or start and login OneDrive https://www.microsoft.com/en-us/microsoft-365/onedrive/download. Go to the OneDrive folder, and create a folder: Mentor4Nepal_FullFirstNameInitialLastName_TDA. eg. Mentor4Nepal_TriDevA_TDA. Go online and share via email address: tridevacharya@gmail[dot]com and tdacharya[at]ucdavis.edu. Now, this drive is shared with me and I can also edit everything.
-- 4. [Google is phasing out and shifting to step 2]For slower internet or offline working, install Google Drive on your Laptop/Computer. https://dl.google.com/tag/s/appguid%3D%7B3C122445-AECE-4309-90B7-85A6AEF42AC0%7D%26iid%3D%7B9648D435-67BA-D2A7-54D2-1E0B5656BF03%7D%26ap%3Duploader%26appname%3DBackup%2520and%2520Sync%26needsadmin%3Dtrue/drive/installbackupandsync.exe . Go to https://drive.google.com/ and create a folder name: Mentor4Nepal_FullFirstNameInitialLastName_TDA. e.g. Mentor4Nepal_TriDevA_TDA. Select that folder and you will see a human and + symbol, add there my email address: tridevacharya@gmail[dot]com and tdacharya[at]ucdavis.edu. Now, this folder is shared with me and I can also edit everything. 
+- 4. [Google is phasing out and shifting to step 2]For slower internet or offline working, install Google Drive on your Laptop/Computer. https://dl.google.com/tag/s/appguid%3D%7B3C122445-AECE-4309-90B7-85A6AEF42AC0%7D%26iid%3D%7B9648D435-67BA-D2A7-54D2-1E0B5656BF03%7D%26ap%3Duploader%26appname%3DBackup%2520and%2520Sync%26needsadmin%3Dtrue/drive/installbackupandsync.exe . Go to https://drive.google.com/ and create a folder named Mentor4Nepal_FullFirstNameInitialLastName_TDA. e.g. Mentor4Nepal_TriDevA_TDA. Select that folder and you will see a human and + symbol, add there my email address: tridevacharya@gmail[dot]com and tdacharya[at]ucdavis.edu. Now, this folder is shared with me and I can also edit everything. 
 - Add MiniProject_applicaiton (https://docs.google.com/document/d/1Pm88SIC2nj1vLPFRRX1k7ld4nJ-os2Jd6mZiMuJtTck) in the folder and try to fill as much as possible. Simple ideas are welcome and can be improved collaboratively over time.
-- I will add a few files and folders later, then we will work together on them as the next step.
+- I will add a few files and folders later, and then we will work together on them as the next step.
 - Install Mendeley via https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe. Create an account with your Gmail here https://www.mendeley.com/join and log in to the app. Finally, watch this tutorial https://youtu.be/H4osP8Gp3Kk. To collaborate, create a group (consult for the name of the group) and invite via my and other members' Gmail, install Word and browser plugins, and start importing the bibliography on the group, not a private folder. Use PDF drag and drop for ease but use DOI search for accurate ones. 
 
-In addition, one should think of it as an opportunity to create a life-long mentor-mentee relationship to help each other for a long-term career via Facebook Group [Request only approved after a successful proposal of a project]. One-on-one career counseling will be provided along with a tailored career/research guide based on one’s interest and future milestones such as Education, Job, Investment, Settlement, Marriage, Partner's career, Kids, Family, Society, etc. Understanding these milestones from an early age and balancing them is the key to a happy future. One should carefully consider important questions like how much education I need, how much money I need to sustain my future, or when is a good time to marry, start a family and settle. An ideal case is always realizing all these in Nepal together with the family and living happily. Read https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500.
+In addition, one should think of it as an opportunity to create a life-long mentor-mentee relationship to help each other for a long-term career via Facebook Group [Request only approved after a successful proposal of a project]. One-on-one career counseling will be provided along with a tailored career/research guide based on one’s interest and future milestones such as Education, Job, Investment, Settlement, Marriage, Partner's career, Kids, Family, Society, etc. Understanding these milestones from an early age and balancing them is the key to a happy future. One should carefully consider important questions like how much education I need, how much money I need to sustain my future, or when is a good time to marry, start a family, and settle. An ideal case is always realizing all these in Nepal together with the family and living happily. Read https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500.
 
-To share the progress and reflect on the blocks, a half an hour biweekly meeting is preferred. One may go to Google Calendar https://calendar.google.com/ and create a biweekly meeting with the title "Biweekly Meeting: InitialsFirstLastName_TDA" e.g. Biweekly Meeting: TDA_TDA adding me as a guest with my Gmail only. For Nepal, 6-9:00 AM is fine with me. **Do check**, Modify events for guests so that I can adjust time as per my schedule. </br>
+To share the progress and reflect on the blocks, a half-hour biweekly meeting is preferred. One may go to Google Calendar https://calendar.google.com/ and create a biweekly meeting with the title "Biweekly Meeting: InitialsFirstLastName_TDA" e.g. Biweekly Meeting: TDA_TDA adding me as a guest with my Gmail only. For Nepal, 6-9:00 AM is fine with me. **Do check**, Modify events for guests so that I can adjust time as per my schedule. </br>
 
 First, follow the blog here: https://mentor4nepal.blogspot.com/ or https://www.facebook.com/Mentor4Nepal </br>
 
@@ -45,7 +45,7 @@ Then, the Imposter syndrome [Everyone goes through it. So, forget it and focus o
 - Tackling in the Pursuit of Advanced Degrees in STEM: https://www.linkedin.com/pulse/tackling-impostor-syndrome-pursuit-advanced-degrees-stem-jay-flores/ </br>
 - How to deal with it via OpenAcademics: https://static.wixstatic.com/media/75feef_52b43728d570477f9b8d2d53047839fe~mv2.png </br>
 
-Finally, the types of intelligence [Everyone is different and have their strength and weakness So, focus on what are you good at and forget the rest.] </br>
+Finally, the types of intelligence [Everyone is different and have their strength and weakness, focus on what are you good at and forget the rest.] </br>
 - MUST READ: Theory of multiple intelligences: https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences </br>
 - Howard Gardener's 9 types of intelligence: https://100stepsmission.com/2018/10/19/using-the-9-types-of-intelligence-in-management/ </br>
 
@@ -69,7 +69,7 @@ Reading strategies: </br>
 
 Podcasts and Webinars: </br>
 - Organized by NGES, Nepal: Life after Graduation https://youtu.be/tPkIw4l5Q1o [in Nepali] </br>
-- Organized by SONSIK, South Korea: A step by step guide to publication https://youtu.be/wnzAT8UW3t4 [in Nepali] </br>
+- Organized by SONSIK, South Korea: A step-by-step guide to publication https://youtu.be/wnzAT8UW3t4 [in Nepali] </br>
 - Organized by GES, Kathmandu University, Dhulikhel, Nepal: https://youtu.be/HcNkYzvkgCY </br>
 - Organized by GESAN, Pashchimanchal Campus, Tribhuvan University, Pokhara, Nepal: https://youtu.be/azqq4TQll_E </br>
 - Professors Elizabeth Matsui and Roger Peng talk about life in the academic trenches, telling it like it is. https://effortreport.libsyn.com/ </br>
@@ -129,7 +129,7 @@ Components of Successful Manuscript: </br>
 - https://projects.ncsu.edu/eslglobe/nmswishe/IMRAD---for_diss_workshop-1.pdf </br>
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1318504/pdf/jathtrain00019-0011.pdf </br>
 
-Few mini-project ideas but not limited to:
+A few mini-project ideas but not limited to:
 - GIS & Transportation
   - Agent-based modeling of logistics services
   - Visualizing the transportation inequality in Nepalese cities
@@ -272,16 +272,16 @@ Thesis Proposal:
 - https://youtu.be/DFp1uGTXo4Q </br>
 
 Improving the English of your writings: </br>
-- Use MS Word Editor: First go to your Review tab, select your language (British or American English), and then open the editor to check spelling and grammar. </br>
+- Use MS Word Editor: First, go to your Review tab, select your language (British or American English), and then open the editor to check spelling and grammar. </br>
 - Use external tools such as Grammarly: Install MS Office and Chrome plugins: https://app.grammarly.com/apps and use them to check grammar at the end of the above process. </br>
 - [ALERT] Use Google/Word Docs Online: As you will be working on Google Drive or BOX with me, you may also open the file with Google Docs (GD online erases the format and can't use reference via Mendeley) or Word online (in BOX you can use open with word online) and it will check English by default. </br>
 - For reading use this addon https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja </br>
  
 Given most of the inquiries I have received are for abroad studies, there are a few things to consider before taking that pathway. Read all the points and comments here https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500. Talk to your families and friends on these topics and decide </br>
-- Where will you settle: Nepal or abroad? Once outside, there is a rare chance of returning to Nepal. Now understand purpose and disadvantage of graduate degree https://lnkd.in/duWwy9hN 
+- Where will you settle: Nepal or abroad? Once outside, there is a rare chance of returning to Nepal. Now understand the purpose and disadvantages of a graduate degree https://lnkd.in/duWwy9hN 
 - Do you have to take care of your parents? For a few years, it will be fine, but it will be a major issue once parents reach older age.
 - When to marry, settle, have kids, and think partner's career trajectory? Most people think of themselves and focus on one aspect of life and end up delaying every other aspect.
-- Above all, what's after grad school? Most students don't have a long-term plan which will leave them back in the same position what's the next escape?
+- Above all, what's after grad school? Most students don't have a long-term plan that will leave them back in the same position what's the next escape?
 
 Understanding and evaluating aspects of life: </br>
 - Five major aspects of life: https://i1.wp.com/themindfool.com/wp-content/uploads/2020/01/The-5-Crucial-Aspects-of-Life-How-to-Balance-Them-01.jpg </br>
@@ -303,26 +303,26 @@ Understanding yourself and your situation: </br>
 - What is your next life goal, not career or education?
 - What is your family legacy in the country?
 - What do your parents want for you?
-- What is your next promotion look like?
+- What does your next promotion look like?
 - Do you have those skills and requirements to compete?
 - What exactly are you missing from this promotion?
 - If you know the missing piece, are you on track to gain that knowledge?
 - What's the roadblock?
-- Have you asked searched the internet, asked seniors, or consulted your teachers or parents ever? 
-- Are you taking small steps at a time or just thinking big only?
+- Have you asked searched the internet, asked seniors, or consulted your teachers or parents? 
+- Are you taking small steps at a time or just thinking big?
 - What is your economic threshold? How much is basic security for you?
-- What skill can enhance your earning, not adding certificates that overqualified you in the job market?
+- What skill can enhance your earnings, not adding certificates that overqualify you in the job market?
 - Are you afraid to leave your comfort zone?
 - Are you running away from problems and conflicts in life?
 - Can you see problems around you? Problems in daily life, work, and everywhere?
-- What is stopping you to solve these problems?
+- What is stopping you from solving these problems?
 - Can you develop a business model out of these problems to generate an economy and job market?
 - Have you ever tried hobby jobs on the weekend or free time?
 - What are your family members' strengths?
 - Have you ever complemented those skills/expertise to build a strong family business?
 - Have you ever planned for retirement? What age, financial figure, and where?
-- Have you ever reversed your life from your retirement plan? Age for last kid, the age for marriage, etc.
-- Have you ever talked to your parents, and colleagues and validated your thoughts or seek advice?
+- Have you ever reversed your life from your retirement plan? Age for the last kid, the age for marriage, etc.
+- Have you ever talked to your parents, and colleagues and validated your thoughts or sought advice?
 
 Career planning: Career planning is a lifelong process, the earlier one does, the better it becomes. Target your mid-term and long-term goals, and take the next step (which might be difficult compared to the easy next step) toward the career goal. </br>
 - Do proper career research and planning https://icc.ucdavis.edu/research </br>
@@ -331,7 +331,7 @@ Career planning: Career planning is a lifelong process, the earlier one does, th
 - Your Career Planning Essentials https://career.berkeley.edu/Plan/Essentials </br>
 - Your Four-Year Career Plan https://careercenter.umich.edu/article/four-year-plan </br>
 
-Once you decided to go abroad to study, find the minimum requirement for the desired degree. Build a good resume, and personal statement, and draft a unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. Keep in mind that there are 100s of other students and what makes you outstanding to others. Read blogs from here: https://mentor4nepal.blogspot.com. Also read this advice: https://sarah-cooley.com/applying-to-graduate-school. For those who wish to join PhD read this once https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf </br>
+Once you decide to go abroad to study, find the minimum requirement for the desired degree. Build a good resume, and personal statement, and draft a unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. Keep in mind that there are 100s of other students and what makes you outstanding to others. Read blogs from here: https://mentor4nepal.blogspot.com. Also read this advice: https://sarah-cooley.com/applying-to-graduate-school. For those who wish to join PhD read this once https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf </br>
 
 Template for Cover letter and CV/Resume: </br>
 - UC Davis Career Resource Manual (CRM) https://icc.ucdavis.edu/services/crm </br>
@@ -378,17 +378,19 @@ Sample Recommendation Letters: </br>
 Being a Grad Student: </br>
 - How to be a Good Graduate Student: https://youtu.be/b-WDNE24UKE </br>
 
+Geospatial degree: Geomatics engineering is a terminal degree and GIS?RS/GPS are tools. There is nothing beyond it. Masters or post-grad in GIS/RS are for those who are not from the geomatics background and want to learn these tools to support their research or enhance their analysis skills in a particular domain. Repeating the same GIS/RS/WebGIS course is not a good choice. It is advised to build a solid foundation in a particular domain such as hydrology, urban planning, environment science, geology/geosciences, coastal/marine, cryosphere, etc. If you are not coming from different undergraduate and graduate programs, a PhD in the geospatial domain is also not very useful in industry or research.
+
 Job: Job is an aspect of life that should be carefully considered while planning a career and settlement. Find the minimum requirements of the targeted job while planning education and career, or else one can be back to the same position with a higher degree in hand. Research if you can find a job within 100 km, if not it will get difficult with the distance. Read the challenges of recent graduate students https://lnkd.in/gRxaCmWk </br>
-- **WARNING**: Most geospatial jobs in the US require Citizen/Permanent Resident, not F1/J1/H1B. Some examples are as follows. So, be careful while choosing programs and courses that are Non-STEM like MA Geography and very core geospatial like Geographic Information Sciences and Geospatial Data Science Specialization. And dont waste time on applying jobs that require the followings. </br>
+- **WARNING**: Most geospatial jobs in the US require Citizen/Permanent Resident, not F1/J1/H1B. Some examples are as follows. So, be careful while choosing programs and courses that are non-STEM like MA Geography, and very core geospatial like Geographic Information Sciences and Geospatial Data Science Specialization. And don't waste time on applying for jobs that require the following. </br>
   - A U.S. citizen or U.S. permanent resident.
   - Expatriate assignments will not be considered.
   - Active Top Secret/SCI Clearance or ability and desire to obtain a clearance.
   - Machine Learning Quality Engineer / Image Analyst position requires being a US citizen.
   - Must have current/active TS/SCI security clearance and be willing and able to obtain CI Polygraph.
   - U.S. Citizenship is required along with the ability to obtain and maintain a U.S. government security clearance.
-- Alternative markets are for a certified geographic information systems professional (GISP: https://www.gisci.org/Students/About-the-Program), professional land surveyor (PLS), or a developer. The best is developer if you develop your skillset before entering the US or start a license for PLS, GISP, or remote pilot-in-command (RPIC) licenses asap you enter the US. The last resort is third-party contractors like KBR, TetraTech or construction companies, etc with talent acquisition/recruitment firms like InSight Global with no benefits for 6 months.
-- Divide 3-5 category of jobs you see in the market like Sat Company, PrecAg, Utility, Construction, etc. and adapt your Resume and Cover letter as per these categories.
-- Make details relevant to the job not what you did. Remember companies want average long term employee not smart short-term jumpers.
+- Alternative markets are for a certified geographic information systems professional (GISP: https://www.gisci.org/Students/About-the-Program), a professional land surveyor (PLS), or a developer. The best is developer if you develop your skillset before entering the US or start a license for PLS, GISP, or remote pilot-in-command (RPIC) licenses asap you enter the US. The last resort is third-party contractors like KBR, TetraTech construction companies, etc. with talent acquisition/recruitment firms like InSight Global with no benefits for 6 months.
+- Divide 3-5 categories of jobs you see in the market like Sat Company, PrecAg, Utility, Construction, etc., and adapt your Resume and Cover letter as per these categories.
+- Make details relevant to the job not what you did. Remember companies want average long-term employees not smart short-term jumpers.
 - Always add "After selection,..." what you will do if selected that is relevant to the job and what you will try your best to learn.
 - US-based Geospatial jobs https://www.gislounge.com/gis-job-listings/ 
 - US-based Data Science jobs https://datalab.ucdavis.edu/jobs/ </br>
