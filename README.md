@@ -331,7 +331,7 @@ Career planning: Career planning is a lifelong process, the earlier one does, th
 - Your Career Planning Essentials https://career.berkeley.edu/Plan/Essentials </br>
 - Your Four-Year Career Plan https://careercenter.umich.edu/article/four-year-plan </br>
 
-Once you decide to go abroad to study, find the minimum requirement for the desired degree. Build a good resume, and personal statement, and draft a unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. Keep in mind that there are 100s of other students and what makes you outstanding to others. Read blogs from here: https://mentor4nepal.blogspot.com. Also read this advice: https://sarah-cooley.com/applying-to-graduate-school. For those who wish to join PhD read this once https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf </br>
+Once you decide to go abroad to study, find the minimum requirement for the desired degree. Build a good resume, and personal statement, and draft a unique specific email to professors that perfectly matches your interest. Random emailing might not get any reply. Keep in mind that there are 100s of other students and what makes you outstanding to others. Read blogs from here: https://mentor4nepal.blogspot.com. Also read this advice: https://sarah-cooley.com/applying-to-graduate-school. For those who wish to join PhD read this once https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf. Personally, a bachelor's degree is easy in developing countries, a master's is perfect for going abroad and a Ph.D. is a huge waste of time, earnings, and energy in life. </br>
 
 Template for Cover letter and CV/Resume: </br>
 - UC Davis Career Resource Manual (CRM) https://icc.ucdavis.edu/services/crm </br>
@@ -400,6 +400,7 @@ Job: Job is an aspect of life that should be carefully considered while planning
 - Other job boards https://icc.ucdavis.edu/find/resources/online-job-search/job-boards </br>
 - Negotiation https://www.glassdoor.com/blog/salary-negotiation-scripts-for-any-job/ </br>
 - Utilizing LinkedIn https://www.topresume.com/career-advice/14-ways-to-leverage-your-linkedin-profile-during-your-job-search </br>
+- Current US market and Canada as an alternate: https://youtu.be/C6nOWE8betQ </br>
 
 </div>
 </br>
