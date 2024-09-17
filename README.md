@@ -340,7 +340,7 @@ Template for Cover letter and CV/Resume: </br>
 - https://mitcommlab.mit.edu/cee/commkit/cv-resume/ </br>
 - https://resumegenius.com/blog/resume-help/star-method-resume </br>
 - https://ocs.yale.edu/channels/sample-cover-letters-correspondence/ </br>
-- https://ocs.yale.edu/channels/resume-samples-tools/ </br>
+- Yale Resume Templates https://ocs.yale.edu/channels/resumes/ </br>
 - https://www.science.org/content/article/how-write-winning-r-sum </br>
 - https://gradcareers.nd.edu/application-process/templates-and-examples/ </br>
 - https://career.ucsf.edu/phds/academic-careers/academic-samples#Samples </br>
