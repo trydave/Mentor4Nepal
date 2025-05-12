@@ -273,15 +273,15 @@ Thesis Proposal:
 
 Improving the English of your writings: </br>
 - Use MS Word Editor: First, go to your Review tab, select your language (British or American English), and then open the editor to check spelling and grammar. </br>
-- Use external tools such as Grammarly: Install MS Office and Chrome plugins: https://app.grammarly.com/apps and use them to check grammar at the end of the above process. </br>
+- Use external tools such as Grammarly: Install MS Office and Chrome plugins: https://app.grammarly.com/apps, and use them to check grammar at the end of the above process. </br>
 - [ALERT] Use Google/Word Docs Online: As you will be working on Google Drive or BOX with me, you may also open the file with Google Docs (GD online erases the format and can't use reference via Mendeley) or Word online (in BOX you can use open with word online) and it will check English by default. </br>
-- For reading use this addon https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja </br>
+- For reading, use this addon https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja </br>
  
-Given most of the inquiries I have received are for abroad studies, there are a few things to consider before taking that pathway. Read all the points and comments here https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500. Talk to your families and friends on these topics and decide </br>
+Given that most of the inquiries I have received are for abroad studies, there are a few things to consider before taking that pathway. Read all the points and comments here https://www.facebook.com/story.php?story_fbid=10159465595218501&id=795108500. Talk to your families and friends on these topics and decide </br>
 - Where will you settle: Nepal or abroad? Once outside, there is a rare chance of returning to Nepal. Now understand the purpose and disadvantages of a graduate degree https://lnkd.in/duWwy9hN 
 - Do you have to take care of your parents? For a few years, it will be fine, but it will be a major issue once parents reach older age.
-- When to marry, settle, have kids, and think partner's career trajectory? Most people think of themselves and focus on one aspect of life and end up delaying every other aspect.
-- Above all, what's after grad school? Most students don't have a long-term plan that will leave them back in the same position what's the next escape?
+- When to marry, settle, have kids, and think about partner's career trajectory? Most people think of themselves and focus on one aspect of life and end up delaying every other aspect.
+- Above all, what's after grad school? Most students don't have a long-term plan that will leave them in the same position. What's the next escape?
 
 Understanding and evaluating aspects of life: </br>
 - Five major aspects of life: https://i1.wp.com/themindfool.com/wp-content/uploads/2020/01/The-5-Crucial-Aspects-of-Life-How-to-Balance-Them-01.jpg </br>
@@ -339,8 +339,8 @@ Template for Cover letter and CV/Resume: </br>
 - Resume types https://www.zipjob.com/blog/resume-format-types/ </br>
 - https://mitcommlab.mit.edu/cee/commkit/cv-resume/ </br>
 - https://resumegenius.com/blog/resume-help/star-method-resume </br>
-- https://ocs.yale.edu/channels/sample-cover-letters-correspondence/ </br>
 - Yale Resume Templates https://ocs.yale.edu/channels/resumes/ </br>
+- https://ocs.yale.edu/channels/cover-letters-correspondence/ </br>
 - https://www.science.org/content/article/how-write-winning-r-sum </br>
 - https://gradcareers.nd.edu/application-process/templates-and-examples/ </br>
 - https://career.ucsf.edu/phds/academic-careers/academic-samples#Samples </br>
